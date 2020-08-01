@@ -1,0 +1,2531 @@
+问答系统
+自己到词库里写，谢谢合作
+
+赞|赞我|👍
+$点赞 %QQ% 10$
+A:$读 卡片数据/赞限制/%QQ%/赞时间 a 0$
+如果:%A%==%时间dd%
+【%昵称%】±img=http://ww3.sinaimg.cn/large/0060lm7Tly1fk8ulu1iujg3064064glu.gif±赞名片失败当天已经赞过你了！\r需要更多赞请点击链接自助下单http://fuzui.mpz8.cn/
+返回
+如果尾
+$写 卡片数据/赞限制/%QQ%/赞时间 a %时间dd%$
+$点赞 %QQ% 10$
+【%昵称%】±img=http://ww3.sinaimg.cn/large/0060lm7Tly1fk8ulu1iujg3064064glu.gif±赞名片成功已经赞你十次了，请回【赞主人】主人十赞十回
+
+.*大家好，我是.*
+F:$读 卡片数据/%群号%/%QQ%/欢迎 a 0$
+如果:%P%==0
+返回
+如果尾
+如果:%F%==1
+返回
+如果尾
+=====欢迎新人=====\r±img=http://q2.qlogo.cn/headimg_dl?bs=qq&dst_uin=%QQ%&spec=100±\r【%昵称%】%QQ%\r\r😘亲爱的麻烦不要发广告呦\r\r请%昵称%看好公告\r\r违者后果自负！！！\r————————\r公告：$读 功能数据/%群号%/公告2 a 1$\r=====欢迎光临=====
+$写 卡片数据/%群号%/%QQ%/欢迎 a 1$
+
+  
+机器斗图
+=====无情群管=====\r发送斗图即可\r可能内容有点少，会慢慢更新，感谢使用\r=====斗图系统=====\r公告:$读 功能数据/%群号%/公告2 a 1$
+
+电影 .*
+如果:$读 卡片数据/%群号%/运行状态 g 0$
+返回
+如果尾
+$访问 http://a.jaxmz.cn/dy.php?&dy=%参数1%$
+
+附近签到
+http://50r.cn/MmbzRM
+
+设置公告 .*
+P:$读 卡片数据/%群号%/%QQ%/小主人 a 0$
+如果:%P%==1
+$写 功能数据/%群号%/公告2 a %参数1%$
+🔥====无情====🔥\r
+设置成功
+返回
+如果尾
+🔥====无情====🔥\r
+设置失败，你不是我的主人。
+
+关闭整点
+A:$读 卡片数据/%群号%/%QQ%/小主人 a 0$
+如果:%A%==1
+📬====无情群管====📬\r关闭整点报时成功！\r📬====操作成功====📬
+$写 卡片数据/%群号%/整点报时 a 0$
+返回
+如果尾
+哎呀，我主人呢，你   不是。你不可以命令我
+
+开启整点
+A:$读 卡片数据/%群号%/%QQ%/小主人 a 0$
+如果:%A%==1
+📬====无情群管====📬\r开启整点报时成功！到整点会报时哦！\r如关闭主程序了请重新开启\r📬====操作成功====📬
+$写 卡片数据/%群号%/整点报时 a 1$
+$调用 500 时$
+返回
+如果尾
+哎呀，我主人呢，你   不是。你不可以命令我
+
+报
+A:$读 卡片数据/%群号%/整点报时 a 0$
+如果:%A%==0
+返回
+如果尾
+如果:%时间mmss%==0000|%时间mmss%==3000
+card:1
+<?xml version='1.0' encoding='UTF-8' standalone='yes' ?><msg serviceID="2" templateID="1" action="web" brief="整点报时 (Live)" sourcemsgId="0" url="http://i.y.qq.com/v8/playsong.html?hostuin=475685722&amp;songid=105637574&amp;appshare=android_qq&amp;type=0&amp;platform=11&amp;appsongtype=1&amp;_wv=1&amp;source=qq" flag="0" adverSign="0" multimsgFlag="0"><item layout="2"><audio cover="http://url.cn/27HPc6s" src="http://url.cn/43fABoO" /><title>北京时间</title><summary>%时间yyyy年MM月dd日%   %时间HH:mm% %时间EEEE% %时间aa%</summary></item><source name="无情" icon="http://q2.qlogo.cn/headimg_dl?dst_uin=1718967643&amp;spec=100"/></msg>
+$调用 1000 报$
+返回
+如果尾
+如果:%时间mmss%==0002
+D:%随机数5-10%
+$写 卡片数据/%群号%/色狼 a %D%$
+card:1
+<?xml version='1.0' encoding='UTF-8'?><msg serviceID="6" templateID="1" action="web" brief="无情+" url="http://t.cn/R68q0q2" flag="3"><item layout="1"><picture cover="http://paper.gdzjdaily.com.cn/resfile/2013-06-28/A05/p67_b.jpg"/><title size="50" style="3" color="#32CD99">     广播通知</title><summary style="3" color="#238EE3">😍本群内出现【%D%】名色狼</summary></item><item layout="6"><hr/><summary style="4" size="27" color="#921AFF">😍正在调试群内的妹子&#013;🌂群友赶紧出来打色狼&#013;🌂命令：【打色狼】</summary></item><source name="无情" icon="http://q2.qlogo.cn/headimg_dl?dst_uin=1718967643&amp;spec=100"/></msg>
+$调用 1000 报$
+返回
+如果尾
+如果:%时间mmss%==3002
+card:1
+<?xml version='1.0' encoding='UTF-8'?><msg serviceID="6" templateID="1" action="web" brief="无情+" url="http://t.cn/R68q0q2" flag="3"><item layout="1"><picture cover="http://ys-d.ys168.com/576126461/iGXN33l3L3733773MMU/-6d7bc81fa72fae.gif"/><title size="50" style="3" color="#32CD99">广播通知</title><summary style="4" color="#238EE3">抢楼活动已开始&#013;成员发送：【抢楼】&#013;即可抢到积分！</summary></item><source name="无情" icon="http://q2.qlogo.cn/headimg_dl?dst_uin=1718967643&amp;spec=100"/></msg>  
+$写 卡片数据/%群号%/抢楼开关 a 1$
+$调用 800 报$
+返回
+如果尾
+如果:%时间mmss%==4000
+card:1
+<?xml version='1.0' encoding='UTF-8'?><msg serviceID="6" templateID="1" action="web" brief="无情+" url="http://t.cn/R68q0q2" flag="3"><item layout="1"><picture cover="http://ys-d.ys168.com/576126461/iGXN33l3L3733773MMU/-6d7bc81fa72fae.gif"/><title size="40" style="3" color="#32CD99">广播通知</title><summary style="3" color="#238EE3">本次抢楼活动已经结束&#013;请到下个半点再抢吧！&#013;命令格式是:【抢楼】！</summary></item><source name="无情" icon="http://q2.qlogo.cn/headimg_dl?dst_uin=1718967643&amp;spec=100"/></msg>  
+$写 卡片数据/%群号%/抢楼开关 a 0$
+$写 卡片数据/%群号%/抢楼 a 0$
+$调用 800 报$
+返回
+如果尾
+$调用 800 报$
+
+版本信息
+无情机器人3.0版本\r
+曾用名奥利奥机器人\r
+更新好多\r
+有啥问题欢迎反馈\r
+支持正版反对盗版
+
+打色狼.*
+D:$读 卡片数据/%群号%/%QQ%/积分 a 0$
+E:$读 卡片数据/%群号%/色狼 a 0$
+card:1
+<?xml version='1.0' encoding='UTF-8'?><msg serviceID="6" templateID="1" action="web" brief="无情+" url="http://t.cn/R68q0q2" flag="3"><item layout="1"><picture cover="http://ys-d.ys168.com/576126461/iGXN33l3L3733773MMU/-6d7bc81fa72fae.gif"/><title size="30" style="3" color="#32CD99">   无情</title><summary style="3" color="#238EE3">   %时间MM月dd日HH时mm分ss秒%</summary></item><item layout="6"><hr/><summary style="4" size="27" color="#921AFF">操作者:%昵称%&#013;
+如果:%E%==0
+本次出现的色狼被打光了，请下次出现色狼再打！</summary></item><source name="无情" icon="http://q2.qlogo.cn/headimg_dl?dst_uin=1718967643&amp;spec=100"/></msg>  
+返回
+如果尾
+如果:%E%==1
+L:%随机数5000-15000%
+$写 卡片数据/%群号%/%QQ%/积分 a [%D%+%L%]$
+$写 卡片数据/%群号%/色狼 a [%E%-1]$
+🌂成功打跑了1个色狼！&#013;🌂本次获得%L%金币💰💰&#013;🌂本轮色狼消灭完了</summary></item><source name="无情" icon="http://q2.qlogo.cn/headimg_dl?dst_uin=1718967643&amp;spec=100"/></msg>  
+返回
+如果尾
+L:%随机数5000-15000%
+$写 卡片数据/%群号%/色狼 a [%E%-1]$
+$写 卡片数据/%群号%/%QQ%/积分 a [%D%+%L%]$
+🌂成功打跑了 1个色狼！&#013;🌂本次获得%L%金币💰💰&#013;🌂还剩[%E%-1]名色狼，请赶紧消灭他们&#013;🌂【发送：打色狼】</summary></item><source name="无情" icon="http://q2.qlogo.cn/headimg_dl?dst_uin=1718967643&amp;spec=100"/></msg>  
+
+抢楼.*
+D:$读 卡片数据/%群号%/%QQ%/积分 a 0$
+E:$读 卡片数据/%群号%/抢楼开关 a 0$
+F:%随机数5000-50000%
+G:$读 卡片数据/%群号%/抢楼 a 0$
+H:$读 卡片数据/%群号%/%QQ%/抢楼限制 a 0$
+P:$读 卡片数据/%群号%/运行状态 g 0$
+如果:%P%==0
+$调用 50 关机框架$
+返回
+如果尾
+card:1
+<?xml version='1.0' encoding='UTF-8'?><msg serviceID="6" templateID="1" action="web" brief="无情+" url="http://t.cn/R68q0q2" flag="3"><item layout="1"><picture cover="http://comic.qq.com/images/comic/2013/06/paopaobingbizhi/1.jpg"/><title size="30" style="3" color="#32CD99">   无情</title><summary style="3" color="#238EE3">   %时间MM月dd日HH时mm分ss秒%</summary></item><item layout="6"><hr/><summary style="4" size="27" color="#921AFF">
+如果:%E%==0
+『%昵称%』抢楼还没开始哦！抢楼活动在每小时半点开启^O^</summary></item><source name="无情" icon="http://q2.qlogo.cn/headimg_dl?dst_uin=1718967643&amp;spec=100"/></msg>
+返回
+如果尾
+如果:%时间HH%==%H%
+『%昵称%』你已抢过楼层</summary></item><source name="无情" icon="http://q2.qlogo.cn/headimg_dl?dst_uin=1718967643&amp;spec=100"/></msg>
+返回
+如果尾
+$写 卡片数据/%群号%/%QQ%/抢楼限制 a %时间HH%$
+$写 卡片数据/%群号%/抢楼 a [%G%+1]$
+$写 卡片数据/%群号%/%QQ%/积分 a [%D%+%F%]$
+±img=http://q2.qlogo.cn/headimg_dl?bs=qq&dst_uin=%QQ%&spec=100±【%昵称%】恭喜你抢到[%G%+1]楼获得%F%金币</summary></item><source name="无情" icon="http://q2.qlogo.cn/headig_dl?dst_uin=1718967643&amp;spec=100"/></msg>
+
+(功能|帮助|菜单)
+P:$读 卡片数据/%群号%/运行状态 g 0$
+G:$读 卡片数据/%群号%/授权 a 0$
+D:%随机数10-2758%
+E:%随机数1-9%
+======无情群管======\r❀积分系统❀充扣系统❀\r❀银行系统❀群管系统❀\r❀腾讯服务❀音乐系统❀\r❀点赞系统❀留言系统❀\r❀会员系统❀炸弹系统❀\r❀投票系统❀购物系统❀\r❀坐骑系统❀卡密系统❀\r❀图片系统❀授权管理❀\r❀福利系统❀游戏系统❀\r❀便民系统❀测试功能❀\r❀测试功能❀问答系统❀\r❀装逼系统❀机器斗图❀\r❀版本信息❀影视会员❀\r======感谢使用======\r公告：$读 功能数据/%群号%/公告2 a 1$
+$写 卡片数据/%群号%/%主人%/小主人 a 1$
+$写 卡片数据/%群号%/%主人%/授权 a 1$
+$写 卡片数据/%群号%/授权 a 1$
+$写 卡片数据/%群号%/运行状态 g 1$
+
+
+
+图片系统
+P:$读 卡片数据/%群号%/运行状态 g 0$
+如果:%P%==0
+返回
+如果尾
+🔥====无情====🔥\r搜图 内容\r举牌 内容\r看美女\r看妹子\r看二次元\r免费使用不需要花费金币\r🔥====无情====🔥
+
+(打卡|签到)
+P:$读 卡片数据/%群号%/运行状态 g 0$
+M:$读 卡片数据/%群号%/%QQ%/时间 a 0$
+D:$读 卡片数据/%群号%/%QQ%/积分 a 0$
+E:$读 卡片数据/%群号%/%QQ%/经验 a 0$
+F:$读 卡片数据/%群号%/%QQ%/荣誉 a 0$
+G:$读 卡片数据/%群号%/%QQ%/累计 a 0$
+H:$读 卡片数据/%群号%/%QQ%/体力 a 0$
+J:%随机数1000-2000%
+K:%随机数10-500%
+L:%随机数500-1000%
+如果:%P%==0
+$调用 50 关机框架$
+返回
+如果尾
+如果:%M%==%时间dd%
+======签到系统======±img=http://q2.qlogo.cn/headimg_dl?bs=qq&dst_uin=%QQ%&spec=100±昵称:%昵称%\r签到失败!\r您当天已经签到过了！\r重复签到扣除500积分\r并打了你屁股一下\r======签到失败======
+$写 卡片数据/%群号%/%QQ%/积分 a [%D%-500]$
+返回
+如果尾
+$写 卡片数据/%群号%/%QQ%/积分 a [%D%+%J%]$
+$写 卡片数据/%群号%/%QQ%/时间 a %时间dd%$
+$写 卡片数据/%群号%/%QQ%/经验 a [%E%+%K%]$
+$写 卡片数据/%群号%/%QQ%/荣誉 a [%F%+%L%]$
+$写 卡片数据/%群号%/%QQ%/累计 a [%G%+1]$
+$写 卡片数据/%群号%/%QQ%/体力 a [%H%+50]$
+$写 卡片数据/%群号%/时间 a %时间dd%$
+======签到系统======±img=http://q2.qlogo.cn/headimg_dl?bs=qq&dst_uin=%QQ%&spec=100±[操作用户]:%昵称%%QQ%\r[签到状态]:您已经签到成功\r[获得金币]:%J%\r[获得经验]:%K%\r[获得荣誉]:%L%\r[获得体力]:50\r[累计签到]:[%G%+1]天\r[签到时间]:%时间MM-dd-HH:mm%\r======签到成功=======
+
+生成法拉利 .*
+【%昵称%】您的图片来了±img=http://deepba.com/paper/news/hcdd/img.php?id=1&txt1=%参数1%±
+
+生成保时捷 .*
+【%昵称%】您的图片来了±img=http://deepba.com/paper/news/hcdd/img.php?id=2&txt1=%参数1%±
+
+生成奔驰 .*
+【%昵称%】您的图片来了±img=http://deepba.com/paper/news/hcdd/img.php?id=3&txt1=%参数1%±
+
+生成玛莎拉蒂 .*
+【%昵称%】您的图片来了±img=http://deepba.com/paper/news/msld/img.php?id=1&txt1=%参数1%±
+
+生成私人飞机 .*
+【%昵称%】您的图片来了±img=http://deepba.com/paper/news/srfj/img.php?txt1=%参数1%±
+
+生成充气娃娃 .*
+【%昵称%】您的图片来了±img=http://deepba.com/paper/news/cqww/img.php?txt1=%参数1%±
+
+生成病危通知 .*
+【%昵称%】您的图片来了±img=http://deepba.com/paper/news/bwtzs/img.php?txt1=%参数1%±
+
+生成装逼证 .*
+【%昵称%】您的图片来了±img=http://deepba.com/paper/news/zbxkz/img.php?txt1=%参数1%±
+
+生成贫困证 .*
+【%昵称%】您的图片来了±img=http://deepba.com/paper/news/pkz/img.php?txt1=%参数1%±
+
+生成催乳师资格证 .*
+【%昵称%】您的图片来了±img=http://deepba.com/paper/news/crs/img.php?txt1=%参数1%±
+
+生成孕检报告 .*
+【%昵称%】您的图片来了±img=http://deepba.com/paper/news/yybg/img.php?txt1=%参数1%±
+
+生成跆拳道黑段 .*
+【%昵称%】您的图片来了±img=http://deepba.com/paper/news/tqdhd/img.php?txt1=%参数1%±
+
+生成奖金支票 .*
+【%昵称%】您的图片来了±img=http://deepba.com/paper/news/xmjj/img.php?id=1&txt1=%参数1%±
+
+生成捐精补助 .*
+【%昵称%】您的图片来了±img=http://deepba.com/paper/news/jjbz/img.php?txt1=%参数1%±
+
+生成月球广告 .*
+【%昵称%】您的图片来了±img=http://deepba.com/paper/news/yqjp/img.php?txt1=%参数1%±
+
+装逼系统
+======无情群管=======\r生成月球广告 内容\r生成捐精补助 内容\r生成奖金支票 内容\r生成跆拳道黑段 内容\r生成孕检报告 内容\r生成催乳师资格证 内容\r生成贫困证 内容\r生成装逼证 内容\r生成病危通知 内容\r生成充气娃娃 内容\r生成私人飞机 内容\r生成玛莎拉蒂 内容\r生成奔驰 内容\r生成保时捷 内容\r生成法拉利 内容\r======装逼系统======
+
+举牌 .*
+a:$访问 http://zgz.qg520.top/jp.php?&msg=%参数1%$
+【%昵称%】您的图片来了±img=%a%±
+
+授权管理
+P:$读 卡片数据/%群号%/运行状态 g 0$
+如果:%P%==0
+返回
+如果尾
+🈲====无情群管====🈲\r生成授权@人名\r授权 授权码\r解除授权 QQ\r🈲====授权管理====🈲公告:$读 功能数据/%群号%/公告2 a 1$\r此功能除了授权之外只允许作者使用
+
+关福利
+T:$读 卡片数据/%群号%/%QQ%/小主人 a 0$
+如果:%T%==1
+$写 卡片数据/%群号%/运行状态 g 0$
+🔞====福利系统====🔞\r主人成功关闭福利系统，感谢使用\r🔞====关闭成功====🔞
+返回
+如果尾
+🔞====福利系统====🔞\r关闭失败，请联系主人\r🔞====关闭失败====🔞
+
+开福利
+T:$读 卡片数据/%群号%/%QQ%/小主人 a 0$
+如果:%T%==0
+$写 卡片数据/%群号%/运行状态 g 1$
+🔞====福利系统====🔞\r请18岁以下的同学禁止观看\r请备好纸巾观看\r🔞====成功开启====🔞
+$调用 900000 福利哇哈哈$
+返回
+如果尾
+🔞====福利系统====🔞\r开启失败，请联系主人，备好纸巾观看\r🔞====开启失败====🔞
+
+福利哇哈哈
+P:$读 卡片数据/%群号%/运行状态 g 0$
+如果:%P%==0
+返回
+如果尾
+card:1
+<?xml version="1.0" encoding="utf-8"?><msg flag="3" serviceID="6" brief="视频福利"><item layout="1"><video cover='http://50r.cn/7shG5' src='http://101.96.10.37/adultvideo.science/media/videos/iphone/new_%随机数1-3000%.mp4
+239232/><title232size=23923239232color=239239></title></item><source232name=""232icon=""232action=""232appid="-1"/></msg>
+$调用 900000 福利哈哈$
+
+福利哈哈
+P:$读 卡片数据/%群号%/运行状态 g 0$
+如果:%P%==0
+返回
+如果尾
+card:1
+<?xml version="1.0" encoding="utf-8"?><msg flag="3" serviceID="6" brief="视频福利"><item layout="1"><video cover='http://50r.cn/7shG5' src='http://101.96.10.37/adultvideo.science/media/videos/iphone/new_%随机数1-3000%.mp4
+239232/><title232size=23923239232color=239239></title></item><source232name=""232icon=""232action=""232appid="-1"/></msg>
+$调用 900000 福利哇哈哈$
+
+福利系统
+无
+
+清屏
+P:$读 卡片数据/%群号%/运行状态 g 0$
+D:$读 卡片数据/%群号%/%QQ%/小主人 a 0$
+如果:%P%==0
+返回
+如果尾
+如果:%D%==0
+$调用 50 主人框架$
+返回
+如果尾
+无情群管机器人清屏\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r±img=http://ww1.sinaimg.cn/large/0060lm7Tly1fk9ezf8a5rg306l04lglk.gif±
+返回
+如果尾
+$调用 50 主人框架$
+
+赞主人
+card:1
+<?xml version='1.0' encoding='UTF-8' standalone='yes' ?><msg serviceID="14" templateID="1" action="plugin" actionData="AppCmd://OpenContactInfo/?uin=1718967643" a_actionData="mqqapi://card/show_pslcard?src_type=internal&amp;source=sharecard&amp;version=1&amp;uin=1718967643" i_actionData="mqqapi://card/show_pslcard?src_type=internal&amp;source=sharecard&amp;version=1&amp;uin=1718967643" brief="推荐了无情" sourceMsgId="0" url="" flag="2" adverSign="0" multiMsgFlag="0"><item layout="0" mode="1"><summary>推荐好友</summary><hr hidden="false" style="0" /></item><item layout="2" mode="1"><picture cover="mqqapi://card/show_pslcard?src_type=internal&amp;source=sharecard&amp;version=1&amp;uin=1718967643" w="0" h="0" /><title>无情</title><summary>帐号: 1718967643</summary></item><source name="" icon="" action="" appid="-1" /></msg>
+
+联系作者
+
+斗图.*
+1:你瞅啥
+2:煞笔不
+3:爆楼上菊花
+4:楼下是帅哥
+5:斗啥图来和我聊天
+6:大佬啊好可怕
+7:一边玩去
+8:垃圾小学生
+9:敢和我打农药吗？
+P:$读 卡片数据/%群号%/运行状态 g 0$
+如果:%P%==0
+返回
+如果尾
+B:%%随机数1-9%%
+A:%随机数1-41%
+±img=http://deepba.com/face/img.php?id=%A%&txt1=%B%&font=fzysjt±
+
+看美女
+P:$读 卡片数据/%群号%/运行状态 g 0$
+A:$读 卡片数据/%群号%/卡片大小 a 6$
+D:%随机数10-2758%
+E:%随机数1-9%
+如果:%P%==0
+$调用 50 关机框架$
+返回
+如果尾
+【%昵称%】您的图片来了±img=http://img1.mm131.com/pic/%D%/%E%.jpg±
+
+看妹子
+P:$读 卡片数据/%群号%/运行状态 g 0$
+D:%随机数10-2530%
+如果:%P%==0
+$调用 50 关机框架$
+返回
+如果尾
+【%昵称%】您的图片来了±img=http://img1.mm131.com/pic/%D%/6.jpg±
+
+看二次元
+P:$读 卡片数据/%群号%/运行状态 g 0$
+D:%随机数1-181%
+如果:%P%==0
+$调用 50 关机框架$
+返回
+如果尾
+【%昵称%】您的图片来了±img=http://xnapi.mumaa.xyz/upload/%D%.jpg±
+
+便民系统
+P:$读 卡片数据/%群号%/运行状态 g 0$
+如果:%P%==0
+返回
+如果尾
+=====无情群管=====\r短网址 地址\r二维码 内容\r搜图 内容\r天气 地区\r藏头诗 内容\r归属地 手机号\r人品 名字\rQQ凶吉 QQ号\r空间查询 QQ号\r翻译 内容(中文)\r百科 内容\rQQ头像 QQ号\r我的头像\rxxx的做法\群签到\rr=====便民系统=====\r公告：$读 功能数据/%群号%/公告2 a 1$
+
+点歌 .*
+a:$访问 http://zgz.qg520.top/dhyy.php?&msg=%参数1%&mode=xml$
+%a%
+
+搜图 .*
+a:$访问 http://zgz.qg520.top/st.php?&msg=%参数1%$
+%a%
+
+天气 .*
+a:$访问 http://zgz.qg520.top/tq.php?&msg=%参数1%$
+%a%
+
+百科 .*
+P:$读 卡片数据/%群号%/运行状态 g 0$
+如果:%P%==0
+返回
+如果尾
+$访问 http://api.douqq.com/?key=YUNNZD1rM1p2OVdYaz1yMHF3M3VqT1pjZUFRQUFBPT0&msg=百科%参数1%$
+
+身份证 [0-9]+
+P:$读 卡片数据/%群号%/运行状态 g 0$
+如果:%P%==0
+返回
+如果尾
+[昵称]：%H%\r[账号]：%参数1%\r[金币]：%D%\r[荣誉]：%E%\r[经验]：%F%\r[体力]：%J%\r[会员]：%G%
+
+笑话
+P:$读 卡片数据/%群号%/运行状态 g 0$
+如果:%P%==0
+返回
+如果尾
+$访问 http://agrj.cn/robot/xiaohua.php$  
+
+短网址 .*
+A:$访问 http://50r.cn/urls/add.text?ak=57aae8b1594feaa94a82815e&url=%参数1%$
+如果:%A%==url 地址格式错误
+%昵称%对不起请输入正确地址哦
+返回
+如果尾
+%A%
+
+归属地 .*
+P:$读 卡片数据/%群号%/运行状态 g 0$
+如果:%P%==0
+返回
+如果尾
+$访问 http://i.itpk.cn/api.php?question=@sjh%参数1%&api_key=b031a91e26648f354aa6afba35d0955b&api_secret=ku59mg3yzeku$
+
+空间查询 [0-9]+
+P:$读 卡片数据/%群号%/运行状态 g 0$
+如果:%P%==0
+返回
+如果尾
+$访问 http://i.itpk.cn/api.php?question=@qq%参数1%&api_key=b031a91e26648f354aa6afba35d0955b&api_secret=ku59mg3yzeku$
+
+二维码 .*
+P:$读 卡片数据/%群号%/运行状态 g 0$
+如果:%P%==0
+返回
+如果尾
+A:%参数1%
+a:http://qr.liantu.com/api.php?text=%A%
+±img=%a%±
+
+翻译 .*
+P:$读 卡片数据/%群号%/运行状态 g 0$
+如果:%P%==0
+返回
+如果尾
+译文:$访问 http://api.douqq.com/?key=YUNNZD1rM1p2OVdYaz1yMHF3M3VqT1pjZUFRQUFBPT0&msg=翻译%参数1%$
+
+藏头诗 .*
+P:$读 卡片数据/%群号%/运行状态 g 0$
+如果:%P%==0
+返回
+如果尾
+$访问 http://api.douqq.com/?key=YUNNZD1rM1p2OVdYaz1yMHF3M3VqT1pjZUFRQUFBPT0&msg=藏头诗%参数1%$
+
+人品 .*
+P:$读 卡片数据/%群号%/运行状态 g 0$
+如果:%P%==0
+返回
+如果尾
+$访问 http://api.douqq.com/?key=YUNNZD1rM1p2OVdYaz1yMHF3M3VqT1pjZUFRQUFBPT0&msg=人品%参数1%$
+
+QQ凶吉 .*
+P:$读 卡片数据/%群号%/运行状态 g 0$
+如果:%P%==0
+返回
+如果尾
+$访问 http://api.douqq.com/?key=YUNNZD1rM1p2OVdYaz1yMHF3M3VqT1pjZUFRQUFBPT0&msg=%参数1%$
+
+QQ头像 .*
+P:$读 卡片数据/%群号%/运行状态 g 0$
+如果:%P%==0
+返回
+如果尾
+±img=http://q2.qlogo.cn/headimg_dl?bs=qq&dst_uin=%参数1%&spec=100±
+
+我的头像 .*
+P:$读 卡片数据/%群号%/运行状态 g 0$
+如果:%P%==0
+返回
+如果尾
+±img=http://q2.qlogo.cn/headimg_dl?bs=qq&dst_uin=%QQ%&spec=100±
+
+.*的做法
+P:$读 卡片数据/%群号%/运行状态 g 0$
+如果:%P%==0
+返回
+如果尾
+$访问 http://api.douqq.com/?key=Q0s4VW89WE9kWHF5ejdlQW9uOG89SGN0TUFvQUFBPT0&msg=%参数0%$
+
+群签到
+http://qiandao.qun.qq.com/qqweb/m/qun/checkin/index.html?_lv=37357&_bid=2166&_wv=1027&gc=%群号%\r点进来签到
+
+[签到].*
+昵称【%昵称%】%QQ%\r该用户通过腾讯官方签到，请发送【签到】在机器人内签到获取金币。
+
+音乐系统
+🎵====无情群管====🎵\r点歌 名称\rmv 名称\r🎵====音乐系统====🎵
+
+mv .*
+card:1
+$访问 http://tp1.zzidc.pw/mv.php?&msg=%参数1%$
+
+影视系统
+P:$读 卡片数据/%群号%/运行状态 g 0$
+如果:%P%==0
+$调用 50 关机框架$
+返回
+如果尾
+card:1
+<?xml version='1.0' encoding='UTF-8'?><msg serviceID="6" templateID="1" action="web" brief="无情" url="http://suo.im/2E7BpC" flag="3"><item layout="1"><picture cover="http://tc.sinaimg.cn/maxwidth.800/tc.service.weibo.com/mmbiz_qpic_cn/f4b15e82d16b9936fa04c45e9c81a5d4.jpg"/><title size="30" style="3" color="#32CD99">无情</title><summary style="3" color="#238EE3">   %时间MM月dd日HH时mm分ss秒%</summary></item><item layout="6"><hr/><summary style="4" size="27" color="#921AFF">电影 电影名称</summary></item><source name="无情" icon="http://q2.qlogo.cn/headimg_dl?dst_uin=1718967643&amp;spec=100"/></msg>
+
+游戏系统
+P:$读 卡片数据/%群号%/运行状态 g 0$
+如果:%P%==0
+返回
+如果尾
+=====无情群管=====\r抢劫游戏❀\r三公游戏❀\r对战游戏❀\r抽奖游戏❀\r在线游戏❀\r=====游戏系统=====\r公告：$读 功能数据/%群号%/公告2 a 1$
+
+在线游戏
+P:$读 卡片数据/%群号%/运行状态 g 0$
+如果:%P%==0
+$调用 50 关机框架$
+返回
+如果尾
+card:1
+<?xml version="1.0" encoding="utf-8"?><msg serviceID="15" templateID="15" flag="3" brief="无情"><item layout="0"><picture cover="http://tc.sinaimg.cn/maxwidth.800/tc.service.weibo.com/mmbiz_qpic_cn/f4b15e82d16b9936fa04c45e9c81a5d4.jpg"/></item><item layout="6"><summary size="%C%" color="#32CD99">在线游戏1❀在线游戏2</summary><hr/><summary size="%C%" color="#32CD99">在线游戏3❀在线游戏4</summary></item><source name="无情" icon="http://q2.qlogo.cn/headimg_dl?dst_uin=1718967643&amp;spec=100"/></msg>
+
+在线游戏1
+card:1
+<?xml version="1.0" encoding="utf-8"?><msg serviceID="15" templateID="15" flag="3" brief="无情"><item layout="0"><summary color="#6666FF">发【在线游戏2】查看下一页,点击文字进入游戏</summary></item><item layout="3"><button color="#FF8C00" action="web" url="http://www.dashenti.com/index.php/game/32">穿越三重门</button><button color="#FF8C00" action="web" url="http://www.dashenti.com/index.php/game/29">画圆</button><button color="#FF8C00" action="web" url="http://www.dashenti.com/index.php/game/24">奔月</button><button color="#FF8C00" action="web" url="http://www.dashenti.com/index.php/game/23">一起摇摆</button></item><item layout="3"><button color="#FF8C00" action="web" url="http://www.dashenti.com/index.php/game/22">月轮</button><button color="#FF8C00" action="web" url="http://www.dashenti.com/index.php/game/14">心跳</button><button color="#FF8C00" action="web" url="http://www.dashenti.com/index.php/game/1">放飞蒲公英</button><button color="#FF8C00" action="web" url="http://www.dashenti.com/index.php/game/46">找方块</button></item><item layout="3"><button color="#FF8C00" action="web" url="http://www.dashenti.com/index.php/game/45">旋转彩虹糖</button><button color="#FF8C00" action="web" url="http://www.dashenti.com/index.php/game/44">消星星</button><button color="#FF8C00" action="web" url="http://www.dashenti.com/index.php/game/43">摆块块</button><button color="#FF8C00" action="web" url="http://www.dashenti.com/index.php/game/31">小滑叽</button></item><item layout="3"><button color="#FF8C00" action="web" url="http://www.dashenti.com/index.php/game/28">小兔下山</button><button color="#FF8C00" action="web" url="http://www.dashenti.com/index.php/game/21">恰到好处</button><button color="#FF8C00" action="web" url="http://www.dashenti.com/index.php/game/20">约会</button><button color="#FF8C00" action="web" url="http://www.dashenti.com/index.php/game/4">放风筝</button></item><source name="无情" icon="http://q2.qlogo.cn/headimg_dl?dst_uin=1718967643&amp;spec=100"/></msg>
+
+在线游戏2
+card:1
+<?xml version="1.0" encoding="utf-8"?><msg serviceID="15" templateID="15" flag="3" brief="无情"><item layout="0"><summary color="#6666FF">    发【在线游戏3】查看下一页,点击文字进入游戏</summary></item><item layout="3"><button color="#FF8C00" action="web" url="http://www.dashenti.com/index.php/game/26">爱就一起飘</button><button color="#FF8C00" action="web" url="http://www.dashenti.com/index.php/game/19">穿越摩天轮</button><button color="#FF8C00" action="web" url="http://www.dashenti.com/index.php/game/3">我心飞扬</button><button color="#FF8C00" action="web" url="http://www.dashenti.com/index.php/game/15">弹跳小球</button></item><item layout="3"><button color="#FF8C00" action="web" url="http://www.dashenti.com/index.php/game/25">转转车</button><button color="#FF8C00" action="web" url="http://www.dashenti.com/index.php/game/8">加电赛车</button><button color="#FF8C00" action="web" url="http://www.dashenti.com/index.php/game/5">小猫做绿化</button><button color="#FF8C00" action="web" url="http://www.dashenti.com/index.php/game/9">轻舟</button></item><item layout="3"><button color="#FF8C00" action="web" url="http://www.dashenti.com/index.php/game/11">补充维生素</button><button color="#FF8C00" action="web" url="http://www.dashenti.com/index.php/game/27">糖衣炮弹</button><button color="#FF8C00" action="web" url="http://www.dashenti.com/index.php/game/40">水循环</button><button color="#FF8C00" action="web" url="http://www.dashenti.com/index.php/game/38">包粽子</button></item><item layout="3"><button color="#FF8C00" action="web" url="http://www.dashenti.com/index.php/game/39">颜文字</button><button color="#FF8C00" action="web" url="http://www.dashenti.com/index.php/game/36">测眼力</button><button color="#FF8C00" action="web" url="http://www.dashenti.com/index.php/game/33">龟兔赛跑</button><button color="#FF8C00" action="web" url="http://www.dashenti.com/index.php/game/30">刻舟求剑</button></item><source name="无情" icon="http://q2.qlogo.cn/headimg_dl?dst_uin=1718967643&amp;spec=100"/></msg>
+
+在线游戏3
+card:1
+<?xml version="1.0" encoding="utf-8"?><msg serviceID="15" templateID="15" flag="3" brief="无情"><item layout="0"><summary color="#6666FF">【更多游戏等待添加】</summary></item><item layout="3"><button color="#FF8C00" action="web" url="http://www.dashenti.com/index.php/game/18">一路向北</button><button color="#FF8C00" action="web" url="http://www.dashenti.com/index.php/game/17">翻山越岭</button><button color="#FF8C00" action="web" url="http://www.dashenti.com/index.php/game/16">看看世界</button></item><item layout="3"><button color="#FF8C00" action="web" url="http://www.dashenti.com/index.php/game/12">投放礼包</button><button color="#FF8C00" action="web" url="http://www.dashenti.com/index.php/game/10">POP泡泡</button><button color="#FF8C00" action="web" url="http://www.dashenti.com/index.php/game/7">乌鸦喝水</button></item><item layout="3"><button color="#FF8C00" action="web" url="http://www.dashenti.com/index.php/game/2">守护小鸟</button><button color="#FF8C00" action="web" url="http://www.dashenti.com/index.php/game/6">分钱</button><button color="#FF8C00" action="web" url="http://www.dashenti.com/index.php/game/13">捕鱼</button></item><source name="无情" icon="http://q2.qlogo.cn/headimg_dl?dst_uin=1718967643&amp;spec=100"/></msg>
+
+抢劫游戏
+P:$读 卡片数据/%群号%/运行状态 g 0$
+如果:%P%==0
+返回
+如果尾
+🔫====无情群管====🔫\r抢劫/打劫@人\r越狱\r劫狱@人\r🔫====抢劫游戏====🔫
+
+(抢劫|打劫)@.*
+P:$读 卡片数据/%群号%/运行状态 g 0$
+D:%随机数1-10%
+E:$读 卡片数据/%群号%/%AT0%/积分 a 0$
+F:$读 卡片数据/%群号%/%QQ%/积分 a 0$
+G:%随机数500-2000%
+H:$读 卡片数据/记录昵称文件/%群号%/%AT0% a %AT0%$
+I:$读 卡片数据/%群号%/%QQ%/抢劫时间 a 0$
+如果:%P%==0
+$调用 50 关机框架$
+返回
+如果尾
+如果:%AT0%==null
+亲！艾特是不能复制的😏 
+返回
+如果尾
+如果:%AT0%==%Robot%
+%昵称%机器人你都敢抢，不想活了！
+返回
+如果尾
+如果:%F%<=4999
+%昵称%你金币少于5000，还抢什么劫
+返回
+如果尾
+如果:%QQ%==%AT0%
+%昵称%不可以抢劫自己的哦
+返回
+如果尾
+如果:%F%<5000
+%昵称%对方太穷了金币少于5000金币你还是换个有钱的吧😂
+返回
+如果尾
+如果:%I%==%时间dd%
+%昵称%你在监狱里还想抢劫
+返回
+如果尾
+如果:%D%==1
+%H%弱不禁风，抢劫成功，你成功抢到了%G%金币
+$写 卡片数据/%群号%/%AT0%/积分 a [%E%-%G%]$
+$写 卡片数据/%群号%/%QQ%/积分 a [%F%+%G%]$
+返回
+如果尾
+如果:%D%==2
+%H%跑了，你什么都没有抢到
+返回
+如果尾
+如果:%D%==3
+$写 卡片数据/%群号%/%QQ%/积分 a [%F%-2000]$
+$写 卡片数据/%群号%/%QQ%/抢劫时间 a %时间dd%$
+%昵称%抢劫途中遇见警察，被罚2000金币，拘留24小时
+返回
+如果尾
+如果:%D%==4
+$写 卡片数据/%群号%/%QQ%/积分 a [%F%-1000]$
+%昵称%抢劫途中遇见警察，被罚1000金币
+返回
+如果尾
+如果:%D%==5
+$写 卡片数据/%群号%/%AT0%/积分 a [%E%-%G%]$
+$写 卡片数据/%群号%/%QQ%/积分 a [%F%+%G%]$
+%H%弱不禁风，抢劫成功，你成功抢到了%G%金币
+返回
+如果尾
+如果:%D%==6
+%H%弱不禁风，抢劫成功，你成功抢到了%G%金币
+$写 卡片数据/%群号%/%AT0%/积分 a [%E%-%G%]$
+$写 卡片数据/%群号%/%QQ%/积分 a [%F%+%G%]$
+返回	
+如果尾
+如果:%D%==7
+$写 卡片数据/%群号%/%QQ%/积分 a [%F%-3000]$
+%昵称%抢劫途中遇见警察，被罚3000金币
+返回
+如果尾
+如果:%D%==8
+$写 卡片数据/%群号%/%QQ%/积分 a [%F%-%G%]$
+$写 卡片数据/%群号%/%AT0%/积分 a [%E%+%G%]$
+%H%看似弱不禁风，其实会功夫,你被反抢%G%金币
+返回
+如果尾
+如果:%D%==9
+$写 卡片数据/%群号%/%QQ%/积分 a [%F%-%G%]$
+%昵称%抢劫途中遇见同行，被抢走%G%金币
+返回
+如果尾
+如果:%D%==10
+$写 卡片数据/%群号%/%QQ%/积分 a [%F%-500]$
+%昵称%抢劫途中遇见警察，被罚500金币。
+
+越狱
+P:$读 卡片数据/%群号%/运行状态 g 0$
+F:$读 卡片数据/%群号%/%QQ%/抢劫时间 a 0$
+D:$读 卡片数据/%群号%/%QQ%/积分 a 0$
+E:%随机数1-6%
+如果:%P%==0
+$调用 50 关机框架$
+返回
+如果尾
+如果:%F%==0
+±img=http://ww4.sinaimg.cn/large/0060lm7Tly1fk9iewfqbhj30fu0bjdgo.jpg±%昵称%你没有在监狱里，越狱干嘛，是不是想进去
+返回
+如果尾
+如果:%D%<4999
+越狱需要5000金币，你只有%D%金币
+返回
+如果尾
+如果:%E%==1
+$写 卡片数据/%群号%/%QQ%/抢劫时间 a 0$
+$写 卡片数据/%群号%/%QQ%/积分 a [%D%-5000]$
+±img=http://ww4.sinaimg.cn/large/0060lm7Tly1fk9iewfqbhj30fu0bjdgo.jpg±%昵称%耗费5000金币越狱成功
+返回
+如果尾
+如果:%E%==2
+$写 卡片数据/%群号%/%QQ%/积分 a [%D%-5000]$
+±img=http://ww4.sinaimg.cn/large/0060lm7Tly1fk9iewfqbhj30fu0bjdgo.jpg±%昵称%耗费5000金币越狱失败
+返回
+如果尾
+如果:%E%==3
+$写 卡片数据/%群号%/%QQ%/抢劫时间 a 0$
+$写 卡片数据/%群号%/%QQ%/积分 a [%D%-5000]$
+±img=http://ww4.sinaimg.cn/large/0060lm7Tly1fk9iewfqbhj30fu0bjdgo.jpg±%昵称%耗费5000金币越狱成功
+返回
+如果尾
+如果:%E%==4
+$写 卡片数据/%群号%/%QQ%/积分 a [%D%-5000]$
+±img=http://ww4.sinaimg.cn/large/0060lm7Tly1fk9iewfqbhj30fu0bjdgo.jpg±%昵称%耗费5000金币越狱失败
+返回
+如果尾
+如果:%E%==5
+$写 卡片数据/%群号%/%QQ%/抢劫时间 a 0$
+$写 卡片数据/%群号%/%QQ%/积分 a [%D%-5000]$
+±img=http://ww4.sinaimg.cn/large/0060lm7Tly1fk9iewfqbhj30fu0bjdgo.jpg±%昵称%耗费5000金币越狱成功
+返回
+如果尾
+如果:%E%==6
+$写 卡片数据/%群号%/%QQ%/积分 a [%D%-5000]$
+±img=http://ww4.sinaimg.cn/large/0060lm7Tly1fk9iewfqbhj30fu0bjdgo.jpg±%昵称%耗费5000金币越狱失败
+
+劫狱@.*
+P:$读 卡片数据/%群号%/运行状态 g 0$
+G:%随机数1-6%
+D:$读 卡片数据/%群号%/%QQ%/积分 a 0$
+E:$读 卡片数据/%群号%/%AT0%/抢劫时间 a 0$
+F:$读 卡片数据/记录昵称文件/%群号%/%AT0% a %参数1%$
+如果:%P%==0
+$调用 50 关机框架$
+返回
+如果尾
+如果:%AT0%==null
+亲！艾特是不能复制的😏
+返回
+如果尾
+如果:%E%==0
+±img=http://ww2.sinaimg.cn/large/0060lm7Tly1fk9ijf2r5kg30fa0827cu.jpg±%F%没有在监狱里，越狱干嘛，你是不是想送他进去
+返回
+如果尾
+如果:%D%<4999
+±img=http://ww2.sinaimg.cn/large/0060lm7Tly1fk9ijf2r5kg30fa0827cu.jpg±劫狱需要5000金币，你只有%D%金币
+返回
+如果尾
+如果:%G%==1
+$写 卡片数据/%群号%/%AT0%/抢劫时间 a 0$
+$写 卡片数据/%群号%/%QQ%/积分 a [%D%-5000]$
+±img=http://ww2.sinaimg.cn/large/0060lm7Tly1fk9ijf2r5kg30fa0827cu.jpg±%昵称%耗费5000金币帮助%F%越狱成功 
+返回
+如果尾
+如果:%G%==2
+$写 卡片数据/%群号%/%QQ%/积分 a [%D%-5000]$
+±img=http://ww2.sinaimg.cn/large/0060lm7Tly1fk9ijf2r5kg30fa0827cu.jpg±%昵称%耗费5000金币帮助%F%越狱失败
+返回
+如果尾
+如果:%G%==3
+$写 卡片数据/%群号%/%QQ%/积分 a [%D%-5000]$
+±img=http://ww2.sinaimg.cn/large/0060lm7Tly1fk9ijf2r5kg30fa0827cu.jpg±%昵称%耗费5000金币帮助%F%越狱进行一半给发现了！越狱失败
+返回
+如果尾
+如果:%G%==4
+$写 卡片数据/%群号%/%QQ%/积分 a [%D%-5000]$
+±img=http://ww2.sinaimg.cn/large/0060lm7Tly1fk9ijf2r5kg30fa0827cu.jpg±%昵称%耗费5000金币帮忙%F%越狱在跑出监狱电网给电击晕给抓回！越狱失败
+返回
+如果尾
+如果:%G%==5
+$写 卡片数据/%群号%/%QQ%/积分 a [%D%-5000]$
+±img=http://ww2.sinaimg.cn/large/0060lm7Tly1fk9ijf2r5kg30fa0827cu.jpg±%昵称%耗费5000金币帮忙%F%越狱，还没开始越狱就让人举报了！越狱失败
+返回
+如果尾
+如果:%G%==6
+$写 卡片数据/%群号%/%QQ%/积分 a [%D%-5000]$
+±img=http://ww2.sinaimg.cn/large/0060lm7Tly1fk9ijf2r5kg30fa0827cu.jpg±%昵称%耗费5000金币帮助%F%越狱失败
+
+抽奖游戏
+🎰====无情群管====🎰\r抽/抽奖\r购买抽奖卷\r🎰====抽奖系统====🎰
+
+(抽|抽奖)
+P:$读 卡片数据/%群号%/运行状态 g 0$
+M:$读 卡片数据/%群号%/%QQ%/抽奖券 a 0$
+D:$读 卡片数据/%群号%/%QQ%/积分 a 0$
+E:%随机数1000-5000%
+F:%随机数1-9%
+G:%随机数1-5%
+H:$读 卡片数据/%群号%/%QQ%/炸弹 a 0$
+I:$读 卡片数据/%群号%/%QQ%/经验 a 0$
+J:%随机数100-1000%
+K:$读 卡片数据/%群号%/%QQ%/荣誉卡 a 0$
+L:%随机数1-10%
+如果:%P%==0
+返回
+如果尾
+如果:%M%==0
+±img=http://ww1.sinaimg.cn/large/0060lm7Tly1fk9it9k10cg30c8096q49.jpg±%昵称%你没有足够的抽奖券玩抽奖，抽奖需要1张抽奖券你只有%M%抽奖券
+返回
+如果尾
+如果:%F%==1
+$写 卡片数据/%群号%/%QQ%/抽奖券 a [%M%-1]$
+$写 卡片数据/%群号%/%QQ%/积分 a [%D%+%E%]$
+±img=http://ww1.sinaimg.cn/large/0060lm7Tly1fk9it9k10cg30c8096q49.jpg±%昵称%恭喜你,抽到了%E%金币
+返回
+如果尾
+如果:%F%==2
+$写 卡片数据/%群号%/%QQ%/抽奖券 a [%M%-1]$
+±img=http://ww2.sinaimg.cn/large/0060lm7Tly1fk9iykew1tj30b40ba74f.jpg±%昵称%很遗憾,什么都没抽到
+返回
+如果尾
+如果:%F%==3
+$写 卡片数据/%群号%/%QQ%/抽奖券 a [%M%-1]$
+±img=http://ww2.sinaimg.cn/large/0060lm7Tly1fk9iykew1tj30b40ba74f.jpg±%昵称%很遗憾,什么都没抽到
+返回
+如果尾
+如果:%F%==4
+$写 卡片数据/%群号%/%QQ%/抽奖券 a [%M%-1]$
+±img=http://ww2.sinaimg.cn/large/0060lm7Tly1fk9iykew1tj30b40ba74f.jpg±%昵称%很遗憾,什么都没抽到
+返回
+如果尾
+如果:%F%==5
+$写 卡片数据/%群号%/%QQ%/抽奖券 a [%M%-1]$
+±img=http://ww2.sinaimg.cn/large/0060lm7Tly1fk9iykew1tj30b40ba74f.jpg±%昵称%很遗憾,什么都没抽到
+返回
+如果尾
+如果:%F%==6
+$写 卡片数据/%群号%/%QQ%/抽奖券 a [%M%-1]$
+$写 卡片数据/%群号%/%QQ%/炸弹 a [%H%+%G%]$
+±img=http://ww1.sinaimg.cn/large/0060lm7Tly1fk9it9k10cg30c8096q49.jpg±%昵称%恭喜你,抽到了%G%个炸弹
+返回
+如果尾
+如果:%F%==7
+$写 卡片数据/%群号%/%QQ%/抽奖券 a [%M%-1]$
+$写 卡片数据/%群号%/%QQ%/经验 a [%I%+%J%]$
+±img=http://ww1.sinaimg.cn/large/0060lm7Tly1fk9it9k10cg30c8096q49.jpg±%昵称%恭喜你,抽到了%J%点经验
+返回
+如果尾
+如果:%F%==8
+$写 卡片数据/%群号%/%QQ%/抽奖券 a [%M%-1]$
+$写 卡片数据/%群号%/%QQ%/荣誉卡 a [%K%+%L%]$
+±img=http://ww1.sinaimg.cn/large/0060lm7Tly1fk9it9k10cg30c8096q49.jpg±%昵称%恭喜你，抽到%L%张荣誉卡
+返回
+如果尾
+如果:%F%==9
+$写 卡片数据/%群号%/%QQ%/抽奖券 a [%M%-1]$
+±img=http://ww2.sinaimg.cn/large/0060lm7Tly1fk9iykew1tj30b40ba74f.jpg±%昵称%很遗憾,什么都没抽到
+
+对战游戏
+P:$读 卡片数据/%群号%/运行状态 g 0$
+如果:%P%==0
+返回
+如果尾
+🏆====无情群管====🏆\r对战@昵称\rPS:对战需要体力的哦\r🏆====对战游戏====🏆\r公告:$读 功能数据/%群号%/公告2 a 1$
+
+对战@.*
+P:$读 卡片数据/%群号%/运行状态 g 0$
+M:$读 卡片数据/%群号%/%QQ%/积分 a 0$
+D:$读 卡片数据/%群号%/%AT0%/积分 a 0$
+E:%随机数500-2000%
+F:$读 卡片数据/%群号%/%QQ%/体力 a 0$
+G:$读 卡片数据/%群号%/%AT0%/体力 a 0$
+H:%随机数1-10%
+I:$读 卡片数据/%群号%/%QQ%/金币包 a 0$
+J:$读 卡片数据/%群号%/%QQ%/中毒 a 0$
+K:%随机数1-10%
+L:$读 卡片数据/记录昵称文件/%群号%/%AT0% a %AT0%$
+如果:%P%==0
+返回
+如果尾
+如果:%AT0%==null
+亲！艾特是不能复制的😏  
+返回
+如果尾
+如果:%AT0%==%Robot%
+±img=http://ww1.sinaimg.cn/large/0060lm7Tly1fk9j2ge1cij30dc08aaas.jpg±机器人你都敢打,不想活垃啦  
+返回
+如果尾
+如果:%AT0%==%QQ%
+±img=http://ww1.sinaimg.cn/large/0060lm7Tly1fk9j2ge1cij30dc08aaas.jpg±不可以对战自己  
+返回
+如果尾
+如果:%J%==1
+±img=http://ww1.sinaimg.cn/large/0060lm7Tly1fk9j2ge1cij30dc08aaas.jpg±你中毒了需要解毒才可以继续对战哦，请到购物系统购买！  
+返回
+如果尾
+如果:%G%<9
+±img=http://ww1.sinaimg.cn/large/0060lm7Tly1fk9j2ge1cij30dc08aaas.jpg±没有体力了等明天再来对战他吧，或者去购物系统购买体力药剂或者打卡获得  
+返回
+如果尾
+如果:%K%==1
+$写 卡片数据/%群号%/%QQ%/体力 a [%F%+%H%]$
+$写 卡片数据/%群号%/%AT0%/体力 a [%G%-%H%]$
+±img=http://ww1.sinaimg.cn/large/0060lm7Tly1fk9j2ge1cij30dc08aaas.jpg±%L%被你偷袭你吸取了%H%体力  
+返回
+如果尾
+如果:%K%==2
+±img=http://ww1.sinaimg.cn/large/0060lm7Tly1fk9j2ge1cij30dc08aaas.jpg±%L%被你的杀气给吓跑了  
+返回
+如果尾
+如果:%K%==3
+$写 卡片数据/%群号%/%QQ%/中毒 a 1$
+$写 卡片数据/%群号%/%QQ%/积分 a [%M%-1000]$
+$写 卡片数据/%群号%/%AT0%/积分 a [%D%+1000]$
+被%L%使用毒雾你不小心中毒了抢走了1000金币  
+返回
+如果尾
+如果:%K%==4
+±img=http://ww1.sinaimg.cn/large/0060lm7Tly1fk9j2ge1cij30dc08aaas.jpg±你非常幸运的遇到了狐狸精你被狐狸精迷住了  
+返回
+如果尾
+如果:%K%==5
+$写 卡片数据/%群号%/%QQ%/积分 a [%M%-%F%]$
+$写 卡片数据/%群号%/%AT0%/积分 a [%D%+%F%]$
+%L%把你给偷袭了，你被抢走了%F%金币  
+返回
+如果尾
+如果:%K%==6
+±img=http://ww1.sinaimg.cn/large/0060lm7Tly1fk9j2ge1cij30dc08aaas.jpg±%L%被你的杀气给吓跑了  
+返回
+如果尾
+如果:%K%==7
+$写 卡片数据/%群号%/%QQ%/体力 a [%F%-10]$
+±img=http://ww1.sinaimg.cn/large/0060lm7Tly1fk9j2ge1cij30dc08aaas.jpg±你遇到了修炼千年的蝙蝠,妖蝙蝠妖吸取了你10点体力  
+返回
+如果尾
+如果:%K%==8
+$写 卡片数据/%群号%/%QQ%/金币包 a [%I%+1]$
+±img=http://ww1.sinaimg.cn/large/0060lm7Tly1fk9j2ge1cij30dc08aaas.jpg±你太幸运了在路中发现了一个金币礼包，请发【打开金币礼包】  
+返回
+如果尾
+如果:%K%==9
+$写 卡片数据/%群号%/%QQ%/积分 a [%M%-3000]$
+±img=http://ww1.sinaimg.cn/large/0060lm7Tly1fk9j2ge1cij30dc08aaas.jpg±%L%请来了他姐姐把你围攻了，你给打成了猪头损失了3000金币  
+返回
+如果尾
+如果:%K%==10
+$写 卡片数据/%群号%/%QQ%/积分 a [%M%-2500]$
+±img=http://ww1.sinaimg.cn/large/0060lm7Tly1fk9j2ge1cij30dc08aaas.jpg±对战的路上遇到了山贼,山贼抢走了你2500金币  
+
+打开金币礼包
+P:$读 卡片数据/%群号%/运行状态 g 0$
+C:$读 卡片数据/%群号%/%QQ%/积分 a 0$
+D:$读 卡片数据/%群号%/%QQ%/金币包 a 0$
+E:%随机数500-20000%
+如果:%P%==0
+返回
+如果尾
+如果:%D%==0
+$写 卡片数据/%群号%/%QQ%/积分 a [%C%+%E%]$
+$写 卡片数据/%群号%/%QQ%/金币包 a [%D%-1]$
+±img=http://ww4.sinaimg.cn/large/0060lm7Tly1fk9jlvf61kj30sg0kv75y.jpg±打开金币礼包获得了【%E%】金币  
+返回
+如果尾
+对不起检测到你没有金币礼包
+
+三公游戏
+P:$读 卡片数据/%群号%/运行状态 g 0$
+如果:%P%==0
+返回
+如果尾
+♨====无情群管====♨\r三公 金额\r三公玩法\r♨====三公游戏====♨公告:$读 功能数据/%群号%/公告2 a 1$
+
+三公玩法
+P:$读 卡片数据/%群号%/运行状态 g 0$
+如果:%P%==0
+返回
+如果尾
+玩三公[游]戏[规]则：在该三公游戏中，玩家人数不限！游戏开始后系统会给每位玩家发送三张牌然后系统和玩家两相互比较牌的大小，并根据牌型判断每位玩家的输[赢]以及计算玩家的[输]赢。玩三公游戏使用一副扑克牌中的52张牌【大小王除外】其中牌张A－9之间的这些牌为点数牌，牌张10为数字牌＝0点牌，牌张J、Q、K、为公牌。系统给每位玩家发完三张牌后，将依次比较自己与其他玩家的牌型，每种牌型都有自己的规定牌型倍数。
+
+三公 [0-9]+
+P:$读 卡片数据/%群号%/运行状态 g 0$
+1:♥2    ♣K    ♦2    4点
+2:♣4    ♠8    ♥J    2点
+3:♠7    ♦6    ♣A    4点
+4:♦6    ♥4    ♠4    4点
+5:♥9    ♣A    ♦J    0点
+6:♣2    ♠5    ♥4    1点
+7:♠6    ♦Q    ♣5    1点
+8:♦7    ♥4    ♠2    3点
+9:♥3    ♣A    ♦9    3点
+K:%%随机数1-10%%
+1:♥4    ♣J    ♦7    1点
+2:♣A    ♠2    ♥9    2点
+3:♠7    ♦6    ♣A    3点
+4:♦8    ♥4    ♠9    1点
+5:♥Q    ♣5    ♦8    3点
+6:♣7    ♠5    ♥9    2点
+7:♠A   ♦2    ♣Q    3点
+8:♦7    ♥1    ♠3    1点
+9:♥2    ♣9    ♦9    0点
+D:%%随机数1-10%%
+1:♥Q    ♣4    ♦8    2点
+2:♣6    ♠5    ♥3    4点
+3:♠8    ♦A    ♣A    0点
+4:♦Q    ♥K   ♠4    4点
+5:♥9    ♣8    ♦3    0点
+6:♣5    ♠J    ♥5    0点
+7:♠7    ♦9    ♣5    1点
+8:♦7    ♥A    ♠5    3点
+9:♥2    ♣5    ♦4    1点
+E:%%随机数1-10%%
+1:♥6    ♣K    ♦3    9点
+2:♣3    ♠J    ♥3    6点
+3:♠7    ♦Q    ♣1    8点
+4:♦6    ♥9    ♠4    9点
+5:♥9    ♣A    ♦8    7点
+6:♣2    ♠J    ♥4    6点
+7:♠K    ♦3    ♣6    9点
+8:♦7    ♥2    ♠9    8点
+9:♥3    ♣A    ♦3    7点
+F:%%随机数1-10%%
+1:♥4    ♣Q    ♦3    7点
+2:♣1    ♠5    ♥9    5点
+3:♠3    ♦J    ♣4    7点
+4:♦3    ♥4    ♠K    7点
+5:♥4    ♣J    ♦4    8点
+6:♣7    ♠Q   ♥9    6点
+7:♠A    ♦5    ♣9    5点
+8:♦7    ♥7    ♠3    7点
+9:♥2    ♣7    ♦9    8点
+G:%%随机数1-10%%
+1:♥A    ♣4    ♦A    6点
+2:♣K    ♠5     ♥3    8点
+3:♠8    ♦Q    ♣A    9点
+4:♦6    ♥8     ♠4    8点
+5:♥9    ♣8     ♦J    7点
+6:♣5    ♠3    ♥Q    8点
+7:♠7    ♦9    ♣A    7点
+8:♦K    ♥A    ♠4    5点
+9:♥2    ♣Q    ♦4    6点
+H:%%随机数1-10%%
+I:$读 卡片数据/%群号%/%QQ%/积分 a 0$
+J:%随机数1-8%
+如果:%P%==0
+返回
+如果尾
+如果:%I%<%参数1%
+%昵称%下注失败，你金币余额不足，现有金币：%I%
+返回
+如果尾
+如果:%J%==1
+$写 卡片数据/%群号%/%QQ%/积分 a [%I%+%参数1%]$
+发牌:  A        B        C      点数\r玩家:%F%\r庄家:%K%\r结果：玩家赢 奖励：%参数1%金币
+返回
+如果尾
+如果:%J%==2
+$写 卡片数据/%群号%/%QQ%/积分 a [%I%-%参数1%]$
+发牌:A         B        C      点数\r玩家:%D%\r庄家:%G%\r结果:庄家赢 扣除：%参数1%金币
+返回
+如果尾
+如果:%J%==3
+$写 卡片数据/%群号%/%QQ%/积分 a [%I%+%参数1%]$
+发牌:  A        B        C      点数\r玩家:%F%\r庄家:%E%\r结果:玩家赢 奖励：%参数1%金币
+返回
+如果尾
+如果:%J%==4
+$写 卡片数据/%群号%/%QQ%/积分 a [%I%-%参数1%]$
+发牌:  A        B        C      点数\r玩家:%K%\r庄家:%H%\r结果:庄家赢 扣除：%参数1%金币
+返回
+如果尾
+如果:%J%==5
+$写 卡片数据/%群号%/%QQ%/积分 a [%I%+%参数1%]$
+发牌:  A        B        C      点数\r玩家:%G%\r庄家:%D%\r结果:玩家赢 奖励：%参数1%金币
+返回
+如果尾
+如果:%J%==6
+$写 卡片数据/%群号%/%QQ%/积分 a [%I%-%参数1%]$
+发牌:  A        B        C      点数\r玩家:%D%\r庄家:%H%\r结果:庄家赢 扣除：%参数1%金币
+返回
+如果尾
+如果:%J%==7
+$写 卡片数据/%群号%/%QQ%/积分 a [%I%-%参数1%]$
+发牌:  A        B        C      点数\r玩家:%E%\r庄家:%F%\r结果:庄家赢 扣除：%参数1%金币
+
+(卡密系统|卡密)
+P:$读 卡片数据/%群号%/运行状态 g 0$
+如果:%P%==0
+返回
+如果尾
+🔫====无情群管====🔫\r♞设置卡密@昵称 密码 面额\r♞使用卡密 密码\r♞删除卡密 QQ\r♞查看卡密\r🔫====卡密系统====🔫
+
+设置卡密@.* [0-9-a-z-A-Z]+ [0-9]+
+P:$读 卡片数据/%群号%/运行状态 g 0$
+D:$读 卡片数据/记录昵称文件/%群号%/%AT0% a %AT0%$
+E:$读 卡片数据/%群号%/%QQ%/小主人 a 0$
+如果:%P%==0
+返回
+如果尾
+如果:%E%==0
+$调用 50 主人框架$
+返回
+如果尾
+如果:%AT0%==null
+亲艾特不可以复制的哦  
+返回
+如果尾
+$写 卡片数据/%群号%/%AT0%/卡密中心 a %参数1%$
+$写 卡片数据/%群号%/%AT0%/卡密金额 a %参数2%$
+🔫====卡密系统====🔫\r设置【%D%】的卡密成功！\r卡密是【%参数1%】\r面额是【%参数2%】\r🔫====设置成功====🔫   
+
+使用卡密 [0-9-a-z-A-Z]+
+P:$读 卡片数据/%群号%/运行状态 g 0$
+D:$读 卡片数据/%群号%/%QQ%/积分 a 0$
+E:$读 卡片数据/%群号%/%QQ%/卡密中心 a 暂无密码$
+F:$读 卡片数据/%群号%/%QQ%/卡密金额 a 0$
+如果:%P%==0
+返回
+如果尾
+如果:%E%==%参数1%
+$写 卡片数据/%群号%/%QQ%/积分 a [%D%+%F%]$
+$写 卡片数据/%群号%/%QQ%/卡密金额 a 0$
+$写 卡片数据/%群号%/%QQ%/卡密中心 a 0$
+🔫====卡密系统====🔫\r【%昵称%】使用【%F%】金额卡密成功\r已自动充值【%F%】金币 \r你共有【[%D%+%F%]】金币\r🔫====使用成功====🔫
+返回
+如果尾
+❌====卡密警告====❌\r卡密错误!请联系群主或管理进行购买！\r❌====使用失败====❌
+
+查看卡密
+P:$读 卡片数据/%群号%/运行状态 g 0$
+E:$读 卡片数据/%群号%/%QQ%/卡密金额 a 0$
+D:$读 卡片数据/%群号%/%QQ%/卡密中心 a 0$
+如果:%P%==0
+返回
+如果尾
+如果:%D%==0
+❌====查看警告====❌\r【%昵称%】对不起你暂无卡密!\r❌====查看失败====❌
+返回
+如果尾
+⭕====查看提示====⭕\r【%昵称%】你的卡密是【%D%】\r卡密金额是【%E%】金币\r⭕====查看成功====⭕
+
+(坐骑系统|坐骑)
+P:$读 卡片数据/%群号%/运行状态 g 0$
+如果:%P%==0
+返回
+如果尾
+🐎====无情群管====🐎♡ 玉瓷葫芦  ※  七彩小驴 ♡\r
+♡ 天使猪猪  ※  怒雷狂狮 ♡\r
+♡ 腾云仙牛  ※  玄火神驹 ♡\r
+♡ 星华飞马  ※  开明天兽 ♡\r
+♡ 暗影战豹  ※  战火穷奇 ♡\r🐎====坐骑系统====🐎
+
+玉瓷葫芦
+P:$读 卡片数据/%群号%/运行状态 g 0$
+如果:%P%==0
+返回
+如果尾
+🐎====坐骑系统====🐎±img=http://ww4.sinaimg.cn/large/0060lm7Tly1fk9k9splhag304c03ut9u.jpg±\r
+♡玉瓷葫芦♡\r
+☞价格☜：1000金币\r
+☞用途☜：系统出场携带坐骑\r
+☞奖励☜：出场随机获得金币\r🐎====玉瓷葫芦====🐎
+
+七彩小驴
+P:$读 卡片数据/%群号%/运行状态 g 0$
+如果:%P%==0
+返回
+如果尾
+🐎====坐骑系统====🐎\r±img=http://ww3.sinaimg.cn/large/0060lm7Tly1fk9kd3larag305k05k0t3.jpg±♡七彩小驴♡\r☞价格☜：2000金币\r☞用途☜：系统出场携带坐骑\r☞奖励☜：出场随机获得金币\r🐎====七彩小驴====🐎
+
+天使猪猪
+P:$读 卡片数据/%群号%/运行状态 g 0$
+如果:%P%==0
+返回
+如果尾
+🐎====坐骑系统====🐎\r±img=http://ww1.sinaimg.cn/large/0060lm7Tly1fk9kf9uqsvg305k05kmxz.jpg±♡天使猪猪♡\r☞价格☜：3000金币\r☞用途☜：系统出场携带坐骑\r☞奖励☜：出场随机获得金币\r🐎====天使猪猪====🐎
+
+怒雷狂狮
+P:$读 卡片数据/%群号%/运行状态 g 0$
+如果:%P%==0
+ 返回
+如果尾
+🐎====坐骑系统====🐎\r±img=http://ww2.sinaimg.cn/large/0060lm7Tly1fk9kh9byu6g305k05kdhc.jpg±♡怒雷狂狮♡\r☞价格☜：4000金币\r☞用途☜：系统出场携带坐骑\r☞奖励☜：出场随机获得金币\r🐎====怒雷狂狮====🐎
+
+腾云仙牛
+P:$读 卡片数据/%群号%/运行状态 g 0$
+如果:%P%==0
+返回
+如果尾
+🐎====坐骑系统====🐎\r±img=http://ww2.sinaimg.cn/large/0060lm7Tly1fk9kkgafiij30f80dfjto.jpg±♡腾云仙牛♡\r☞价格☜：5000金币\r☞用途☜：系统出场携带坐骑\r☞奖励☜：出场随机获得金币\r🐎====腾云仙牛====🐎
+
+玄火神驹
+P:$读 卡片数据/%群号%/运行状态 g 0$
+如果:%P%==0
+返回
+如果尾
+🐎====坐骑系统====🐎\r±img=http://ww2.sinaimg.cn/large/0060lm7Tly1fk9klrpvd8j30de0793zg.jpg±♡玄火神驹♡\r☞价格☜：6000金币\r☞用途☜：系统出场携带坐骑\r☞奖励☜：出场随机获得金币\r🐎====玄火神驹====🐎
+
+星华飞马
+P:$读 卡片数据/%群号%/运行状态 g 0$
+如果:%P%==0
+返回
+如果尾
+🐎====坐骑系统====🐎\r±img=http://ww3.sinaimg.cn/large/0060lm7Tly1fk9kn747h9g306m06btab.jpg±♡星华飞马♡\r☞价格☜：7000金币\r☞用途☜：系统出场携带坐骑\r☞奖励☜：出场随机获得金币\r🐎====兴华飞马====🐎
+
+开明天兽
+P:$读 卡片数据/%群号%/运行状态 g 0$
+如果:%P%==0
+返回
+如果尾
+🐎====坐骑系统====🐎\r±img=http://ww4.sinaimg.cn/large/0060lm7Tly1fk9ko73q2qj30dw0c9q3g.jpg±♡开明天兽♡\r☞价格☜：8000金币\r☞用途☜：系统出场携带坐骑\r☞奖励☜：出场随机获得金币\r🐎====开明天兽====🐎
+
+暗影战豹
+P:$读 卡片数据/%群号%/运行状态 g 0$
+如果:%P%==0
+返回
+如果尾
+🐎====坐骑系统====🐎\r±img=http://ww4.sinaimg.cn/large/0060lm7Tly1fk9kr590zrg305k05kt9q.jpg±♡暗影战豹♡\r☞价格☜：9000金币\r☞用途☜：系统出场携带坐骑\r☞奖励☜：出场随机获得金币\r🐎====暗影战豹====🐎
+
+战火穷奇
+P:$读 卡片数据/%群号%/运行状态 g 0$
+如果:%P%==0
+返回
+如果尾
+🐎====坐骑系统====🐎\r±img=http://ww1.sinaimg.cn/large/0060lm7Tly1fk9krk68nsg308b08wjvp.jpg±♡战火穷奇♡\r☞价格☜：10000金币\r☞用途☜：系统出场携带坐骑\r☞奖励☜：出场随机获得金币\r🐎====战火穷奇====🐎
+
+购买 玉瓷葫芦|购买玉瓷葫芦
+P:$读 卡片数据/%群号%/运行状态 g 0$
+D:$读 卡片数据/%群号%/%QQ%/积分 a 0$
+如果:%P%==0
+返回
+如果尾
+如果:%D%>=1000
+$写 卡片数据/%群号%/%QQ%/坐骑 a 1$
+$写 卡片数据/%群号%/%QQ%/积分 a [%D%-1000]$
+🐎====购买坐骑====🐎\r±img=http://ww4.sinaimg.cn/large/0060lm7Tly1fk9k9splhag304c03ut9u.jpg±〖%昵称%〗购买玉瓷葫芦成功，以后玉瓷葫芦就是你的了。 \r 🐎====购买成功====🐎
+返回
+如果尾
+$调用 50 金币框架$
+
+购买 七彩小驴|购买七彩小驴
+P:$读 卡片数据/%群号%/运行状态 g 0$
+D:$读 卡片数据/%群号%/%QQ%/积分 a 0$
+如果:%P%==0
+返回
+如果尾
+如果:%D%>=2000
+$写 卡片数据/%群号%/%QQ%/坐骑 a 2$
+$写 卡片数据/%群号%/%QQ%/积分 a [%D%-2000]$
+🐎====购买坐骑====🐎\r±img=http://ww3.sinaimg.cn/large/0060lm7Tly1fk9kd3larag305k05k0t3.jpg±〖%昵称%〗购买七彩小驴成功，以后七彩小驴就是你的了。 \r 🐎====购买成功====🐎
+返回
+如果尾
+$调用 50 金币框架$
+
+购买 天使猪猪|购买天使猪猪
+P:$读 卡片数据/%群号%/运行状态 g 0$
+D:$读 卡片数据/%群号%/%QQ%/积分 a 0$
+如果:%P%==0
+返回
+如果尾
+如果:%D%>=3000
+$写 卡片数据/%群号%/%QQ%/坐骑 a 3$
+$写 卡片数据/%群号%/%QQ%/积分 a [%D%-3000]$
+🐎====购买坐骑====🐎\r±img=http://ww1.sinaimg.cn/large/0060lm7Tly1fk9kf9uqsvg305k05kmxz.jpg±〖%昵称%〗购买天使猪猪成功，以后天使猪猪就是你的了。 \r 🐎====购买成功====🐎
+返回
+如果尾
+$调用 50 金币框架$
+
+购买 怒雷狂狮|购买怒雷狂狮
+P:$读 卡片数据/%群号%/运行状态 g 0$
+D:$读 卡片数据/%群号%/%QQ%/积分 a 0$
+如果:%P%==0
+返回
+如果尾
+如果:%D%>=4000
+$写 卡片数据/%群号%/%QQ%/坐骑 a 4$
+$写 卡片数据/%群号%/%QQ%/积分 a [%D%-4000]$
+🐎====购买坐骑====🐎\r±img=http://ww2.sinaimg.cn/large/0060lm7Tly1fk9kh9byu6g305k05kdhc.jpg±〖%昵称%〗购买怒雷狂狮成功，以后怒雷狂狮就是你的了。 \r 🐎====购买成功====🐎
+返回
+如果尾
+$调用 50 金币框架$
+
+购买 腾云仙牛|购买腾云仙牛
+P:$读 卡片数据/%群号%/运行状态 g 0$
+D:$读 卡片数据/%群号%/%QQ%/积分 a 0$
+如果:%P%==0
+返回
+如果尾
+如果:%D%>=5000
+$写 卡片数据/%群号%/%QQ%/坐骑 a 5$
+$写 卡片数据/%群号%/%QQ%/积分 a [%D%-5000]$
+🐎====购买坐骑====🐎\r±img=http://ww2.sinaimg.cn/large/0060lm7Tly1fk9kkgafiij30f80dfjto.jpg±〖%昵称%〗购买腾云仙牛成功，以后腾云仙牛就是你的了。 \r 🐎====购买成功====🐎
+返回
+如果尾
+$调用 50 金币框架$
+
+购买 玄火神驹|购买玄火神驹
+P:$读 卡片数据/%群号%/运行状态 g 0$
+D:$读 卡片数据/%群号%/%QQ%/积分 a 0$
+如果:%P%==0
+返回
+如果尾
+如果:%D%>=6000
+$写 卡片数据/%群号%/%QQ%/坐骑 a 6$
+$写 卡片数据/%群号%/%QQ%/积分 a [%D%-6000]$
+🐎====购买坐骑====🐎\r±img=http://ww2.sinaimg.cn/large/0060lm7Tly1fk9klrpvd8j30de0793zg.jpg±〖%昵称%〗购买玄火神驹成功，以后玄火神驹就是你的了。 \r 🐎====购买成功====🐎
+返回
+如果尾
+$调用 50 金币框架$
+
+购买 星华飞马|购买星华飞马
+P:$读 卡片数据/%群号%/运行状态 g 0$
+D:$读 卡片数据/%群号%/%QQ%/积分 a 0$
+如果:%P%==0
+返回
+如果尾
+如果:%D%>=7000
+$写 卡片数据/%群号%/%QQ%/坐骑 a 7$
+$写 卡片数据/%群号%/%QQ%/积分 a [%D%-7000]$
+🐎====购买坐骑====🐎\r±img=http://ww3.sinaimg.cn/large/0060lm7Tly1fk9kn747h9g306m06btab.jpg±〖%昵称%〗购买星华飞马成功，以后星华飞马就是你的了。   \r 🐎====购买成功====🐎
+返回
+如果尾
+$调用 50 金币框架$
+
+购买 开明天兽|购买开明天兽
+P:$读 卡片数据/%群号%/运行状态 g 0$
+D:$读 卡片数据/%群号%/%QQ%/积分 a 0$
+如果:%P%==0
+返回
+如果尾
+如果:%D%>=8000
+$写 卡片数据/%群号%/%QQ%/坐骑 a 8$
+$写 卡片数据/%群号%/%QQ%/积分 a [%D%-8000]$
+🐎====购买坐骑====🐎\r±img=http://ww4.sinaimg.cn/large/0060lm7Tly1fk9ko73q2qj30dw0c9q3g.jpg±〖%昵称%〗购买开明天兽成功，以后开明天兽就是你的了。 \r 🐎====购买成功====🐎
+返回
+如果尾
+$调用 50 金币框架$
+
+购买 暗影战豹|购买暗影战豹
+P:$读 卡片数据/%群号%/运行状态 g 0$
+D:$读 卡片数据/%群号%/%QQ%/积分 a 0$
+如果:%P%==0
+返回
+如果尾
+如果:%D%>=9000
+$写 卡片数据/%群号%/%QQ%/坐骑 a 9$
+$写 卡片数据/%群号%/%QQ%/积分 a [%D%-9000]$
+🐎====购买坐骑====🐎\r±img=http://ww4.sinaimg.cn/large/0060lm7Tly1fk9kr590zrg305k05kt9q.jpg±〖%昵称%〗购买暗影战豹成功，以后暗影战豹就是你的了。 \r 🐎====购买成功====🐎
+返回
+如果尾
+$调用 50 金币框架$
+
+购买 战火穷奇|购买战火穷奇
+P:$读 卡片数据/%群号%/运行状态 g 0$
+D:$读 卡片数据/%群号%/%QQ%/积分 a 0$
+如果:%P%==0
+返回
+如果尾
+如果:%D%>=10000
+$写 卡片数据/%群号%/%QQ%/坐骑 a 10$
+$写 卡片数据/%群号%/%QQ%/积分 a [%D%-10000]$
+🐎====购买坐骑====🐎\r±img=http://ww2.sinaimg.cn/large/0060lm7Tly1fk9klrpvd8j30de0793zg.jpg±〖%昵称%〗购买战火穷奇成功，以后战火穷奇就是你的了。 \r 🐎====购买成功====🐎
+返回
+如果尾
+$调用 50 金币框架$
+
+购物系统
+P:$读 卡片数据/%群号%/运行状态 g 0$
+A:$读 卡片数据/%群号%/卡片大小 a 6$
+B:$读 卡片数据/%群号%/卡片大小 b 3$
+C:$读 卡片数据/%群号%/卡片大小 c 27$
+V:$读 卡片数据/%群号%/兼容 a msg.$
+如果:%P%==0
+返回
+如果尾
+🍂====无情群管====🍂\r♡体力药剂 650金币♡\r♡解毒药剂 600金币♡\r♡抽奖券 500金币♡\r♡会员 5000荣誉♡\r炸弹 300金币\r拆弹卡 300金币\r购买指令如:【购买会员】\r🍂====购物系统====🍂
+
+使用解毒药剂
+P:$读 卡片数据/%群号%/运行状态 g 0$
+D:$读 卡片数据/%群号%/%QQ%/解毒药剂 a 0$
+如果:%P%==0
+返回
+如果尾
+如果:%D%>0
+$写 卡片数据/%群号%/%QQ%/中毒 a 0$
+$写 卡片数据/%群号%/%QQ%/解毒药剂 a [%D%-1]$
+💊====解毒药剂====💊\r±img=http://ww3.sinaimg.cn/large/0060lm7Tly1fk9l6nlzeej30ic0abdgp.jpg±使用成功，成功解除中毒状态！ \r💊 ====使用成功====💊
+返回
+如果尾
+💊====解毒药剂====💊\r±img=http://ww3.sinaimg.cn/large/0060lm7Tly1fk9l6nlzeej30ic0abdgp.jpg±对不起解毒药剂不足哦！请到购物系统购买\r💊====使用失败====💊
+
+购买解毒药剂
+P:$读 卡片数据/%群号%/运行状态 g 0$
+D:$读 卡片数据/%群号%/%QQ%/解毒药剂 a 0$
+E:$读 卡片数据/%群号%/%QQ%/积分 a 0$
+如果:%P%==0
+返回
+如果尾
+如果:%E%>=600
+$写 卡片数据/%群号%/%QQ%/解毒药剂 a [%D%+1]$
+$写 卡片数据/%群号%/%QQ%/积分 a [%E%-600]$
+💊====解毒药剂====💊\r±img=http://ww3.sinaimg.cn/large/0060lm7Tly1fk9l6nlzeej30ic0abdgp.jpg±购买1个解毒药剂成功！请发送〖使用解毒药剂〗使用！\r💊====购买成功====💊
+返回
+如果尾
+$调用 50 金币框架$
+
+使用体力药剂
+P:$读 卡片数据/%群号%/运行状态 g 0$
+D:$读 卡片数据/%群号%/%QQ%/体力药剂 a 0$
+E:$读 卡片数据/%群号%/%QQ%/体力 a 0$
+如果:%P%==0
+返回
+如果尾
+如果:%D%>=0
+$写 卡片数据/%群号%/%QQ%/体力药剂 a [%D%-1]$
+$写 卡片数据/%群号%/%QQ%/体力 a [%E%+50]$
+💊====体力药剂====💊±img=http://ww3.sinaimg.cn/large/0060lm7Tly1fk9l6nlzeej30ic0abdgp.jpg±使用成功，体力加50点！ \r 💊====使用成功====💊
+返回
+如果尾
+💊====体力药剂====💊±img=http://ww3.sinaimg.cn/large/0060lm7Tly1fk9l6nlzeej30ic0abdgp.jpg±对不起体力药剂不足哦，请到购物系统购买！\r 💊====使用失败====💊
+
+购买体力药剂
+P:$读 卡片数据/%群号%/运行状态 g 0$
+D:$读 卡片数据/%群号%/%QQ%/体力药剂 a 0$
+E:$读 卡片数据/%群号%/%QQ%/积分 a 0$
+如果:%P%==0
+返回
+如果尾
+如果:%E%>=650
+$写 卡片数据/%群号%/%QQ%/体力药剂 a [%D%+1]$
+$写 卡片数据/%群号%/%QQ%/积分 a [%E%-650]$
+💊====体力药剂====💊\r±img=http://ww3.sinaimg.cn/large/0060lm7Tly1fk9l6nlzeej30ic0abdgp.jpg±购买1个体力药剂成功！请发送〖使用体力药剂〗使用！\r💊====购买成功====💊
+返回
+如果尾
+💊====体力药剂====💊 %昵称%对不起你金币不足，购买失败哦！\r💊====购买失败====💊
+
+购买 抽奖券|购买抽奖券
+P:$读 卡片数据/%群号%/运行状态 g 0$
+D:$读 卡片数据/%群号%/%QQ%/抽奖券 a 0$
+E:$读 卡片数据/%群号%/%QQ%/积分 a 0$
+如果:%P%==0
+返回
+如果尾
+如果:%E%>=500
+$写 卡片数据/%群号%/%QQ%/抽奖券 a [%D%+1]$
+$写 卡片数据/%群号%/%QQ%/积分 a [%E%-500]$
+🎊====购买奖券====🎊\r±img=http://ww4.sinaimg.cn/large/0060lm7Tly1fk9ldngekrj30k90rmq4a.jpg±【%昵称%】购买1张抽奖券成功！你还有〖[%D%+1]〗抽奖券\r🎊====购买成功====🎊
+返回
+如果尾
+🎊====购买奖券====🎊\r±img=http://ww4.sinaimg.cn/large/0060lm7Tly1fk9ldngekrj30k90rmq4a.jpg±【%昵称%】对不起金币不足！\r🎉====购买失败====🎉
+
+购买抽奖券 [0-9]+
+P:$读 卡片数据/%群号%/运行状态 g 0$
+D:$读 卡片数据/%群号%/%QQ%/抽奖券 a 0$
+E:$读 卡片数据/%群号%/%QQ%/积分 a 0$
+F:[%参数1%*500]
+如果:%P%==0
+返回
+如果尾
+如果:%参数1%>10
+🎊====购买奖券====🎊\r±img=http://ww4.sinaimg.cn/large/0060lm7Tly1fk9ldngekrj30k90rmq4a.jpg±【%昵称%】对不起抽奖券购买上限10张\r🎊====购买上限====🎊
+返回
+如果尾
+如果:%F%>%E%
+🎊====购买奖券====🎊\r±img=http://ww4.sinaimg.cn/large/0060lm7Tly1fk9ldngekrj30k90rmq4a.jpg±【%昵称%】对不起金币不足！\r🎊====金币不足====🎊
+返回
+如果尾
+如果:%F%>=500
+$写 卡片数据/%群号%/%QQ%/抽奖券 a [%D%+%参数1%]$
+$写 卡片数据/%群号%/%QQ%/积分 a [%E%-%F%]$
+🎊====购买奖券====🎊\r±img=http://ww4.sinaimg.cn/large/0060lm7Tly1fk9ldngekrj30k90rmq4a.jpg±【%昵称%】花费[%参数1%*500]金币购买%参数1%张抽奖券成功！你还有〖[%F%+%参数1%]〗抽奖券\r🎊====购买成功====🎊
+
+购买炸弹
+P:$读 卡片数据/%群号%/运行状态 g 0$
+D:$读 卡片数据/%群号%/%QQ%/炸弹 a 0$
+E:$读 卡片数据/%群号%/%QQ%/积分 a 0$
+如果:%P%==0
+返回
+如果尾
+如果:%E%>=300
+$写 卡片数据/%群号%/%QQ%/炸弹 a [%D%+5]$
+$写 卡片数据/%群号%/%QQ%/积分 a [%E%-300]$
+📬====无情群管====📬\r±img=http://www.ce.cn/xwzx/gjss/gdxw/200602/10/W020060210793056759176.jpg±购买5个炸弹成功\r📬====操作成功====📬
+返回
+如果尾
+📬====无情群管====📬\r %昵称%对不起你金币不足，购买失败哦！\r📬====操作失败====📬
+232
+购买拆弹卡
+P:$读 卡片数据/%群号%/运行状态 g 0$
+D:$读 卡片数据/%群号%/%QQ%/拆弹卡 a 0$
+E:$读 卡片数据/%群号%/%QQ%/积分 a 0$
+如果:%P%==0
+返回
+如果尾
+如果:%E%>=300
+$写 卡片数据/%群号%/%QQ%/拆弹卡 a [%D%+3]$
+$写 卡片数据/%群号%/%QQ%/积分 a [%E%-300]$
+📬====无情群管====📬\r±img=http://www.ce.cn/xwzx/gjss/gdxw/200602/10/W020060210793056759176.jpg±购买3个拆弹卡成功\r📬====操作成功====📬
+返回
+如果尾
+ 📬====无情群管====📬\r±img=http://www.ce.cn/xwzx/gjss/gdxw/200602/10/W020060210793056759176.jpg±%昵称%对不起你金币不足，购买失败哦！\r📬====操作失败====📬
+
+投票系统
+P:$读 卡片数据/%群号%/运行状态 g 0$
+如果:%P%==0
+返回
+如果尾
+💣====无情群管====💣\r投票禁言 QQ\r投票解禁 QQ\r💊====投票系统====💊
+
+投票禁言 [0-9]+
+P:$读 卡片数据/%群号%/运行状态 g 0$
+D:$读 卡片数据/%群号%/%参数1%/投票 a 0$
+E:$读 卡片数据/%群号%/%QQ%/投票限制 a 0$
+如果:%P%==0
+返回
+如果尾
+如果:%E%==%时间HH%
+💊====投票系统====💊\r%昵称%你本小时已投过票了哦，请下个小时再来！\r💊====投票失败====💊
+返回
+如果尾
+如果:%D%>3
+$禁 %群号% %参数1% [10*60]$
+$写 卡片数据/%群号%/%参数1%/投票 a 0$
+💊====投票禁言====💊已禁言%参数1%10分钟\r💊====禁言成功====💊
+返回
+如果尾
+$写 卡片数据/%群号%/%参数1%/投票 a [%D%+1]$
+$写 卡片数据/%群号%/%QQ%/投票限制 a %时间HH%$
+💊====投票禁言====💊%昵称%投票成功当前已投[%D%+1]票当投票人达到5人禁言10分钟💊====禁言成功====💊
+
+投票解禁 [0-9]+
+P:$读 卡片数据/%群号%/运行状态 g 0$
+D:$读 卡片数据/%群号%/%参数1%/投票 b 0$
+E:$读 卡片数据/%群号%/%QQ%/投票限制 b 0$
+如果:%P%==0
+返回
+如果尾
+如果:%D%==%时间HH%
+💊====投票解禁====💊\r%昵称%你本小时已投过票了哦，请下个小时再来！\r💊====投票失败====💊
+返回
+如果尾
+如果:%E%>3
+$禁 %群号% %参数1% 0$
+💊====投票解禁====💊\r已解禁%参数1%\r💊====解毒成功====💊
+$写 卡片数据/%群号%/%参数1%/投票 b 0$
+返回
+如果尾
+$写 卡片数据/%群号%/%参数1%/投票 b [%E%+1]$
+$写 卡片数据/%群号%/%QQ%/投票限制 b %时间HH%$
+💊====投票解禁====💊\r%昵称%投票成功当前已投[%E%+1]票当投票人达到5人就解除禁言\r💊====投票成功====💊
+
+炸弹系统
+P:$读 卡片数据/%群号%/运行状态 g 0$
+如果:%P%==0
+返回
+如果尾
+💊====无情群管====💊领取炸弹\r领取拆弹卡\r炸@人名\r炸楼下\r炸弹仓库 \r 💊====炸弹系统====💊
+
+拆炸弹
+P:$读 卡片数据/%群号%/运行状态 g 0$
+D:$读 卡片数据/%群号%/%QQ%/拆弹卡 a 0$
+如果:%P%==0
+返回
+如果尾
+如果:%D%>0
+$写 卡片数据/%群号%/炸楼下 a 0$
+$写 卡片数据/%群号%/%QQ%/拆弹卡 a [%D%-1]$
+$写 卡片数据/%群号%/炸楼下开关 a 0$
+📬====无情群管====📬\r±img=http://www.ce.cn/xwzx/gjss/gdxw/200602/10/W020060210793056759176.jpg±%昵称%你已成功拆除炸楼下的炸弹  \r📬====操作成功====📬
+返回
+如果尾
+📬====无情群管====📬\r±img=http://www.ce.cn/xwzx/gjss/gdxw/200602/10/W020060210793056759176.jpg±%昵称%对不起你的拆弹卡不足！\r📬====操作失败====📬
+
+领取拆弹卡
+P:$读 卡片数据/%群号%/运行状态 g 0$
+D:$读 卡片数据/%群号%/%QQ%/限制 g 0$
+E:$读 卡片数据/%群号%/%QQ%/拆弹卡 a 0$
+F:%随机数1-3%
+如果:%P%==0
+返回
+如果尾
+如果:%D%==%时间:dd%
+%昵称%你今天已经领取过拆弹卡了哦！
+返回
+如果尾
+$写 卡片数据/%群号%/%QQ%/限制 g %时间:dd%$
+$写 卡片数据/%群号%/%QQ%/拆弹卡 a [%E%+%F%]$
+领取成功，获得了%F%个拆弹卡。发送【拆炸弹】可以拆除炸楼下的炸弹
+
+炸弹仓库
+P:$读 卡片数据/%群号%/运行状态 g 0$
+D:$读 卡片数据/%群号%/%QQ%/炸弹 a 0$
+E:$读 卡片数据/%群号%/%QQ%/拆弹卡 a 0$
+如果:%P%==0
+返回
+如果尾
+[昵称]:%昵称%\r共有%D%个炸弹！\r共有%E%个拆弹卡！
+
+领取炸弹
+P:$读 卡片数据/%群号%/运行状态 g 0$
+D:$读 卡片数据/%群号%/%QQ%/炸弹限制 a 0$
+E:$读 卡片数据/%群号%/%QQ%/炸弹 a 0$
+F:%随机数20-30%
+如果:%P%==0
+返回
+如果尾
+如果:%D%==%时间:dd%
+%昵称%你今天已经领取过炸弹了哦！  
+返回
+如果尾
+$写 卡片数据/%群号%/%QQ%/炸弹限制 a %时间:dd%$
+$写 卡片数据/%群号%/%QQ%/炸弹 a [%E%+%F%]$
+领取成功，获得了%F%个炸弹。
+
+炸@.*
+P:$读 卡片数据/%群号%/运行状态 g 0$
+D:$读 卡片数据/%群号%/%QQ%/炸弹 a 0$
+F:$读 卡片数据/记录昵称文件/%群号%/%AT0% a %AT0%$
+如果:%P%==0
+返回
+如果尾
+如果:%D%==0
+%昵称%对不起你炸弹不足，请发〖领取炸弹〗领取炸弹！  
+返回
+如果尾
+$禁 %群号% %AT0% 60$
+$写 卡片数据/%群号%/%QQ%/炸弹 a [%D%-1]$
+使用成功，成功把%F%炸晕了！  
+
+炸楼下
+P:$读 卡片数据/%群号%/运行状态 g 0$
+D:$读 卡片数据/%群号%/%QQ%/炸弹 a 0$
+如果:%P%==0
+返回
+如果尾
+如果:%D%==0
+%昵称%对不起你炸弹不足，请发〖领取炸弹〗领取炸弹！
+返回
+如果尾
+$写 卡片数据/%群号%/%QQ%/炸弹 a [%D%-1]$
+$写 卡片数据/%群号%/炸楼下开关 a 1$
+使用成功，下一个说话者将给炸晕！
+
+会员仓库
+P:$读 卡片数据/%群号%/运行状态 g 0$
+J:$读 卡片数据/%群号%/%QQ%/金币卡 a 0$
+I:$读 卡片数据/%群号%/%QQ%/经验卡 a 0$
+H:$读 卡片数据/%群号%/%QQ%/荣誉卡 a 0$
+E:$读 卡片数据/%群号%/%QQ%/禁言卡 a 0$
+F:$读 卡片数据/%群号%/%QQ%/解禁卡 a 0$
+G:$读 卡片数据/%群号%/%QQ%/名片卡 a 0$
+如果:%P%==0
+返回
+如果尾
+±img=http://q2.qlogo.cn/headimg_dl?bs=qq&dst_uin=%QQ%&spec=100±%昵称%±img=http://pic.58pic.com/58pic/12/43/31/68e58PICVFn.jpg±金币卡:%J%张 ☆ 经验卡:%I%张\r荣誉卡:%H%张 ☆ 禁言卡:%E%张\r解禁卡:%F%张 ☆ 名片卡:%G%张  
+
+会员系统
+P:$读 卡片数据/%群号%/运行状态 g 0$
+如果:%P%==0
+返回
+如果尾
+📬====无情群管====📬\r领取会员礼包\r会员仓库\r会员商城（待加）\r会员坐骑商城（待加）\r会员宠物商城（待加）\r会员游戏（待加）\r会员房产（待加）\r📬====会员系统====📬
+
+(购买会员|购买 会员)
+P:$读 卡片数据/%群号%/运行状态 g 0$
+D:$读 卡片数据/%群号%/%QQ%/会员 a 0$
+E:$读 卡片数据/%群号%/%QQ%/荣誉 a 0$
+如果:%P%==0
+返回
+如果尾
+如果:%D%==1
+📬====无情群管====📬\r±img=http://pic.58pic.com/58pic/12/43/31/68e58PICVFn.jpg±±img=http://q2.qlogo.cn/headimg_dl?bs=qq&dst_uin=%QQ%&spec=100±【%昵称%】您已是会员，请勿重复购买！\r📬====操作失败====📬
+返回
+如果尾
+如果:%E%<4999
+📬====无情群管====📬\r【%昵称%】 你的荣誉不足，请先充值！会员需要5000荣誉！\r📬====操作失败====📬
+返回
+如果尾
+$写 卡片数据/%群号%/%QQ%/荣誉 a [%E%-5000]$
+$写 卡片数据/%群号%/%QQ%/会员 a 1$
+$写 卡片数据/%群号%/%QQ%/会员显示 a VIP会员$
+📬====无情群管====📬\r±img=http://pic.58pic.com/58pic/12/43/31/68e58PICVFn.jpg±〖%昵称%〗购买会员成功！您已是尊贵的VIP了噢\r📬====操作成功====📬
+
+(领取会员礼包|领取VIP卡)
+P:$读 卡片数据/%群号%/运行状态 g 0$
+D:$读 卡片数据/%群号%/%QQ%/会员 a 0$
+E:$读 卡片数据/%群号%/%QQ%/会员限制 a 0$
+F:$读 卡片数据/%群号%/%QQ%/禁言卡 a 0$
+G:$读 卡片数据/%群号%/%QQ%/金币卡 a 0$
+H:$读 卡片数据/%群号%/%QQ%/荣誉卡 a 0$
+I:$读 卡片数据/%群号%/%QQ%/经验卡 a 0$
+J:$读 卡片数据/%群号%/%QQ%/名片卡 a 0$
+K:$读 卡片数据/%群号%/%QQ%/解禁卡 a 0$
+如果:%P%==0
+返回
+如果尾
+如果:%D%==0
+📬====无情群管====📬\r±img=http://q2.qlogo.cn/headimg_dl?bs=qq&dst_uin=%QQ%&spec=100±〖%昵称%〗对不起你不是会员  \r📬====操作失败====📬
+返回
+如果尾
+如果:%E%==%时间dd%
+📬====无情群管====📬\r±img=http://pic.58pic.com/58pic/12/43/31/68e58PICVFn.jpg±〖%昵称%〗你今天已领过会员礼包了，请明天再来\r📬====操作失败====📬
+返回
+如果尾
+$写 卡片数据/%群号%/%QQ%/会员限制 a %时间dd%$
+$写 卡片数据/%群号%/%QQ%/禁言卡 a [%F%+1]$
+$写 卡片数据/%群号%/%QQ%/金币卡 a [%G%+1]$
+$写 卡片数据/%群号%/%QQ%/荣誉卡 a [%H%+1]$
+$写 卡片数据/%群号%/%QQ%/经验卡 a [%I%+1]$
+$写 卡片数据/%群号%/%QQ%/名片卡 a [%J%+1]$
+$写 卡片数据/%群号%/%QQ%/解禁卡 a [%K%+1]$
+恭喜尊敬的会员〖%昵称%〗领取会员礼包内有【禁言卡。解禁卡。荣誉卡。金币卡。经验卡】各一张
+
+使用金币卡|使用 金币卡
+P:$读 卡片数据/%群号%/运行状态 g 0$
+D:$读 卡片数据/%群号%/%QQ%/会员 a 0$
+E:$读 卡片数据/%群号%/%QQ%/金币卡 a 0$
+F:$读 卡片数据/%群号%/%QQ%/积分 a 0$
+G:%随机数1000-3000%
+如果:%P%==0
+返回
+如果尾
+如果:%D%==0
+〖%昵称%〗对不起你不是会员  
+返回
+如果尾
+如果:%E%==0
+〖%昵称%〗对不起你金币卡不足  
+返回
+如果尾
+$写 卡片数据/%群号%/%QQ%/金币卡 a [%E%-1]$
+$写 卡片数据/%群号%/%QQ%/积分 a [%F%+%G%]$
+%昵称%恭喜你获得金币:%G%  
+
+(使用 经验卡|使用经验卡)
+P:$读 卡片数据/%群号%/运行状态 g 0$
+D:$读 卡片数据/%群号%/%QQ%/会员 a 0$
+E:$读 卡片数据/%群号%/%QQ%/经验卡 a 0$
+F:$读 卡片数据/%群号%/%QQ%/经验 a 0$
+G:%随机数100-500%
+如果:%P%==0
+返回
+如果尾
+如果:%D%==0
+📬====无情群管====📬\r±img=http://q2.qlogo.cn/headimg_dl?bs=qq&dst_uin=%QQ%&spec=100±〖%昵称%〗对不起你不是会员  \r📬====操作失败====📬
+返回
+如果尾
+如果:%E%==0
+〖%昵称%〗对不起你经验卡不足  
+返回
+如果尾
+$写 卡片数据/%群号%/%QQ%/经验卡 a [%E%-1]$
+$写 卡片数据/%群号%/%QQ%/经验 a [%F%+%G%]$
+%昵称%恭喜你获得经验:%G%
+
+(使用 荣誉卡|使用荣誉卡)
+P:$读 卡片数据/%群号%/运行状态 g 0$
+D:$读 卡片数据/%群号%/%QQ%/荣誉卡 a 0$
+E:$读 卡片数据/%群号%/%QQ%/荣誉 a 0$
+F:%随机数500-1000%
+如果:%P%==0
+返回
+如果尾
+如果:%D%==0
+〖%昵称%〗对不起你荣誉卡不足  
+返回
+如果尾
+$写 卡片数据/%群号%/%QQ%/荣誉卡 a [%D%-1]$
+$写 卡片数据/%群号%/%QQ%/荣誉 a [%E%+%F%]$
+%昵称%获得荣誉:%F%
+
+(使用名片卡|修名片) [0-9]+ [0-9]+
+P:$读 卡片数据/%群号%/运行状态 g 0$
+D:$读 卡片数据/%群号%/%QQ%/名片卡 g 0$
+E:$读 卡片数据/记录昵称文件/%群号%/%参数1% g %参数1%$
+如果:%P%==0
+返回
+如果尾
+如果:%D%==0
+〖%昵称%〗对不起你名片卡不足  
+返回
+如果尾
+$改 %群号% %参数1% %参数2%$
+$写 卡片数据/%群号%/%QQ%/名片卡 g [%D%-1]$
+%E%给%昵称%使用名片卡修改了名片现在他的名片是%参数2%  
+
+(使用禁言卡|禁) [0-9]+ [0-9]+
+P:$读 卡片数据/%群号%/运行状态 g 0$
+D:$读 卡片数据/%群号%/%QQ%/禁言卡 a 0$
+E:$读 卡片数据/记录昵称文件/%群号%/%参数1% a %参数1%$
+如果:%P%==0
+返回
+如果尾
+如果:%D%==0
+〖%昵称%〗对不起你禁言卡不足  
+返回
+如果尾
+$写 卡片数据/%群号%/%QQ%/禁言卡 a [%D%-1]$
+$禁 %群号% %参数1% [%参数2%*60]$
+%E%给%昵称%使用禁言卡禁言了%参数2%分钟  
+
+(使用解禁卡|解) [0-9]+
+P:$读 卡片数据/%群号%/运行状态 g 0$
+D:$读 卡片数据/%群号%/%QQ%/解禁卡 a 0$
+E:$读 卡片数据/记录昵称文件/%群号%/%参数1% a %参数1%$
+如果:%P%==0
+返回
+如果尾
+如果:%D%==0
+〖%昵称%〗对不起你解禁卡不足
+返回
+如果尾
+$禁 %群号% %参数1% 0$
+$写 卡片数据/%群号%/%QQ%/解禁卡 a [%D%-1]$ 
+%E%给%昵称%使用解禁卡解除了禁言♥
+
+留言系统
+P:$读 卡片数据/%群号%/运行状态 g 0$
+如果:%P%==0
+返回
+如果尾
+📬====无情群管====📬\r留言 QQ 内容\r查看信箱\rPS:查看留言信箱会自动清空！  \r📬====留言系统====📬
+
+留言 [0-9]+ .*
+P:$读 卡片数据/%群号%/运行状态 g 0$
+D:$读 卡片数据/%群号%/%参数1%/信箱 jf 0$
+如果:%P%==0
+返回
+如果尾
+%昵称%
+如果:%D%==5
+📬====留言系统====📬\r对不起对方留言信箱已满！没法再发送留言！\r📬====留言失败====📬 
+返回
+如果尾
+$写 卡片数据/%群号%/%参数1%/信箱 jf [%D%+1]$
+如果:%D%==0
+$写 卡片数据/%群号%/%参数1%/信箱 0 〖%昵称%〗内容【%参数2%】$
+📬====无情群管====📬\r留言已发    \r📬====留言成功====📬公告:$读 功能数据/%群号%/公告2 a 1$
+返回
+如果尾
+如果:%D%==1
+$写 卡片数据/%群号%/%参数1%/信箱 1 〖%昵称%〗内容【%参数2%】$
+📬====无情群管====📬\r留言已发出    \r📬====留言成功====📬🈲公告:$读 功能数据/%群号%/公告2 a 1$
+返回
+如果尾
+如果:%D%==2
+$写 卡片数据/%群号%/%参数1%/信箱 2 〖%昵称%〗内容【%参数2%】$
+📬====无情群管====📬\r留言已发出    \r📬====留言成功====📬公告:$读 功能数据/%群号%/公告2 a 1$
+返回
+如果尾
+如果:%D%==3
+$写 卡片数据/%群号%/%参数1%/信箱 3 〖%昵称%〗内容【%参数2%】$
+📬====无情群管====📬\r留言已发出    \r📬====留言系统====📬公告:$读 功能数据/%群号%/公告2 a 1$
+返回
+如果尾
+如果:%D%==4
+$写 卡片数据/%群号%/%参数1%/信箱 4 〖%昵称%〗内容【%参数2%】$
+📬====无情群管====📬\r留言已发出    \r📬====留言系统====📬公告:$读 功能数据/%群号%/公告2 a 1$
+
+查看信箱
+P:$读 卡片数据/%群号%/运行状态 g 0$
+C:$读 卡片数据/%群号%/%QQ%/信箱 0 无$
+D:$读 卡片数据/%群号%/%QQ%/信箱 1 无$
+E:$读 卡片数据/%群号%/%QQ%/信箱 2 无$
+F:$读 卡片数据/%群号%/%QQ%/信箱 3 无$
+G:$读 卡片数据/%群号%/%QQ%/信箱 4 无$
+如果:%P%==0
+返回
+如果尾
+$写 卡片数据/%群号%/%QQ%/信箱 jf 0$
+①留言人:%C%\r②留言人:%D%\r③留言人:%E%\r④留言人:%F%\r⑤留言人:%G%
+$写 卡片数据/%群号%/%QQ%/信箱 0 无$
+$写 卡片数据/%群号%/%QQ%/信箱 1 无$
+$写 卡片数据/%群号%/%QQ%/信箱 2 无$
+$写 卡片数据/%群号%/%QQ%/信箱 3 无$
+$写 卡片数据/%群号%/%QQ%/信箱 4 无$
+
+腾讯服务
+P:$读 卡片数据/%群号%/运行状态 g 0$
+如果:%P%==0
+返回
+如果尾
+📬====无情群管====📬\rQQ评估 QQ\rQQ有缘人 QQ\rQQ头像 QQ\rQQ秀 QQ\r空间头像 QQ  \r📬====腾讯服务====📬
+
+(群管系统|群管)
+P:$读 卡片数据/%群号%/运行状态 g 0$
+如果:%P%==0
+返回
+如果尾
+📬====无情群管====📬\r设置/删除小主人@昵称\r开/关机\r清屏\r修改名片@昵称 要修改的名片\r禁言@昵称 时间\r解禁@昵称\r踢人@昵称\r开启/关闭违禁检测\r加/删白名单@昵称\r设置警告时间 时间\r设置警告次数 次数\r清除警告@昵称\r设置公告 内容 \r开启/关闭整点报时   \r📬====群管系统====📬
+
+生成授权@.*
+H:$读 卡片数据/记录昵称文件/%群号%/%AT0% a %AT0%$
+如果:%AT0%==null
+±img=http://1251013732.cdn.myqcloud.com/1251013732/maidrobot/img/erciyuan/%随机数1-499%.jpg±亲！艾特是不能复制的😏  
+返回
+如果尾
+如果:%QQ%==1718967643
+A:[%AT0%*99]
+B:[%A%+20044002]
+📬====无情群管====📬\r【%H%】的授权码为：%B%  \r📬====生成成功====📬
+返回
+如果尾
+📬====无情群管====📬\r生成错误，你不是我的作者  \r📬====生成失败====📬
+
+授权 [0-9]+
+T:$读 卡片数据/%群号%/%QQ%/授权 a 0$
+H:$读 卡片数据/%群号%/授权 a 0$
+如果:%H%==1
+本群已授权，无需重复
+返回
+如果尾
+A:[%QQ%*99]
+B:[%A%+20044002]
+如果:%参数1%==%B%
+====无情群管====\r授权成功，请发送【开机】使用，获取新版本请联系作者，支持正版反对盗版  \r====授权成功====
+$写 卡片数据/%群号%/%QQ%/小主人 a 1$
+$写 卡片数据/%群号%/%QQ%/授权 a 1$
+$写 卡片数据/%群号%/授权 a 1$
+返回
+如果尾
+📬====无情群管====📬\r授权失败，请联系作者授权，作者QQ1718967643  \r📬====授权失败====📬
+
+解除授权 [0-9]+
+T:$读 卡片数据/%群号%/%参数1%/授权 a 0$
+H:$读 卡片数据/%群号%/授权 a 0$
+如果:%H%==0
+📬====无情群管====📬\r这个人未进行授权  \r📬====解除失败====📬
+返回
+如果尾
+如果:%QQ%==1718967643
+📬====无情群管====📬\r解除授权成功！并取消了小主人权限  \r📬====解除成功====📬
+$写 卡片数据/%群号%/%参数1%/小主人 a 0$
+$写 卡片数据/%群号%/%参数1%/授权 a 0$
+$写 卡片数据/%群号%/授权 a 0$
+返回
+如果尾
+📬====无情群管====📬\r解除授权失败，你不是我的作者！  \r📬====解除失败====📬
+
+开机
+D:$读 卡片数据/%群号%/%QQ%/授权 a 0$
+如果:%D%==1
+$写 卡片数据/%群号%/运行状态 g 1$
+====无情群管====\r±img=http://q2.qlogo.cn/headimg_dl?bs=qq&dst_uin=%QQ%&spec=100±操作者:【%昵称%】%QQ%\r身份信息：机器主人\r开机成功请发送 菜单 谢谢\r公告:$读 功能数据/%群号%/公告2 a 1$  \r====开机成功====
+返回
+如果尾
+====无情群管====\r±img=http://q2.qlogo.cn/headimg_dl?bs=qq&dst_uin=%QQ%&spec=100±操作者:【%昵称%】%QQ%\r身份信息：小小群员\r开机失败，请联系主人开机\r
+
+关机
+D:$读 卡片数据/%群号%/%QQ%/授权 a 0$
+A:$读 卡片数据/%群号%/卡片大小 a 6$
+如果:%D%==1
+$写 卡片数据/%群号%/运行状态 g 0$
+====无情群管====\r±img=http://q2.qlogo.cn/headimg_dl?bs=qq&dst_uin=%QQ%&spec=100±操作者:【%昵称%】%QQ%\r身份信息：机器主人\r状态：关机成功\r如需使用请联系主人开机  \r====关机成功====\r公告:$读 功能数据/%群号%/公告2 a 1$
+返回
+如果尾
+📬====无情群管====📬\r±img=http://q2.qlogo.cn/headimg_dl?bs=qq&dst_uin=%QQ%&spec=100±操作者:【%昵称%】%QQ%\r身份信息：小小群员\r状态：关机失败\r如需关机请联系主人关机，谢谢合作
+
+.*(傻逼|你妈|兼职|日赚|SB|神经病|二逼|2逼|刷钻|麻痹|妈逼|鸡巴|傻屌|草泥马|垃圾|sb).*
+P:$读 卡片数据/%群号%/运行状态 g 0$
+D:$读 卡片数据/%群号%/%QQ%/白名单 a 0$
+E:$读 卡片数据/%群号%/%QQ%/警告 a 0$
+F:$读 卡片数据/%群号%/警告时间 a 10$
+G:$读 卡片数据/%群号%/警告开关 a 1$
+H:$读 卡片数据/%群号%/警告次数 a 5$
+如果:%P%==0
+返回
+如果尾
+如果:%G%==0
+返回
+如果尾
+如果:%D%==1
+📬====无情群管====📬\r%昵称%你已在白名单，但也要文明聊天！  \r📬====群管系统====📬
+返回
+如果尾
+$写 卡片数据/%群号%/%QQ%/警告 a [%E%+1]$
+如果:%H%>%E%
+%昵称%发送违禁词$禁 %群号% %QQ% [%F%*60]$被禁言%F%分钟累计已警告[%E%+1]次警告%H%次后自动移除本群！！
+返回
+如果尾
+如果:%E%>=%H%
+$写 卡片数据/%群号%/%QQ%/警告 a 0$
+📬====无情群管====📬\r±img=http://q2.qlogo.cn/headimg_dl?bs=qq&dst_uin=%QQ%&spec=100±%昵称%触犯本群群规，已自动踢%昵称%出本群！！，请大家以他为例子，遵守群规！！！  \r📬====群管系统====📬
+$踢 %群号% %QQ%$
+
+加白名单@.*
+P:$读 卡片数据/%群号%/运行状态 g 0$
+D:$读 卡片数据/%群号%/%QQ%/小主人 a 0$
+E:$读 卡片数据/记录昵称文件/%群号%/%AT0% a %AT0%$
+如果:%P%==0
+返回
+如果尾
+如果:%D%==0
+$调用 50 主人框架$
+返回
+如果尾
+如果:%AT0%==null
+亲！艾特是不能复制的😏  
+返回
+如果尾
+$写 卡片数据/%群号%/%AT0%/白名单 a 1$
+📬====无情群管====📬\r已加白名单%E%  \r📬====添加成功====📬  
+
+删白名单@.*
+P:$读 卡片数据/%群号%/运行状态 g 0$
+D:$读 卡片数据/%群号%/%QQ%/小主人 a 0$
+E:$读 卡片数据/记录昵称文件/%群号%/%AT0% a %AT0%$
+如果:%P%==0
+返回
+如果尾
+如果:%D%==0
+$调用 50 主人框架$
+返回
+如果尾
+如果:%AT0%==null
+亲！艾特是不能复制的😏  
+返回
+如果尾
+$写 卡片数据/%群号%/%AT0%/白名单 a 0$
+📬====无情群管====📬\r已删白名单%E%    \r📬====删除成功====📬
+
+清除警告@.*
+P:$读 卡片数据/%群号%/运行状态 g 0$
+D:$读 卡片数据/%群号%/%QQ%/小主人 a 0$
+E:$读 卡片数据/记录昵称文件/%群号%/%AT0% a %AT0%$
+如果:%P%==0
+返回
+如果尾
+如果:%D%==0
+$调用 50 主人框架$
+返回
+如果尾
+如果:%AT0%==null
+亲！艾特是不能复制的😏  
+返回
+如果尾
+$写 卡片数据/%群号%/%AT0%/警告 a 0$
+📬====无情群管====📬\r已清除%E%的警告次数    \r📬====清除成功====📬
+
+设置警告时间 [0-9]+
+P:$读 卡片数据/%群号%/运行状态 g 0$
+D:$读 卡片数据/%群号%/%QQ%/小主人 a 0$
+如果:%P%==0
+返回
+如果尾
+如果:%D%==0
+$调用 50 主人框架$
+返回
+如果尾
+$写 卡片数据/%群号%/警告时间 a %参数1%$
+📬====无情群管====📬\r警告禁言时间已设置成%参数1%分钟    \r📬====修改成功====📬
+
+关闭违禁检测
+P:$读 卡片数据/%群号%/运行状态 g 0$
+D:$读 卡片数据/%群号%/%QQ%/小主人 a 0$
+如果:%P%==0
+返回
+如果尾
+如果:%D%==0
+$调用 50 主人框架$
+返回
+如果尾
+$写 卡片数据/%群号%/警告开关 a 0$
+📬====无情群管====📬\r违禁词检测已关闭！  \r📬====关闭成功====📬
+
+开启违禁检测
+P:$读 卡片数据/%群号%/运行状态 g 0$
+D:$读 卡片数据/%群号%/%QQ%/小主人 a 0$
+如果:%P%==0
+返回
+如果尾
+如果:%D%==0
+$调用 50 主人框架$
+返回
+如果尾
+$写 卡片数据/%群号%/警告开关 a 1$
+📬====无情群管====📬\r违禁词检测已开启，请文明聊天！  \r📬====开启成功====📬
+
+设置警告次数 [0-9]+
+P:$读 卡片数据/%群号%/运行状态 g 0$
+D:$读 卡片数据/%群号%/%QQ%/小主人 a 0$
+如果:%P%==0
+返回
+如果尾
+如果:%D%==0
+$调用 50 主人框架$
+返回
+如果尾
+$写 卡片数据/%群号%/警告次数 a %参数1%$
+📬====无情群管====📬\r违禁词检测警告次数设置成%参数1%次    \r📬====群管系统====📬
+
+设置小主人@.*
+D:$读 卡片数据/%群号%/%AT0%/小主人 a 0$
+E:$读 卡片数据/记录昵称文件/%群号%/%AT0% a %AT0%$
+P:$读 卡片数据/%群号%/%QQ%/授权 a 0$
+如果:%AT0%==null
+亲！艾特是不能复制的😏  
+返回
+如果尾
+如果:%D%==1
+📬====无情群管====📬\r〖%E%〗已在小主人名单，无需重复设置  \r📬====设置失败====📬\r公告:$读 功能数据/%群号%/公告2 a 1$
+返回
+如果尾
+如果:%P%==1
+$写 卡片数据/%群号%/%AT0%/小主人 a 1$
+📬====无情群管====📬\r成功设置〖%E%〗小主人权限现在他是我小主人了！  \r📬====设置成功====📬
+返回
+如果尾
+〖%昵称%〗你不是我的授权者，无权权限操作！
+
+删除小主人@.*
+D:$读 卡片数据/%群号%/%AT0%/小主人 a 0$
+E:$读 卡片数据/记录昵称文件/%群号%/%AT0% a %AT0%$
+P:$读 卡片数据/%群号%/%QQ%/授权 a 0$
+如果:%AT0%==null
+亲！艾特是不能复制的😏  
+返回
+如果尾
+如果:%D%==0
+📬====无情群管====📬\r〖%E%〗不在小主人名单无需删除    \r📬====删除失败====📬
+返回
+如果尾
+如果:%P%==1
+$写 卡片数据/%群号%/%AT0%/小主人 a 0$
+📬====无情群管====📬\r成功删除〖%E%〗小主人权限，现在他不是我小主人了！  \r📬====删除成功====📬
+返回
+如果尾
+📬====无情群管====📬\r〖%昵称%〗你不是我的授权者，无权权限操作！  \r📬====删除失败====📬
+232
+修改名片@.* .*
+P:$读 卡片数据/%群号%/运行状态 g 0$
+A:$读 卡片数据/%群号%/卡片大小 a 6$
+B:$读 卡片数据/%群号%/卡片大小 b 3$
+C:$读 卡片数据/%群号%/卡片大小 c 27$
+V:$读 卡片数据/%群号%/兼容 a msg.$
+D:$读 卡片数据/%群号%/%QQ%/小主人 a 0$
+E:$读 卡片数据/记录昵称文件/%群号%/%AT0% a %AT0%$
+如果:%P%==0
+返回
+如果尾
+如果:%D%==0
+$调用 50 主人框架$
+返回
+如果尾
+如果:%AT0%==null
+亲！艾特是不能复制的😏
+返回
+如果尾
+📬====无情群管====📬\r成功为〖%E%〗改名$改 %群号% %AT0% %参数1%$现在他(她)的名片是〖%参数1%〗  \r📬====修改成功====📬  
+
+(踢|踢人|飞)@.*
+P:$读 卡片数据/%群号%/运行状态 g 0$
+D:$读 卡片数据/%群号%/%QQ%/小主人 a 0$
+E:$读 卡片数据/记录昵称文件/%群号%/%AT0% a %AT0%$
+如果:%P%==0
+$调用 50 关机框架$
+返回
+如果尾
+如果:%D%==0
+$调用 50 主人框架$
+返回
+如果尾
+如果:%AT0%==null
+亲！艾特是不能复制的😏
+返回
+如果尾
+📬====无情群管====📬\r♥踢出群成功$踢 %群号% %AT0%$♥\r被踢者:%E%\r操作者:%昵称%  \r请大家以他为例子，遵守群规！！！\r拒收飞机票\r📬====操作成功====📬
+
+(禁言|闭嘴)@.* [0-9]+
+P:$读 卡片数据/%群号%/运行状态 g 0$
+D:$读 卡片数据/%群号%/%QQ%/小主人 a 0$
+E:$读 卡片数据/记录昵称文件/%群号%/%AT0% a %AT0%$
+如果:%P%==0
+ 返回
+如果尾
+如果:%D%==1
+📬====无情群管====📬\r♥禁言成功♥$禁 %群号% %AT0% [%参数1%*60]$\r禁时间:%参数1%分钟\r被禁者:%E%\r操作者:%昵称% \r请大家以他为例子，遵守群规\r拒绝禁言！！！   \r📬====操作成功====📬
+返回
+如果尾
+$调用 50 主人框架$
+
+(解除禁言|解禁)@.*
+P:$读 卡片数据/%群号%/运行状态 g 0$
+D:$读 卡片数据/%群号%/%QQ%/小主人 a 0$
+E:$读 卡片数据/记录昵称文件/%群号%/%AT0% a %AT0%$
+如果:%P%==0
+返回
+如果尾
+如果:%D%==1
+📬====无情群管====📬\r♥解禁成功♥  $禁 %群号% %AT0% 0$\r被解者:%E%\r操作者:%昵称%\r%E%改过自新，已经被解禁，请大家遵守群规！！！  \r📬====解禁成功====📬
+返回
+如果尾
+$调用 50 主人框架$
+
+(银行系统|银行)
+P:$读 卡片数据/%群号%/运行状态 g 0$
+如果:%P%==0
+返回
+如果尾
+📬====无情群管====📬\r存款 金额\r存款全部\r取款 金额\r银行余额  \r📬====银行系统====📬
+
+存款 [0-9]+
+P:$读 卡片数据/%群号%/运行状态 g 0$
+D:$读 卡片数据/%群号%/%QQ%/积分 a 0$
+E:$读 卡片数据/%群号%/%QQ%/银行 a 0$
+如果:%P%==0
+返回
+如果尾
+如果:%D%>=%参数1%
+$写 卡片数据/%群号%/%QQ%/积分 a [%D%-%参数1%]$
+$写 卡片数据/%群号%/%QQ%/银行 a [%E%+%参数1%]$
+📬====无情群管====📬\r成功存进银行%参数1%金币\r你还有[%D%-%参数1%]金币  \r📬====存款成功====📬
+返回
+如果尾
+📬====无情群管====📬\r±img=http://q2.qlogo.cn/headimg_dl?bs=qq&dst_uin=%QQ%&spec=100±『%昵称%』对不起，你余额不足只有%D%金币  \r📬====存款失败====📬
+
+存款全部
+P:$读 卡片数据/%群号%/运行状态 g 0$
+D:$读 卡片数据/%群号%/%QQ%/积分 a 0$
+E:$读 卡片数据/%群号%/%QQ%/银行 a 0$
+如果:%P%==0
+返回
+如果尾
+如果:%D%>0
+$写 卡片数据/%群号%/%QQ%/银行 a [%E%+%D%]$
+$写 卡片数据/%群号%/%QQ%/积分 a 0$
+📬====无情群管====📬\r±img=http://q2.qlogo.cn/headimg_dl?bs=qq&dst_uin=%QQ%&spec=100±%昵称%成功存进银行%D%金币\r你还有[%D%-%D%]金币  \r📬====存款成功====📬
+返回
+如果尾
+📬====无情群管====📬\r±img=http://q2.qlogo.cn/headimg_dl?bs=qq&dst_uin=%QQ%&spec=100±  @%昵称%   余额不足你只有%D%金币
+
+取款 [0-9]+
+P:$读 卡片数据/%群号%/运行状态 g 0$
+D:$读 卡片数据/%群号%/%QQ%/积分 a 0$
+E:$读 卡片数据/%群号%/%QQ%/银行 a 0$
+如果:%P%==0
+返回
+如果尾
+如果:%E%>=%参数1%
+$写 卡片数据/%群号%/%QQ%/银行 a [%E%-%参数1%]$
+$写 卡片数据/%群号%/%QQ%/积分 a [%D%+%参数1%]$
+📬====无情群管====📬\r%昵称%成功取款%参数1%金币\r你银行还有[%E%-%参数1%]金币   \r📬====取款成功====📬
+返回
+如果尾
+📬====无情群管====📬\r±img=http://q2.qlogo.cn/headimg_dl?bs=qq&dst_uin=%QQ%&spec=100±%昵称%    取款失败你银行只有%D%金币  \r📬====取款失败====📬
+
+银行余额
+P:$读 卡片数据/%群号%/运行状态 g 0$
+D:$读 卡片数据/%群号%/%QQ%/银行 a 0$
+如果:%P%==0
+返回
+如果尾
+📬====无情群管====📬\r±img=http://q2.qlogo.cn/headimg_dl?bs=qq&dst_uin=%QQ%&spec=100±操作者『%昵称%』\r你银行共有%D%金币\r感谢使用
+
+充扣系统
+P:$读 卡片数据/%群号%/运行状态 g 0$
+如果:%P%==0
+返回
+如果尾
+📬====无情群管====📬\r充值金币 QQ 数量\r充值经验 QQ 数量\r充值荣誉 QQ 数量\r扣除金币 QQ 数量\r扣除经验 QQ 数量\r扣除荣誉 QQ 数量  \r📬====充扣系统====📬
+
+充值荣誉 [0-9]+ [0-9]+
+P:$读 卡片数据/%群号%/运行状态 g 0$
+D:$读 卡片数据/%群号%/%QQ%/小主人 a 0$
+E:$读 卡片数据/%群号%/%参数1%/荣誉 a 0$
+F:$读 卡片数据/记录昵称文件/%群号%/%参数1% a %参数1%$
+如果:%P%==0
+返回
+如果尾
+如果:%D%==1
+$写 卡片数据/%群号%/%参数1%/荣誉 a [%D%+%参数2%]$
+📬====无情群管====📬\r成功为%F%\r充值荣誉成功\r本次充值:【%参数2%】荣誉\r他还有共:【[%E%+%参数2%]】荣誉  \r📬====操作成功====📬
+返回
+如果尾
+$调用 50 主人框架$
+
+扣除荣誉 [0-9]+ [0-9]+
+P:$读 卡片数据/%群号%/运行状态 g 0$
+E:$读 卡片数据/%群号%/%参数1%/荣誉 a 0$
+F:$读 卡片数据/%群号%/%QQ%/小主人 a 0$
+G:$读 卡片数据/记录昵称文件/%群号%/%参数1% a %参数1%$
+如果:%P%==0
+返回
+如果尾
+如果:%F%==1
+$写 卡片数据/%群号%/%参数1%/荣誉 a [%E%-%参数2%]$
+📬====无情群管====📬\r成功为%G%\r扣除荣誉成功\r本次扣除:【%参数2%】荣誉\r他还有共:【[%E%-%参数2%]】荣誉\r📬====操作成功====📬
+返回
+如果尾
+$调用 50 主人框架$
+
+充值经验 [0-9]+ [0-9]+
+P:$读 卡片数据/%群号%/运行状态 g 0$
+F:$读 卡片数据/%群号%/%参数1%/经验 a 0$
+D:$读 卡片数据/%群号%/%QQ%/小主人 a 0$
+E:$读 卡片数据/记录昵称文件/%群号%/%参数1% a %参数1%$
+如果:%P%==0
+返回
+如果尾
+如果:%D%==1
+$写 卡片数据/%群号%/%参数1%/经验 a [%F%+%参数2%]$
+📬====无情群管====📬\r成功为%E%\r充值经验成功\r本次充值:【%参数2%】经验\r他还有共:【[%F%+%参数2%]】经验  \r📬====操作成功====📬
+返回
+如果尾
+$调用 50 主人框架$
+
+扣除经验 [0-9]+ [0-9]+
+P:$读 卡片数据/%群号%/运行状态 g 0$
+F:$读 卡片数据/%群号%/%参数1%/经验 a 0$
+D:$读 卡片数据/%群号%/%QQ%/小主人 a 0$
+E:$读 卡片数据/记录昵称文件/%群号%/%参数1% a %参数1%$
+如果:%P%==0
+返回
+如果尾
+如果:%D%==1
+$写 卡片数据/%群号%/%参数1%/经验 a [%F%-%参数2%]$
+📬====无情群管====📬\r扣除%E%经验成功\r本次扣除:【%参数2%】经验\r他还有共:【[%F%-%参数2%]】经验  \r📬====操作成功====📬
+返回
+如果尾
+$调用 50 主人框架$
+
+(充值|充值金币) [0-9]+ [0-9]+
+P:$读 卡片数据/%群号%/运行状态 g 0$
+F:$读 卡片数据/%群号%/%参数1%/积分 a 0$
+D:$读 卡片数据/%群号%/%QQ%/小主人 a 0$
+E:$读 卡片数据/记录昵称文件/%群号%/%参数1% a %参数1%$
+如果:%P%==0
+返回
+如果尾
+如果:%D%==1
+$写 卡片数据/%群号%/%参数1%/积分 a [%F%+%参数2%]$
+📬====无情群管====📬\r成功为%E%\r充值金币成功\r本次充值:【%参数2%】金币\r他还有共:【[%F%+%参数2%]】金币  \r📬====操作成功====📬
+返回
+如果尾
+$调用 50 主人框架$
+
+扣|扣除金币 [0-9]+ [0-9]+
+P:$读 卡片数据/%群号%/运行状态 g 0$
+F:$读 卡片数据/%群号%/%参数1%/积分 a 0$
+D:$读 卡片数据/%群号%/%QQ%/小主人 a 0$
+E:$读 卡片数据/记录昵称文件/%群号%/%参数1% a %参数1%$
+如果:%P%==0
+返回
+如果尾
+如果:%D%==1
+$写 卡片数据/%群号%/%参数1%/积分 a [%F%-%参数2%]$
+📬====无情群管====📬\r扣除%E%的金币成功\r本次扣除:【%参数2%】金币\r他还有共:【[%F%-%参数2%]】金币  \r📬====操作成功====📬
+返回
+如果尾
+$调用 50 主人框架$
+
+(积分系统|积分)
+P:$读 卡片数据/%群号%/运行状态 g 0$
+如果:%P%==0
+返回
+如果尾
+📬====无情群管====📬\r个人信息\r查看 QQ\r余额/钱包\r📬====积分系统====📬
+
+(钱包|余额)
+P:$读 卡片数据/%群号%/运行状态 g 0$
+D:$读 卡片数据/%群号%/%QQ%/积分 a 0$
+E:$读 卡片数据/%群号%/%QQ%/荣誉 a 0$
+如果:%P%==0
+返回
+如果尾
+📬====无情群管====📬\r±img=http://q2.qlogo.cn/headimg_dl?bs=qq&dst_uin=%QQ%&spec=100±[昵称]:%昵称%\r[帐号]:%QQ%\r[金币]:%D%\r[荣誉]:%E%\r📬====操作成功====📬
+
+(个人信息|查看)
+P:$读 卡片数据/%群号%/运行状态 g 0$
+D:$读 卡片数据/%群号%/%QQ%/积分 a 0$
+E:$读 卡片数据/%群号%/%QQ%/荣誉 a 0$
+F:$读 卡片数据/%群号%/%QQ%/经验 a 0$
+G:$读 卡片数据/%群号%/%QQ%/会员显示 a 否$
+H:$读 卡片数据/%群号%/%QQ%/体力 a 0$
+如果:%P%==0
+返回
+如果尾
+📬====无情群管====📬\r±img=http://q2.qlogo.cn/headimg_dl?bs=qq&dst_uin=%QQ%&spec=100±[昵称]：%昵称%\r[账号]：%QQ%\r[金币]：%D%\r[荣誉]：%E%\r[经验]：%F%\r[体力]：%H%\r[会员]：%G%\r📬====操作成功====📬
+
+查看 [0-9]+
+P:$读 卡片数据/%群号%/运行状态 g 0$
+D:$读 卡片数据/%群号%/%参数1%/积分 a 0$
+E:$读 卡片数据/%群号%/%参数1%/荣誉 a 0$
+F:$读 卡片数据/%群号%/%参数1%/经验 a 0$
+G:$读 卡片数据/%群号%/%参数1%/会员显示 a 否$
+J:$读 卡片数据/%群号%/%参数1%/体力 a 0$
+H:$读 卡片数据/记录昵称文件/%群号%/%参数1% a %参数1%$
+如果:%P%==0
+$调用 50 关机框架$
+返回
+如果尾
+📬====无情群管====📬\r±img=http://q2.qlogo.cn/headimg_dl?bs=qq&dst_uin=%参数1%&spec=100±[昵称]：%H%\r[账号]：%参数1%\r[金币]：%D%\r[荣誉]：%E%\r[经验]：%F%\r[体力]：%J%\r[会员]：%G%\r📬====操作成功====📬
+
+QQ估价 [0-9]+
+P:$读 卡片数据/%群号%/运行状态 g 0$
+如果:%P%==0
+返回
+如果尾
+A:%参数1%
+a:http://c.51240.com/temp/qqjiazhi/%A%.jpg?v=1
+±img=%a%±
+
+QQ有缘人 [0-9]+
+P:$读 卡片数据/%群号%/运行状态 g 0$
+如果:%P%==0
+返回
+如果尾
+A:%参数1%
+a:http://c.51240.com/temp/qqyouyuanren/%A%.jpg?v=1
+±img=%a%±
+
+QQ秀 [0-9]+
+P:$读 卡片数据/%群号%/运行状态 g 0$
+如果:%P%==0
+返回
+如果尾
+A:%参数1%
+a:http://qqshow-user.tencent.com/%A%/22/00/1.gif?fr=mobileqq
+±img=%a%±
+
+QQ头像 [0-9]+
+P:$读 卡片数据/%群号%/运行状态 g 0$
+如果:%P%==0
+返回
+如果尾
+A:%参数1%
+a:http://q2.qlogo.cn/headimg_dl?bs=qq&dst_uin=%A%&spec=100
+±img=%a%±
+
+关机框架
+📬====无情群管====📬\r【%昵称%】对不起机器人处于关机状态！请联系主人开机\r📬====关机状态====📬
+
+坐骑框架
+D:$读 卡片数据/%群号%/%QQ%/坐骑图片 a 0$
+E:$读 卡片数据/%群号%/%QQ%/坐骑名字 a 0$
+F:$读 卡片数据/%群号%/%QQ%/坐骑金币 a 0$
+📬====无情群管====📬\r±img=http://q2.qlogo.cn/headimg_dl?bs=qq&dst_uin=%QQ%&spec=100±[昵称]:%昵称%\r骑着〖%E%〗隆重登场！\r随机获得金币%F%\r📬====欢迎光临====📬
+
+金币框架
+📬====无情群管====📬\r【%昵称%】\r对不起你金币不足！请联系主人充值！！！\r📬====积分不足====📬
+
+主人框架
+📬====无情群管====📬\r【%昵称%】\r你不是我主人无权操作！\r📬====操作失败====📬
+
+.*
+如果:%QQ%==1000000|2854196306
+返回
+如果尾
+$写 卡片数据/记录昵称文件/%群号%/%QQ% a %昵称%$
+P:$读 卡片数据/%群号%/运行状态 g 0$
+如果:%P%==0
+返回
+如果尾
+D:$读 卡片数据/%群号%/炸楼下开关 a 0$
+$写 卡片数据/%群号%/炸楼上 a %QQ%$
+如果:%D%==1
+$禁 %群号% %QQ% 60$
+成功炸晕%昵称%
+$写 卡片数据/%群号%/炸楼下开关 a 0$
+返回
+如果尾
+E:$读 卡片数据/%群号%/%QQ%/信箱 jf 0$
+如果:%E%>0
+【%昵称%】你有%E%条留言请发送【查看信箱】查看
+返回
+如果尾
+G:$读 卡片数据/%群号%/%QQ%/坐骑 a 0$
+H:$读 卡片数据/%群号%/%QQ%/坐骑限制 a 0$
+I:$读 卡片数据/%群号%/%QQ%/积分 a 0$
+如果:%H%==%时间dd%
+返回
+如果尾
+如果:%G%==0
+$写 卡片数据/%群号%/%QQ%/坐骑限制 a %时间dd%$
+F:%随机数100-300%
+$写 卡片数据/%群号%/%QQ%/积分 a [%I%+%F%]$
+返回
+如果尾
+如果:%G%==1
+$写 卡片数据/%群号%/%QQ%/坐骑限制 a %时间dd%$
+F:%随机数300-700%
+$写 卡片数据/%群号%/%QQ%/积分 a [%I%+%F%]$
+$写 卡片数据/%群号%/%QQ%/坐骑图片 a http://ww3.sinaimg.cn/mw690/006qGmplgw1f2m405ia9ng305k05kgmm.gif$
+$写 卡片数据/%群号%/%QQ%/坐骑名字 a 玉瓷葫芦$
+$写 卡片数据/%群号%/%QQ%/坐骑金币 a %F%$
+$调用 500 坐骑框架$
+返回
+如果尾
+如果:%G%==2
+$写 卡片数据/%群号%/%QQ%/坐骑限制 a %时间dd%$
+F:%随机数700-1000%
+$写 卡片数据/%群号%/%QQ%/积分 a [%I%+%F%]$
+$写 卡片数据/%群号%/%QQ%/坐骑图片 a http://ww3.sinaimg.cn/mw690/006qGmplgw1f2m405vbg6g305k05k0t3.gif$
+$写 卡片数据/%群号%/%QQ%/坐骑名字 a 七彩小驴$
+$写 卡片数据/%群号%/%QQ%/坐骑金币 a %F%$
+$调用 500 坐骑框架$
+返回
+如果尾
+如果:%G%==3
+$写 卡片数据/%群号%/%QQ%/坐骑限制 a %时间dd%$
+F:%随机数1000-1600%
+$写 卡片数据/%群号%/%QQ%/积分 a [%I%+%F%]$
+$写 卡片数据/%群号%/%QQ%/坐骑图片 a http://ww4.sinaimg.cn/mw690/006qGmplgw1f2m406o1trg305k05k0tk.gif$
+$写 卡片数据/%群号%/%QQ%/坐骑名字 a 天使猪猪$
+$写 卡片数据/%群号%/%QQ%/坐骑金币 a %F%$
+$调用 500 坐骑框架$
+返回
+如果尾
+如果:%G%==4
+$写 卡片数据/%群号%/%QQ%/限制 a %时间dd%$
+F:%随机数1600-2000%
+$写 卡片数据/%群号%/%QQ%/积分 a [%I%+%F%]$
+$写 卡片数据/%群号%/%QQ%/坐骑图片 a http://ww3.sinaimg.cn/mw690/006qGmplgw1f2m407dbfig305k05kdhc.gif$
+$写 卡片数据/%群号%/%QQ%/坐骑名字 a 怒雷狂狮$
+$写 卡片数据/%群号%/%QQ%/坐骑金币 a %F%$
+$调用 500 坐骑框架$
+返回
+如果尾
+如果:%G%==5
+$写 卡片数据/%群号%/%QQ%/坐骑限制 a %时间dd%$
+F:%随机数2000-2500%
+$写 卡片数据/%群号%/%QQ%/积分 a [%I%+%F%]$
+$写 卡片数据/%群号%/%QQ%/坐骑图片 a http://ww3.sinaimg.cn/mw690/006qGmplgw1f2m407sd0bg306y05sacn.gif$
+$写 卡片数据/%群号%/%QQ%/坐骑名字 a 腾云仙牛$
+$写 卡片数据/%群号%/%QQ%/坐骑金币 a %F%$
+$调用 500 坐骑框架$
+返回
+如果尾
+如果:%G%==6
+$写 卡片数据/%群号%/%QQ%/坐骑限制 a %时间dd%$
+F:%随机数2500-3100%
+$写 卡片数据/%群号%/%QQ%/积分 a [%I%+%F%]$
+$写 卡片数据/%群号%/%QQ%/坐骑图片 a http://img.jf258.com/uploads/i_3_3269864851x2068272414_21.jpg$
+$写 卡片数据/%群号%/%QQ%/坐骑名字 a 玄火神驹$
+$写 卡片数据/%群号%/%QQ%/坐骑金币 a %F%$
+$调用 500 坐骑框架$
+返回
+如果尾
+如果:%G%==7
+$写 卡片数据/%群号%/%QQ%/坐骑限制 a %时间dd%$
+F:%随机数3100-3500%
+$写 卡片数据/%群号%/%QQ%/积分 a [%I%+%F%]$
+$写 卡片数据/%群号%/%QQ%/坐骑图片 a http://ww3.sinaimg.cn/mw690/006qGmplgw1f2m408seerg306m06b0u3.gif$
+$写 卡片数据/%群号%/%QQ%/坐骑名字 a 星华飞马$
+$写 卡片数据/%群号%/%QQ%/坐骑金币 a %F%$
+$调用 500 坐骑框架$
+返回
+如果尾
+如果:%G%==8
+$写 卡片数据/%群号%/%QQ%/坐骑限制 a %时间dd%$
+F:%随机数3500-4000%
+$写 卡片数据/%群号%/%QQ%/积分 a [%I%+%F%]$
+$写 卡片数据/%群号%/%QQ%/坐骑图片 a http://ww4.sinaimg.cn/mw690/006qGmplgw1f2m409ho7hg307h06443n.gif$
+$写 卡片数据/%群号%/%QQ%/坐骑名字 a 开明天兽$
+$写 卡片数据/%群号%/%QQ%/坐骑金币 a %F%$
+$调用 500 坐骑框架$
+返回
+如果尾
+如果:%G%==9
+$写 卡片数据/%群号%/%QQ%/坐骑限制 a %时间dd%$
+F:%随机数4000-4500%
+$写 卡片数据/%群号%/%QQ%/积分 a [%I%+%F%]$
+$写 卡片数据/%群号%/%QQ%/坐骑图片 a http://ww2.sinaimg.cn/mw690/006qGmplgw1f2m40avjgng305k05kt9q.gif$
+$写 卡片数据/%群号%/%QQ%/坐骑名字 a 暗影战豹$
+$写 卡片数据/%群号%/%QQ%/坐骑金币 a %F%$
+$调用 500 坐骑框架$
+返回
+如果尾
+如果:%G%==10
+$写 卡片数据/%群号%/%QQ%/坐骑限制 a %时间dd%$
+F:%随机数4500-5000%
+$写 卡片数据/%群号%/%QQ%/积分 a [%I%+%F%]$
+$写 卡片数据/%群号%/%QQ%/坐骑图片 a http://ww3.sinaimg.cn/mw690/006qGmplgw1f2m40bo0ywg305k05kq6a.gif$
+$写 卡片数据/%群号%/%QQ%/坐骑名字 a 战火穷奇$
+$写 卡片数据/%群号%/%QQ%/坐骑金币 a %F%$
+$调用 500 坐骑框架$
