@@ -1,0 +1,21 @@
+j1
+json:{"app":"com.tencent.cmshow","desc":"","view":"game_redpacket","ver":"1.0.3.5","prompt":"[QQ红包]恭喜发财","appID":"","sourceName":"","actionData":"","actionData_A":"","sourceUrl":"","meta":{"redPacket":{"posterUrl":"\/qqshow\/admindata\/comdata\/vipActTpl_mobile_zbltyxn\/dddb247a4a9c6d34757c160f9e0b6669.gif","msg":"QQ红包","destUrl":".2.15844517927 .com"}},"config":{"forward":1},"text":"","sourceAd":""}
+
+j2 .*
+json:{"app":"com.tencent.qq.checkin","desc":"群签到","view":"checkIn","ver":"1.0.0.25","prompt":"[群签到]群签到","appID":"","sourceName":"","actionData":"","actionData_A":"","sourceUrl":"","meta":{"checkInData":{"address":"","cover":{"height":0,"url":"http:\/\/pub.idqqimg.com\/pc\/misc\/files\/20170816\/69497ef1eb8745448453575c2c5480d1.jpg","width":0},"desc":"我才是第一个签到","hostuin":2862125721,"id":"union_15909426792862125721694124902","media_type":0,"qunid":"694124902","rank":%参数1%,"skip_to":1,"time":0,"url":"mqqapi:\/\/microapp\/open?appid=1108164955&path=pages%2Fchecklist%2Fchecklist&extraData=694124902%7Cunion_15909426792862125721694124902","vid":""}},"config":{"forward":0,"showSender":1},"text":"","extraApps":[],"sourceAd":""}
+
+j3
+json:{"app":"com.tencent.gamecenter.gameshare_sgame","desc":"游戏分享","view":"commonView","ver":"0.0.0.1","prompt":"[应用]游戏分享","appID":"","sourceName":"","actionData":"","actionData_A":"","sourceUrl":"","meta":{"shareData":{"openId":"97DF1448208011E6146C538C7BD1FA30","scene":"234","cardUrl":"http%3a%2f%2fimage.smoba.qq.com%2fBanner%2fimg%2fQQArk%2fshareskin%2f15500.jpg","hashcode":"7574098","cardTexts":["我的第","5201314","个英雄","艾琳","","(限定)"],"extData":{"appid":"1104466820","skinid":11107,"heroid":111},"textBoxData":{"pic":"http%3A%2F%2Fgame.gtimg.cn%2Fimages%2Fyxzj%2Fimg201606%2Fheroimg%2F125%2F125.jpg","title":"王者荣耀","desc":"王者荣耀"},"appid":"1104466820","url":"http%3A%2F%2Fimgcache.qq.com%2Fclub%2Fmars%2Fimg_upload%2Fgc843_wzgame.png"}},"config":{"ctime":1588644092,"forward":1,"type":"normal","token":"d365b3bedf0545cce54b8b9a7d02be12"},"text":"","sourceAd":"","extra":""}
+
+j4
+json:{"app":"com.tencent.gamecenter.gameshare_sgame","desc":"游戏分享","view":"commonView","ver":"0.0.0.1","prompt":"[应用]游戏分享","appID":"","sourceName":"","actionData":"","actionData_A":"","sourceUrl":"","meta":{"shareData":{"appid":"1104466820","cardTexts":["我的第","194","个皮肤","不知火舞","\/魅语","(法师\/刺客)"],"cardUrl":"http%3a%2f%2fimage.smoba.qq.com%2fBanner%2fimg%2fQQArk%2fshareskin%2f15701.jpg","extData":{"appid":"1104466820","heroid":157,"skinid":15701},"hashcode":"7654012","openId":"2B717C8926AFFE7C017833E524F6466F","scene":"12","textBoxData":{"desc":"王者荣耀","pic":"http%3A%2F%2Fgame.gtimg.cn%2Fimages%2Fyxzj%2Fimg201606%2Fheroimg%2F125%2F125.jpg","title":"王者荣耀"},"url":"http%3A%2F%2Fimgcache.qq.com%2Fclub%2Fmars%2Fimg_upload%2Fgc843_wzgame.png"}},"config":{"ctime":1585016045,"forward":1,"token":"e4c271327db2e0e8501ee5fb0c8eafb6","type":"normal"},"text":"","sourceAd":""}
+
+test
+json:{"app":"com.tencent.card","desc":"早起打卡提醒","view":"about","ver":"1.0.0.8","prompt":"早起走运，成长加倍","meta":{"about":{"DATA1":"1","DATA2":"2","DATA3":"3","DATA4":"4","DATA5":"5","DATA6":"6","DATA7":"https:\/\/m.yh31.com\/tp\/zjbq\/201908122324008282.gif","DATA8":"","DATA9":"","DATA10":"","DATA11":"","DATA12":"","DATA13":"","DATA14":"14","DATA15":"15","DATA16":"16","DATA17":"17","DATA18":"18","DATA19":"19","DATA20":"20","time":"1564437550"}}}
+
+test2
+card:1
+{"app":"com.tencent.mannounce","desc":"群公告","view":"main","ver":"1.0.0.43","prompt":"[群公告]","appID":"","sourceName":"","actionData":"","actionData_A":"","sourceUrl":"","meta":{"mannounce":{"cr":0,"encode":1,"fid":"7a59b23600000000e8925b5e67730000","gc":"917657978","sign":"8182f5d5560a753222799037c1ce74c4","text":"我不是管理也要发个公告装个逼","title":"群公告","uin":"2862125721"}},"config":{"ctime":1583059688,"forward":0,"token":"ef71d28bc5e4d8707993b7bddca734a3"},"text":"","sourceAd":""}
+
+晚安
+晚安

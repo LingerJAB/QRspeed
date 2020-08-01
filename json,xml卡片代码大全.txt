@@ -1,0 +1,852 @@
+&&收集者:您好骚
+
+
+
+
+{"app":"com.tencent.together","desc":"","view":"invite","ver":"0.0.0.1","prompt":"[开启了一起看] 全国第一·冲国服第一虎王！","appID":"","sourceName":"","actionData":"","actionData_A":"","sourceUrl":"","meta":{"invite":{"button":"加入一起看","extra":{"aio_media_id":1582908621755,"sub_type":2},"summary":"全国第一·冲国服第一虎王！","title":"一起看","type":"watch"}},"config":{"autosize":0,"ctime":1582908621,"forward":0,"token":"c31cfadbe6bb522f4b31697d71994c09","type":"normal"},"text":"","sourceAd":""}
+
+
+<?xml version='1.0' encoding='UTF-8' standalone='yes' ?><msg serviceID="33" templateID="-1" action="" brief="【侠客行论坛】" sourceMsgId="0" url="" flag="3" adverSign="0" multiMsgFlag="0"><item layout="1" advertiser_id="0" aid="0"><picture cover="http://aidenn.696ds.top/331.jpg" w="0" h="0" /></item><item layout="6" advertiser_id="0" aid="0"><summary size="27" color="#B0A4E3">上帝恩赐，命运天定。 </summary><summary size="27" color="#FF8C00">希望之光，普照我身。 </summary><summary size="27" color="#FF6347">坚毅如钢，勇往直前。 </summary><summary size="27" color="#CD5B45">而今伊始，命途自闯。</summary><hr hidden="false" style="0" /></item><source name="" icon="" action="web" appid="0" /></msg>
+
+<?xml version='1.0' encoding='UTF-8' standalone='yes' ?><msg serviceID="33" templateID="1234" action="" brief="y-8.top" sourceMsgId="0" url="" flag="9" adverSign="0" multiMsgFlag="0"><item layout="1" advertiser_id="0" aid="0"><summary size="20" style="1"> 820k/s         23:13     侠客行   </summary><picture cover="http://li666.cn/tupian/ciyuan/101.jpg" w="0" h="0" needRoundView="0" /><title size="20" style="1">
+      QQ2308355210    等级：10  入群：552天</title></item><item layout="6" bg="1" advertiser_id="0" aid="0"><title size="25" color="#003399" style="0">哈喽,打卡成功 </title><title size="25" color="#FF6666" style="0">打卡成功</title><title size="25" color="#006600" style="0">财富增加50节操</title><title size="25" color="#33CC99" style="0">获得威望30</title><summary size="26" style="0">──────────────
+温馨提示：回复以上指令进行操作</summary></item><source name="" icon="" action="" appid="-1" /></msg>
+
+
+<?xml version='1.0' encoding='UTF-8' standalone='yes' ?><msg serviceID="1" templateID="-1" action="web" brief="[红包]QQ红包" sourceMsgId="0" url="" flag="1" adverSign="0" multiMsgFlag="0"><item layout="5" mode="1" advertiser_id="0" aid="0"><picture cover="http://gchat.qpic.cn/gchatpic_new/3318666086/530077417-1234567890-EC27E59B26696A88CA5C1B5E127AEAD4/0" w="0" h="0" /><summary size="24" style="6"></summary></item><item layout="6" advertiser_id="0" aid="0"><hr hidden="false" style="0" /><summary size="24" style="6">📝〔签到〕                   👍〔点赞〕
+⛅〔天气〕                   ⏰〔报时〕
+💨〔气泡〕                   🗂️〔文档〕
+🎞️〔文娱〕                   📋〔查询〕
+💼〔工具〕                   🛅〔设置〕
+🚫〔开关〕                   🚨〔群管〕</summary></item><source name="" icon="" action="" appid="-1" /></msg>
+
+
+<?xml version='1.0' encoding='UTF-8' standalone='yes' ?><msg serviceID="1" templateID="1" action="web" brief="[红包]QQ红包" sourceMsgId="0" url="" flag="0" adverSign="0" multiMsgFlag="0"><item layout="5" advertiser_id="0" aid="0"><picture cover="http://s.p.qq.com/pub/get_face?img_type=3&amp;uin=2286185361" w="0" h="0" /></item><item layout="6" advertiser_id="0" aid="0"><summary size="24" color="#00CDCD" style="5">📝〔签到〕                   👍〔点赞〕
+⛅〔天气〕                   ⏰〔报时〕
+💨〔气泡〕                   🗂️〔文档〕
+🎞️〔文娱〕                   📋〔查询〕
+💼〔工具〕                   🛅〔设置〕
+🚫〔开关〕                   🚨〔群管〕</summary></item><source name="操作者：M·M·荒ླྀ" icon="http://url.cn/JS8oE7" action="" appid="0" /></msg>
+
+<?xml version='1.0' encoding='UTF-8' standalone='yes' ?><msg serviceID="108" templateID="1" action="web" brief="分享美图" sourcePublicUin="3192985373" sourceMsgId="0" url="https://youxi.vip.qq.com/m/act" flag="0" adverSign="0" multiMsgFlag="0"><item layout="2" advertiser_id="0" aid="0"><picture cover="http://pic1.win4000.com/wallpaper/d/513e98c4c0c6f.jpg" w="0" h="0" /><title>发送："next"可继续浏览</title><summary></summary></item><source name="点这里看大图，不显示点刷新" icon="" url="http://pic1.win4000.com/wallpaper/d/513e98c4c0c6f.jpg" action="web" appid="-1" /></msg>
+
+{"app":"com.tencent.miniapp_01","desc":"","view":"detail_1","ver":"1.0.0.3","prompt":"[QQ小程序]问卷星","appID":"","sourceName":"","actionData":"","actionData_A":"","sourceUrl":"","meta":{"detail_1":{"appid":"1108300964","title":"问卷星","desc":"侠客行论坛104a.cn","icon":"miniapp.gtimg.cn\/public\/appicon\/214ce43fb3816ca72c77384bdb777fe9_200.jpg","preview":"pubminishare-30161.picsz.qpic.cn\/285e599d-dcec-4b4e-af11-4c277283e87f","url":"m.q.qq.com\/a\/s\/eb1700f70585e914cb2a9db35fbaad6e","scene":0,"host":{"uin":3166382097,"nick":"几何黑店"},"shareTemplateId":"EE558DDCEFB407FD811CC6C06181D6AF","shareTemplateData":{}}},"config":{"type":"normal","width":253,"height":272,"forward":1,"autoSize":0},"text":"","sourceAd":""}
+
+
+a:$替换 Ф %参数-1%Ф点歌Ф$
+B:$读 网易/%群号%/歌名 a 无$
+D:嘻嘻$访问 http://www.xingzhigeapi.wang/API/wyy/api.php?msg=%B%&n=%a%&type=xml$
+T:$取中间 @ %D%@src="@" /><title>@$
+S:$取中间 @ %D%@cover="@" src="@$
+H:$取中间 @ %D%@</title><summary>@</summary></item><source name=$
+json:{"app":"com.tencent.structmsg","desc":"音乐","view":"music","ver":"0.0.0.1","prompt":"[分享]网易云音乐","meta":{"music":{"sourceMsgId":"0","title":"%B%","desc":"$访问 http://laoliapi.cn/king/yiyan.php$","preview":"%S%","tag":"网易云音乐","musicUrl":"%T%","jumpUrl":"%T%","appid":100497308,"app_type":1,"action":"","source_url":"","source_icon":"url.cn\/5tLgzTm","android_pkg_name":"com.tencent.qqmusic"}},"config":{"forward":true,"type":"normal","autosize":true}}
+
+应用启动大全
+<?xml version='1.0' encoding='UTF-8' standalone='yes' ?><msg serviceID="1" templateID="-1" action="app" actionData="com.tencent.tmgp.sgame" brief="【王者荣耀-104a.cn】" sourceMsgId="0" url="http://y-8.top" flag="2" adverSign="0" multiMsgFlag="0"><item layout="12" advertiser_id="0" aid="0"><picture cover="http://gchat.qpic.cn/gchatpic_new/2308355210/668703212-2215742238-E6976B787D40A4C848560CD7F00E6067/0?" w="0" h="0" /><title>启动●王者荣耀●</title></item><source name="www.y-8.top" icon="" action="" appid="0" /></msg>
+效果:
+
+代码如下:
+<?xml version='1.0' encoding='UTF-8' standalone='yes' ?><msg serviceID="1" templateID="-1" action="app" actionData="com.android.camera" brief="http://y-8.top/?thread-24.htm" sourceMsgId="0" url="" flag="0" adverSign="0" multiMsgFlag="0"><item layout="12" advertiser_id="0" aid="0"><picture cover="http://cdn.sinaimg.cn.52ecy.cn/large/005BYqpgly1g51y1wgv3tj30f00f0gpw.jpg" w="0" h="0" /><title> 点击为美女照相</title></item><source name="侠客行论坛" icon="http://y-8.top/logo.png" action="" appid="0" /></msg>
+
+
+效果图1:
+
+代码如下:
+<?xml version='1.0' encoding='UTF-8' standalone='yes' ?><msg serviceID="33" templateID="-1" action="" brief="您好骚配置" sourceMsgId="0" url="" flag="0" adverSign="0" multiMsgFlag="0"><item layout="0" action="app" actionData="com.tencent.tmgp.cf"><title size="30" color="#ffed6c39">           穿越火线</title></item><item layout="0" action="app" actionData="com.baidu.searchbox"><title size="30" color="#ffd700">           百度</title></item><item layout="6" mode="1"><summary size="30" color="#00FFFF">           
+您好骚配置</summary></item><item layou="1" action="app" actionData="com.taobao.taobao">
+        <title size="30" color="#ffed6c39">           淘宝</title>
+        </item>
+            <item layou="1" action="app" actionData="com.tencent.mm">
+        <title size="30" color="#ff3ced38">           微信</title>
+        </item>
+            <item layou="1" action="app" actionData="com.android.settings">
+        <title size="30" color="#ff859294">           设置</title>
+        </item>
+            <item layou="1" action="app" actionData="com.android.camera">
+        <title size="30" color="#ffdd6262">           相机</title>
+        </item><item layout="0" action="app" actionData="com.tencent.qqmusic"><title size="30" color="#98fb98">           QQ音乐</title></item><item layout="0" action="app" actionData="com.tencent.tmgp.speedmobile"><title size="30" color="#b0c4de">           QQ飞车</title></item><item layout="0" action="app" actionData="com.netease.cloudmusic"><title size="30" color="#00bfff">           网易音乐</title></item><item layout="0" action="app" actionData="com.tencent.tmgp.pubgmhd"><title size="30" color="#ffe4e1">           刺激战场</title></item><item layout="0" action="app" actionData="com.tencent.karaoke"><title size="30" color="#b46f23ff">           全民K歌</title></item><item layout="0" action="app" actionData="com.android.mms"><title size="30" color="#b46fffff">           短信</title></item><item layout="0" action="app" actionData="com.miui.gallery"><title size="30" color="#ff007d0a">           相册</title></item><item layout="0" action="app" actionData="com.qiyi.video"><title size="30" color="#FFFFEA00">           爱奇艺</title></item><item layout="0" action="app" actionData="com.tencent.qqlive"><title size="30" color="#FFF48FB1">           腾讯视频</title></item><item layout="0" action="app" actionData="com.tencent.tmgp.sgame"><title size="30" color="#FF1DE9B6">           王者荣耀</title></item><source name="" icon="" action="" appid="0" /></msg>
+
+经测试，需去除<source name="" icon="" 添加的代码
+
+效果图2:
+
+代码如下:
+本帖有隐藏内容，请您回复后查看。
+
+
+效果图3:
+
+代码如下:
+<?xml version='1.0' encoding='UTF-8' standalone='yes' ?><msg serviceID="33" brief=""><item layou="1" action="app" actionData="com.tencent.tmgp.cf"><title size="32" color="#00897B">穿越火线</title></item><item layou="1" action="app" actionData="com.baidu.searchbox"><title size="32" color="#00897B">百度浏览器</title></item><item layou="1" action="app" actionData="com.taobao.taobao"><title size="32" color="#00897B">淘宝</title></item><item layou="1" action="app" actionData="com.tencent.qqmusic"><title size="32" color="#00897B">QQ音乐</title></item><item layou="1" action="app" actionData="tv.danmaku.bili"><title size="32" color="#00897B">哔哩哔哩</title></item><item layou="1" action="app" actionData="com.netease.cloudmusic"><title size="32" color="#00897B">网易云音乐</title></item><item layou="1" action="app" actionData="com.tencent.tmgp.pubgmhd"><title size="32" color="#00897B">绝地求生:刺激战场</title></item><item layou="1" action="app" actionData="com.tencent.karaoke"><title size="32" color="#00897B">全民K歌</title></item><item layou="1" action="app" actionData="com.android.mms"><title size="32" color="#00897B">短信</title></item><item layou="1" action="app" actionData="com.android.browser"><title size="32" color="#00897B">浏览器</title></item><item layou="1" action="app" actionData="com.miui.gallery"><title size="32" color="#00897B">相册</title></item><item layou="1" action="app" actionData="com.qiyi.video"><title size="32" color="#00897B">爱奇艺</title></item><item layou="1" action="app" actionData="com.tencent.qqlive"><title size="32" color="#00897B">腾讯视频</title></item><item layou="1" action="app" actionData="com.tencent.tmgp.sgame"><title size="32" color="#00897B">王者荣耀</title></item><source name="" icon="" /></msg>
+ 收藏
+6
+最新回复 (180)
+只看楼主 
+
+杨志科 2018-3-5 只看Ta
+ 2楼
+这不是我写的吗？
+
+杨志科 2018-3-5 只看Ta
+ 3楼
+这么快就跑到这里了
+
+杨志科 2018-3-5 只看Ta
+ 4楼
+好歹保留个作者嘛
+
+风 楼主  2018-3-6 只看Ta
+ 5楼
+ 杨志科 这么快就跑到这里了
+很多代码均来源于网络收集，而且您看，这篇文章都是半个月以前就写的了。至于保留作者信息我们是没有意见的。您可在侠客行社区注册发帖，底部声明QQ号。
+
+风 楼主  2018-4-6 只看Ta
+ 6楼
+社区收集的部分应用启动代码，更换actionData后面即可。
+QQ音乐:com.tencent.qqmusic
+哔哩哔哩bilibili:tv.danmaku.bili
+全民K歌:com.tencent.karaoke
+爱奇艺:com.qiyi.video
+快手:com.smile.gifmaker
+芒果tv:com.hunantv.imgo.activity
+pp聚力:com.pplive.androidphone
+腾讯视频:com.tencent.qqlive
+手游cf:com.tencent.tmgp.cfalpha
+刺激战场:com.tencent.tmgp.pubgmhd
+打电话
+com.android.phone
+日历
+com.android.calendar
+360浏览器
+com.qihoo.browser
+美团
+com.sankuai.meituan
+设置
+com.android.settings
+搜狗输入法
+com.sohu.inputmethod.sogou
+网易邮箱
+com.netease.mobimail
+支付宝
+com.eg.android.AlipayGphone
+pixlr
+com.pixlr.express
+阿里云
+com.alibaba.aliyun
+小米便签
+com.miui.notes
+大众点评
+com.dianping.v1
+钉钉
+com.alibaba.android.rimet
+抖音
+com.ss.android.ugc.aweme
+高德地图
+com.autonavi.minimap
+葫芦侠三楼
+com.huati
+开眼
+com.wandoujia.eyepetizer
+蓝牙
+com.android.bluetooth
+蓝奏云
+com.lanzou.gwa
+优酷
+com.youku.phone
+掌上英雄联盟
+com.tencent.qt.qtl
+知乎
+com.zhihu.android
+iapp
+com.iapp.app
+LOFTER
+com.lofter.android
+WiFi万能钥匙
+com.snda.wifilocating
+xiakexing
+y-8.top
+via
+mark.via
+ssr
+in.zhaoj.shadowsocksr
+山寨云
+com.downloading.main.baiduyundownload
+QQ浏览器
+com.tencent.mtt
+梨视频
+com.mobile.videonews.li.video
+皮皮虾
+com.sup.android.superb
+微博
+com.sina.weibo
+
+admin 2018-5-28 只看Ta
+ 7楼
+王者荣耀
+
+代码如下:
+<?xml version='1.0' encoding='UTF-8' standalone='yes' ?><msg serviceID="1" templateID="-1" action="app" actionData="com.tencent.tmgp.sgame" brief="【侠客行论坛】" sourceMsgId="0" url="http://y-8.top" flag="2" adverSign="0" multiMsgFlag="0"><item layout="12"><picture cover="http://gchat.qpic.cn/gchatpic_new/2308355210/668703212-2215742238-E6976B787D40A4C848560CD7F00E6067/0?" w="0" h="0" /><title>启动●王者荣耀●</title></item><source name="www.y-8.top" icon="" action="" appid="0" /></msg>
+
+扶我起来，我能1V9。
+
+
+ALD 2018-6-13 只看Ta
+ 8楼
+按钮能换成点击跳转网页没
+
+admin 2018-7-2 只看Ta
+ 9楼
+
+
+<?xml version='1.0' encoding='UTF-8' standalone='yes' ?><msg serviceID="33" templateID="1" action="app" actionData="tv.danmaku.bili" brief="侠客行论坛"><item layout="1"><picture cover="http://t.cn/RjFVmgu" w="0" h="0" /></item><item layout="0"><summary size="27" color="#FF8C00" style="0">点击图片即可启动app</summary><hr hidden="false" style="0" /></item><source name="" icon="" action="" appid="0" /></msg>
+
+
+更换actionData后面即可
+
+86302250850 2018-7-7 只看Ta
+ 10楼
+sqv8用不了这个
+
+风 楼主  2018-8-4 只看Ta
+ 11楼
+
+
+代码如下:
+<?xml version='1.0' encoding='UTF-8' standalone='yes' ?><msg serviceID="33" templateID="-1" action="" brief="侠客行论坛" sourceMsgId="0" url="" flag="0" adverSign="0" multiMsgFlag="0"><item layout="0" action="app" actionData="com.tencent.tmgp.minitech.miniworld"><title size="30" color="#8a2be2">迷你世界</title></item><item layout="0" action="app" actionData="com.minitech.miniworld.m4399"><title size="30" color="#ffd700">4399迷你世界</title></item><item layout="0" action="app" actionData="com.youku.phone' brief"><title size="30" color="#8a2be2">优酷</title></item><item layout="0" action="app" actionData="com.tencent.token"><title size="30" color="#98fb98">QQ安全中心</title></item><item layout="0" action="app" actionData="com.smile.gifmaker"><title size="30" color="#b0c4de">快手</title></item><item layout="0" action="app" actionData="com.supercell.clashofclans.ewan.m4399"><title size="30" color="#8a2be2">4399部落冲突</title></item><item layout="0" action="app" actionData="com.tencent.mtt"><title size="30" color="#8a2be2">QQ浏览器</title></item><item layout="0"><title size="25" color="#8a2be2">[点击打开指定应用]</title></item><source name="" icon="" action="" appid="0" /></msg>
+
+
+
+
+卡片充值系统
+<?xml version='1.0' encoding='UTF-8' standalone='yes' ?><msg templateID='1' url='http://suo.im/5guS0F' serviceID='21' action='web' actiondata='' a_actiondata='' i_actiondata='' brief='自动发卡系统' flag='1'><item bg='0'><title color="#FF0001">请使用手机支付宝扫描二维码</title></item><item><hr></hr></item><item layout='2'><picture cover='http://suo.im/4ETOlr'/><title color="#FF0001">手机QQ点击付款</title><summary color="#FF0001">.如提示已停止访问
+.请使用默认浏览器
+.打开完成本次付款</summary></item><item><hr></hr></item><item><summary color="#257DEE">充值用户：瀟洒辵１恛つ</summary></item><item><summary color="#375AFF">充值金额：10元</summary>
+</item><item><hr></hr></item><item><title color="#5C02FF">Tips：请在5分钟内完成付款</title></item><item><hr></hr></item><source url='http://suo.im/5guS0F' icon='https://i.alipayobjects.com/common/favicon/favicon.ico' Name='支付宝当面付!' appid='0' action='web' actiondata='' a_actiondata='' i_actiondata=''/></msg>
+
+充值成功:
+
+代码如下:
+<?xml version='1.0' encoding='UTF-8' standalone='yes' ?>
+<msg templateID='1' serviceID='21' action='plugin'  brief='充值成功' flag='1' url=''>
+<item bg='0'>
+<title color="#FF0001">本次充值通宝交易成功</title>
+</item><item><hr></hr></item>
+<item>
+<summary color="#FF0001">2018/9/23 22:15:53</summary>
+</item>
+<item>
+<summary color="#B13AA5">充值用户：瀟洒辵１恛つ</summary>
+</item>
+<item>
+<summary color="#043DFF">充值金额：10元</summary>
+</item>
+<item>
+<summary color="#4C51F3">账户余额：491通宝</summary>
+</item><item><hr></hr></item>
+</msg>
+
+
+
+xml代码—钓鱼系统 菜单
+admin 2018-9-23  1641 只看Ta
+效果图:
+
+代码如下:
+<?xml version="1.0" encoding="utf-8"?><msg flag= "1" serviceID="21" brief="钓鱼系统" action="" url=""><item bg="3" layout="3"><button color="#1DEA89">♚　钓鱼系统娱乐说明　♚</button></item><item><hr></hr></item>
+<item bg="3" layout="5" mode="1"><picture cover="http://dwz.cn/4TzoQF"/></item><item><hr/></item>
+<item bg="3" layout="3"><button size="80" color="#C86266">钓鱼</button><button size="80" color="#5D38FB">卖鱼</button></item>
+<item bg="3" layout="3"><button size="50" color="#3B07FF">我的鱼库</button><button size="50" color="#0991F6">钓鱼排行</button></item>
+<item bg="3" layout="3"><button size="50" color="#A1F300">鱼竿商店</button><button size="50" color="#A203EB">鱼钩商店</button></item>
+<item bg="3" layout="3"><button size="50" color="#3EEA68">鱼线商店</button><button size="50" color="#A523C8">鱼饵商店</button></item>
+<item bg="3" layout="3"><button size="50" color="#F68E0C">鱼类图鉴</button><button size="50" color="#779089">查看鱼塘</button></item><item><hr/></item>
+<item><summary color="#6115FF">Tips：发送【目录名称】查看说明.</summary></item><item><hr></hr></item></msg>
+
+我的鱼库
+
+代码如下:
+<?xml version="1.0" encoding="utf-8"?>
+<msg Flag= "7" serviceID="21" brief="个人渔具" action="" url=""><item bg="0" layout="4"><picture cover="http://s.p.qq.com/pub/get_face?img_type=3&amp;uin=2308355210"/><title color="#15C0BB"> 个人渔具信息如下</title></item><item><hr></hr></item>
+<item bg="0" layout="3"><button color="#F35E3F">渔民
+三胖</button><button color="#BE6A68">钓鱼
+0次</button><button color="#723BE3">鱼饵
+0个</button></item><item><hr></hr></item>
+<item bg="0" layout="3"><button color="#CA7551">鱼竿
+</button><button color="#9B4AAB">鱼线
+</button><button color="#F34B52">鱼钩
+</button></item><item><hr></hr></item>
+<item bg="0" layout="3"><button color="#72CB53">你的个人鱼篓信息如下</button></item>
+<item bg="3" layout="6"><summary size="40" color="#23E687"></summary></item><item><hr/></item><item><summary color="#AD03E0">Tips：发送【钓鱼系统】查看说明.</summary></item><item><hr></hr></item></msg>
+ 收藏
+0
+最新回复 (1)
+只看楼主 
+
+admin 楼主  2018-9-23 只看Ta
+ 2楼
+
+<?xml version='1.0' encoding='UTF-8' standalone='yes' ?><msg serviceID="21" templateID="1" action="" brief="准备钓鱼" sourcePublicUin="" sourceMsgId="0" url="" flag="3" sType=""><item layout="4"><picture cover="http://hbimg.b0.upaiyun.com/3d1f2aa194855550c572331b0f8a644b081023f11894-t3auWC_fw658" /><title color="#FF0001">.嗨~三胖
+.用力的甩着鱼竿.</title></item><source Name="钓鱼准备开始啦!" icon="http://img.hb.aicdn.com/892e6c43d87d0291f4271b21c3ac3bfc82b5c49850e-oFYA4d_fw658" action="plugin"/></msg>
+
+<?xml version='1.0' encoding='UTF-8' standalone='yes' ?><msg serviceID="21" templateID="1" action="" brief="钓鱼失败" sourcePublicUin="" sourceMsgId="0" url="" flag="3" sType=""><item bg="3" layout="4"><picture cover="http://s.p.qq.com/pub/get_face?img_type=3&amp;uin=2308355210" /><title color="#89F710">@三胖~您还没有鱼竿
+购买了鱼竿再钓鱼吧</title></item><item><hr/></item></msg>
+
+
+
+[内部]!简洁卡片1
+json:{"app":"com.tencent.creategroupmsg","desc":"hello everybody","view":"main","ver":"0.0.0.1","prompt":"hello everybody","appID":"","sourceName":"","actionData":"","actionData_A":"","sourceUrl":"","meta":{"groupinfo":{"cateid":23,"desc":"","status":0,"subid":10009,"troopnum":"%群号%"}},"config":{"autosize":true,"ctime":1583160861,"forward":true,"token":"f4c7715a910b50d580ab80c96b377d4d","type":"normal"},"text":"","extraApps":[],"sourceAd":""}
+
+{"app":"com.tencent.miniapp","desc":"","view":"notification","ver":"0.0.0.1","prompt":"特别消息","appID":"","sourceName":"","actionData":"","actionData_A":"","sourceUrl":"","meta":{"notification":{"emphasis_keyword":"","title":"QQxml代码\n————————————————\nxml-json代码\n","appInfo":{"appName":"侠客行论坛","appType":4,"appid":1108249016,"iconUrl":"http:\/\/1.104a.cn\/logo1.png"},"button":[{"action":"http:\/\/1.104a.cn","name":"侠客行论坛"}]}},"text":"","extraApps":[],"sourceAd":""}
+{"app":"com.tencent.miniapp","desc":"","view":"notification","ver":"0.0.0.1","prompt":"特别消息","appID":"","sourceName":"","actionData":"","actionData_A":"","sourceUrl":"","meta":{"notification":{"emphasis_keyword":"","title":"QQxml代码\n————————————————\nxml-json代码\n","appInfo":{"appName":"侠客行论坛","appType":4,"appid":1108249016,"iconUrl":"http:\/\/1.104a.cn\/logo1.png"},"button":[{"action":"http:\/\/1.104a.cn","name":"侠客行论坛"}]}
+ 全屏蹦迪
+{"app":"com.tencent.qqpay.qqmp.groupmsg","desc":"","view":"groupPushView","ver":"1.0.0.7","prompt":"DJ！","appID":"","sourceName":"","actionData":"","actionData_A":"","sourceUrl":"","meta":{"groupPushData":{"bannerImg":"http:\/\/gchat.qpic.cn\/gchatpic_new\/1240404976\/1054771537-2265052663-186A98FE726E44FAAF2827BC7C833AD5\/0","bannerLink":"","bannerTxt":"","cancel_url":"","fromIcon":"","fromName":"name","item1Img":"","report_url":"","summaryTxt":"","time":""}},"config":{"forward":1,"showSender":1},"text":"","extraApps":[],"sourceAd":"","config":{"forward":0,"showSender":0}}
+xml_json
+
+
+{"app":"com.tencent.miniapp","desc":"","view":"notification","ver":"0.0.0.1","prompt":"新消息","meta":{"notification":{"appInfo":{"appName":"樱雪：908836505","appType":4,"appid":1108249016,"iconUrl":"http://gchat.qpic.cn/gchatpic_new/2641296238/735524882-3219132080-0C0DADE47F10F7DEC3B379C2ED7119B0/0"},"button":[{"action":"http://qm.qq.com/cgi-bin/qm/樱花?k=TACuEWpj8NkzT2z9aw7uN2UKx2vAw8_7","name":"主人:樱雪"},{"action":"http://wpa.qq.com/msgrd?v=3&uin=908836505&site=qq&menu=yes","name":"机器:雪兮兮"},{"action":"http://wpa.qq.com/msgrd?v=3&uin=573698066&site=qq&menu=yes","name":"医者仁心 妙手回春"}],"emphasis_keyword":""}}}
+
+
+xml-json—QQ小程序打卡提醒
+admin 7月前  578 只看Ta
+效果图:
+
+代码如下:
+(链接可随意跳转，感谢QQ215528430)
+{"app":"com.tencent.miniapp","desc":"","view":"notification","ver":"1.0.0.11","prompt":"打卡提醒","appID":"","sourceName":"","actionData":"","actionData_A":"","sourceUrl":"","meta":{"notification":{"appInfo":{"appName":"顺哥最帅","appType":4,"appid":1109659848,"iconUrl":"miniapp.gtimg.cn\/public\/appicon\/9ad3328c21e8ae93305c9f8008e93f5d_200.jpg"},"button":[{"action":"http:\/\/y-8.top","name":"进入小程序查看详情"},{"action":"http:\/\/y-8.top","name":"网红QQ"}],"data":[{"title":"ID","value":"123456"},{"title":"直播时间","value":"主页查看"},{"title":"心愿","value":"三亿粉丝的梦"}],"emphasis_keyword":"","title":"Dank"}}}
+
+
+相似版本:
+
+代码如下:
+{"app":"com.tencent.miniapp_01","desc":"","view":"notification","ver":"1.0.0.11","prompt":"打卡提醒","appID":"","sourceName":"","actionData":"","actionData_A":"","sourceUrl":"","meta":{"notification":{"appInfo":{"appName":"快手搜索Dank","appType":4,"appid":1109659848,"iconUrl":"miniapp.gtimg.cn\/public\/appicon\/9ad3328c21e8ae93305c9f8008e93f5d_200.jpg"},"button":[{"action":"http:\/\/shun.ml\/?_wv=6","name":"进入小程序查看详情"},{"action":"mqqapi:\/\/miniapp\/notifyclose?app=1109659848&type=4","name":"网红QQ"}],"data":[{"title":"快手ID","value":"123456"},{"title":"直播时间","value":"快手主页查看"},{"title":"心愿","value":"三亿粉丝的梦"}],"emphasis_keyword":"","title":"快手Dank"}}}
+
+QX插件框架
+<?xml version='1.0' encoding='UTF-8' standalone='yes' ?><msg serviceID="1" templateID="1234" action="" brief="XQ插件" sourceMsgId="0" url="" flag="2" adverSign="0" multiMsgFlag="0"><item layout="5" advertiser_id="0" aid="0"><picture cover="http://images.cnblogs.com/cnblogs_com/superlrj/888226/o_42.jpg" w="0" h="0" /><title>XQ插件</title><summary></summary></item><item layout="6" advertiser_id="0" aid="0"><summary size="24" color="#800000">🐩签到系统❀银行中心🐩
+🐩接口中心❀开关状态🐩
+🐩网络工具❀群管功能🐩
+🐩聊天功能❀充扣系统🐩
+🐩整点报时❀群发助手🐩
+🐩超级炸弹❀系统设置🐩
+🐩书城中心❀调教系统🐩
+🐩撤回功能❀数字游戏🐩
+🐩违禁系统❀等待更新🐩</summary></item><source name="XQ插件" icon="http://img.sj33.cn/uploads/allimg/200911/20091113222757169.png" action="" appid="0" /></msg>
+签到框架
+<?xml version='1.0' encoding='UTF-8' standalone='yes' ?><msg serviceID="1" templateID="1234" action="" brief="XQ插件" sourceMsgId="0" url="" flag="2" adverSign="0" multiMsgFlag="0"><item layout="5" advertiser_id="0" aid="0"><picture cover="http://images.cnblogs.com/cnblogs_com/superlrj/888226/o_37.jpg" w="0" h="0" /><title>XQ插件</title><summary></summary></item><item layout="6" advertiser_id="0" aid="0"><summary size="24" color="#800000">🐰签到成功！
+🐰获得金币:506
+🐰签到次数+1</summary></item><source name="XQ插件" icon="http://img.sj33.cn/uploads/allimg/200911/20091113222757169.png" action="" appid="0" /></msg>
+
+<?xml version='1.0' encoding='UTF-8' standalone='yes' ?><msg serviceID="1" templateID="1234" action="" brief="XQ插件" sourceMsgId="0" url="" flag="2" adverSign="0" multiMsgFlag="0"><item layout="5" advertiser_id="0" aid="0"><picture cover="http://images.cnblogs.com/cnblogs_com/superlrj/888226/o_7.jpg" w="0" h="0" /><title>XQ插件</title><summary></summary></item><item layout="6" advertiser_id="0" aid="0"><summary size="24" color="#800000">🐔模式切换🐔主人设置
+🐔更多设置🐔插件信息</summary></item><source name="XQ插件" icon="http://img.sj33.cn/uploads/allimg/200911/20091113222757169.png" action="" appid="0" /></msg>
+
+<?xml version='1.0' encoding='UTF-8' standalone='yes' ?><msg serviceID="1" templateID="1234" action="" brief="XQ插件" sourceMsgId="0" url="" flag="2" adverSign="0" multiMsgFlag="0"><item layout="5" advertiser_id="0" aid="0"><picture cover="http://images.cnblogs.com/cnblogs_com/superlrj/888226/o_11.jpg" w="0" h="0" /><title>XQ插件</title><summary></summary></item><item layout="6" advertiser_id="0" aid="0"><summary size="24" color="#800000">🌺切换文字模式
+🌺切换小冰模式
+🌺切换中屏模式
+🌺切换全屏模式
+🌺切换卡片模式</summary></item><source name="XQ插件" icon="http://img.sj33.cn/uploads/allimg/200911/20091113222757169.png" action="" appid="0" /></msg>
+
+
+
+小可爱简洁框架
+{"app":"com.tencent.creategroupmsg","desc":"hello everybody","view":"main","ver":"0.0.0.1","prompt":"hello everybody","appID":"","sourceName":"","actionData":"","actionData_A":"","sourceUrl":"","meta":{"groupinfo":{"cateid":23,"desc":"       《小可爱超级清爽版》\n――――――――――――――\n操作者：您好骚\n――――――――――――――\n设置公告   群管系统   接口系统\n音乐系统   视频系统   书图系统\n联系官方   游戏系统   业务系统\n切换系统   下载词库   短信轰炸\n――――――――――――――\n【公告】〖无〗 ――――――――――――――\n时间：2020年04月07日09:49","status":0,"subid":10009,"troopnum":"920741325"}},"config":{"autosize":true,"ctime":1583160861,"forward":true,"token":"f4c7715a910b50d580ab80c96b377d4d","type":"normal"},"text":"","sourceAd":""}
+
+小冰卡片全屏
+{"app":"com.microsoft.xiaoiceark","desc":"QQ小冰","view":"coverpage","ver":"1.0.0.5","prompt":"[应用]您好骚","meta":{"data":{"Data":{"formCode":"1000"},"Description":"这里可以自定义【换行】换行请使用：换行【换行】换行请使用：换行【换行】换行请使用：换行【换行】换行请使用：换行【换行】换行请使用：换行","Page":"MindReader","Title":"您好骚xml卡片工厂","Image":"assets\/TextGame\/card2.jpg"}},"config":{"forward":0,"showSender":1},"text":"qtxml.cn","sourceAd":"","config":{"forward":0,"showSender":0}}
+
+签到框架
+{"app":"com.tencent.qq.checkin","desc":"文件重新加载完成","view":"checkIn","ver":"1.0.0.13","prompt":"文件重新加载完成！","appID":"","sourceName":"","actionData":"","actionData_A":"","sourceUrl":"","meta":{"checkInData":{"address":"侠客行论坛104a.cn","cover":{"height":0,"url":"http:\/\/gchat.qpic.cn\/gchatpic_new\/963012283\/3817088130-2443146263-4682DC52F3A505EFA7C2C21659A8A163\/0","width":0},"desc":"文件重新加载完成","hostuin":2585147864,"id":"union_15678955382585147864174051000","qunid":"174051000","rank":1,"skip_to":1,"time":0,"url":"mqqapi:\/\/microapp\/open?appid=1108164955&path=pages%2Fchecklist%2Fchecklist&extraData=174051000%7Cunion_15678955382585147864174051000"}},"config":{"forward":0,"showSender":1},"text":"","sourceAd":""}
+
+带字全屏
+{"app":"com.tencent.miniapp","desc":"","view":"all","ver":"1.0.0.89","prompt":"","appID":"","sourceName":"","actionData":"","actionData_A":"","sourceUrl":"","meta":{"all":{"buttons":[{"action":"","name":""}],"jumpUrl":"","preview":"http:\/\/photocdn.sohu.com\/20151227\/Img432703941.jpg?term=2[\/imgurl","summary":"欢迎：　\n≮步行进入了本群≯\n≮全体群员鄙视你≯\n坐骑：[暂无坐骑]\n奖励：99999金币\n购买：发送坐骑系统\n签到：可以领积分\n点赞：可以领名片赞","title":"坐骑出场"}},"config":{"forward":true},"text":"","sourceAd":""}
+
+报时礼物卡片
+{"app":"com.tencent.giftmall.giftark","desc":"","view":"giftArk","ver":"1.0.4.3","prompt":"礼物报时","appID":"","sourceName":"","actionData":"","actionData_A":"","sourceUrl":"","meta":{"giftData":{"animationType":"0","arkBgUrl":"\/qzone\/space_item\/material\/QzoneGift\/org\/12\/19676\/ke.png","arkGuestBgUrl":"\/qzone\/space_item\/material\/QzoneGift\/org\/13\/204973\/ke.png","boxZipUrl":"","desc":"","giftMsg":"2020年04月06日20:00","giftName":"时间:20:00","giftParticleUrl":"\/aoi\/sola\/20200211152108_OwLVpEObQT.png","giftPrice":"6660","giftZipUrl":"\/qzone\/qzact\/act\/external\/shijun\/mghdh.zip","isFree":"0","lottieUrl":"","msgId":"6794593814080377150","openIconUrl":"\/aoi\/sola\/20200211152101_nl6z8Et70n.png","orderNum":"","sender":"1","toUin":"2012683191","unopenIconUrl":"\/aoi\/sola\/20190524114722_moYXoHozlK.png"}},"config":{"ctime":1584928199,"forward":0,"token":""},"text":"","sourceAd":""}
+腾讯新闻卡片框架
+<?xml version='1.0' encoding='UTF-8' standalone='yes' ?><msg serviceID="0" templateID="1" action="" brief="山火过后武警发现幸存怀孕山羊 随后一幕让人泪目" sourceMsgId="0" url="" flag="4" accostType="7" adverSign="0" multiMsgFlag="0"><item layout="5" action="web" url="https://view.inews.qq.com/q/WXN20200406007627051?refer=mobileqq&amp;bat_id=113093240&amp;rg=1&amp;pushid=2020040665&amp;rate=2&amp;grp_id=313093244&amp;_wv=1&amp;_rp=1&amp;cur_pos=0&amp;bkt=11001&amp;qq=2739218253&amp;rs=0&amp;pid=2020040665&amp;gid=0&amp;tbkt=B2&amp;big_brother_source_key=biz_src_gzh_news" advertiser_id="0" aid="0"><picture cover="https://inews.gtimg.com/newsapp_ls/0/11545033210_690380/0" url="https://view.inews.qq.com/q/WXN20200406007627051?refer=mobileqq&amp;bat_id=113093240&amp;rg=1&amp;pushid=2020040665&amp;rate=2&amp;grp_id=313093244&amp;_wv=1&amp;_rp=1&amp;cur_pos=0&amp;bkt=11001&amp;qq=2739218253&amp;rs=0&amp;pid=2020040665&amp;gid=0&amp;tbkt=B2&amp;big_brother_source_key=biz_src_gzh_news" w="0" h="0" /><title>山火过后武警发现幸存怀孕山羊 随后一幕让人泪目</title></item><item layout="0" advertiser_id="0" aid="0"><hr hidden="false" style="0" /></item><item layout="4" action="web" url="https://view.inews.qq.com/q/WXN20200406007766081?refer=mobileqq&amp;bat_id=113093240&amp;rg=1&amp;pushid=2020040665&amp;rate=2&amp;grp_id=313093244&amp;_wv=1&amp;_rp=1&amp;cur_pos=1&amp;bkt=11001&amp;qq=2739218253&amp;rs=0&amp;pid=2020040665&amp;gid=0&amp;tbkt=B2&amp;big_brother_source_key=biz_src_gzh_news" advertiser_id="0" aid="0"><picture cover="https://inews.gtimg.com/newsapp_ls/0/11545013416_8080/0" url="https://view.inews.qq.com/q/WXN20200406007766081?refer=mobileqq&amp;bat_id=113093240&amp;rg=1&amp;pushid=2020040665&amp;rate=2&amp;grp_id=313093244&amp;_wv=1&amp;_rp=1&amp;cur_pos=1&amp;bkt=11001&amp;qq=2739218253&amp;rs=0&amp;pid=2020040665&amp;gid=0&amp;tbkt=B2&amp;big_brother_source_key=biz_src_gzh_news" w="0" h="0" /><title>[晚报]黑龙江再增20例输入病例：均为中国籍 从俄罗斯回国</title></item><item layout="0" advertiser_id="0" aid="0"><hr hidden="false" style="0" /></item><item layout="4" action="web" url="https://view.inews.qq.com/q/WXN20200406013863051?refer=mobileqq&amp;bat_id=113093240&amp;rg=1&amp;pushid=2020040665&amp;rate=2&amp;grp_id=313093244&amp;_wv=1&amp;_rp=1&amp;cur_pos=2&amp;bkt=11001&amp;qq=2739218253&amp;rs=0&amp;pid=2020040665&amp;gid=0&amp;tbkt=B2&amp;big_brother_source_key=biz_src_gzh_news" advertiser_id="0" aid="0"><picture cover="https://inews.gtimg.com/newsapp_ls/0/11544996462_8080/0" url="https://view.inews.qq.com/q/WXN20200406013863051?refer=mobileqq&amp;bat_id=113093240&amp;rg=1&amp;pushid=2020040665&amp;rate=2&amp;grp_id=313093244&amp;_wv=1&amp;_rp=1&amp;cur_pos=2&amp;bkt=11001&amp;qq=2739218253&amp;rs=0&amp;pid=2020040665&amp;gid=0&amp;tbkt=B2&amp;big_brother_source_key=biz_src_gzh_news" w="0" h="0" /><title>航拍山林里盘踞18座豪华墓地场面惊人 造价曝光网友咋舌</title></item><item layout="0" advertiser_id="0" aid="0"><hr hidden="false" style="0" /></item><item layout="4" action="web" url="https://view.inews.qq.com/q/WXN202004060076470D1?refer=mobileqq&amp;bat_id=113093240&amp;rg=1&amp;pushid=2020040665&amp;rate=2&amp;grp_id=313093244&amp;_wv=1&amp;_rp=1&amp;cur_pos=3&amp;bkt=11001&amp;qq=2739218253&amp;rs=0&amp;pid=2020040665&amp;gid=0&amp;tbkt=B2&amp;big_brother_source_key=biz_src_gzh_news" advertiser_id="0" aid="0"><picture cover="https://inews.gtimg.com/newsapp_ls/0/11544995713_8080/0" url="https://view.inews.qq.com/q/WXN202004060076470D1?refer=mobileqq&amp;bat_id=113093240&amp;rg=1&amp;pushid=2020040665&amp;rate=2&amp;grp_id=313093244&amp;_wv=1&amp;_rp=1&amp;cur_pos=3&amp;bkt=11001&amp;qq=2739218253&amp;rs=0&amp;pid=2020040665&amp;gid=0&amp;tbkt=B2&amp;big_brother_source_key=biz_src_gzh_news" w="0" h="0" /><title>男子肩扛十几袋大米依旧面不改色 众人感慨：生活的重量！</title></item><source name="" icon="" action="" appid="0" /></msg>
+
+卡片框架
+<?xml version='1.0' encoding='UTF-8' standalone='yes' ?><msg serviceID="0" templateID="1" action="" brief="充值成功通知" sourceMsgId="1586148658510314" url="" flag="37" sType="1" accostType="7" adverSign="0" multiMsgFlag="0"><item layout="0" advertiser_id="0" aid="0"><title style="1">充值成功通知</title></item><item layout="0" advertiser_id="0" aid="0"><summary type="1">2020年04月06日</summary></item><item layout="6" advertiser_id="0" aid="0"><summary>您的游戏币充值成功!</summary><summary>业务名称：王者荣耀
+商品名称：王者荣耀点券
+充值数量：680
+支付金额：65.96元
+到账账户：QQ号2739218253</summary><summary>更多优惠活动，尽在腾讯充值！</summary></item><item layout="0" advertiser_id="0" aid="0"><hr hidden="false" style="0" /></item><item layout="0" action="web" url="https://pay.qq.com/h5/mqq.php?_wv=1&amp;page=gameList&amp;pf=__mds_qqservice_tips.game" advertiser_id="0" aid="0"><title>查看</title></item><source name="" icon="" action="" appid="0" /></msg>
+
+卡片框架
+<?xml version='1.0' encoding='UTF-8' standalone='yes' ?><msg serviceID="0" templateID="1" action="" brief="清明科幻雨？这雨下得有点意思~" sourceMsgId="0" url="" flag="4" accostType="7" adverSign="0" multiMsgFlag="0"><item layout="5" action="web" url="https://h5.vip.qq.com/p/cgireport/cgi-bin/handle?dc=10535&amp;adId=242778&amp;posId=185&amp;reportKey=vab_push&amp;classIndex=3&amp;url=https%3A%2F%2Fcmshow.qq.com%2Fact_apollo%2FactTpl%2Fhtml%2Fhome.html%3F_wv%3D1025%26_wwv%3D4%26adTag%3Dgzh%26app%3Dzbhy%26trace_detail%3Dbase64-eyJhcHBpZCI6InZhYl9wdXNoIiwicGFnZV9pZCI6IjE4NSIsIml0ZW1faWQiOiIyNDI3NzgiLCJpdGVtX3R5cGUiOiI1In0%3D&amp;_wv=1025&amp;_wwv=4&amp;trace_detail=base64-eyJhcHBpZCI6InZhYl9jb21tIiwicGFnZV9pZCI6IjE4NSIsIml0ZW1faWQiOiIyNDI3NzgiLCJpdGVtX3R5cGUiOiI1In0=" advertiser_id="0" aid="0"><picture cover="https://tianshu.gtimg.cn/tianshu/1585896591776.jpg" url="https://h5.vip.qq.com/p/cgireport/cgi-bin/handle?dc=10535&amp;adId=242778&amp;posId=185&amp;reportKey=vab_push&amp;classIndex=3&amp;url=https%3A%2F%2Fcmshow.qq.com%2Fact_apollo%2FactTpl%2Fhtml%2Fhome.html%3F_wv%3D1025%26_wwv%3D4%26adTag%3Dgzh%26app%3Dzbhy%26trace_detail%3Dbase64-eyJhcHBpZCI6InZhYl9wdXNoIiwicGFnZV9pZCI6IjE4NSIsIml0ZW1faWQiOiIyNDI3NzgiLCJpdGVtX3R5cGUiOiI1In0%3D&amp;_wv=1025&amp;_wwv=4&amp;trace_detail=base64-eyJhcHBpZCI6InZhYl9jb21tIiwicGFnZV9pZCI6IjE4NSIsIml0ZW1faWQiOiIyNDI3NzgiLCJpdGVtX3R5cGUiOiI1In0=" w="0" h="0" /><title>清明科幻雨？这雨下得有点意思~</title></item><item layout="0" advertiser_id="0" aid="0"><hr hidden="false" style="0" /></item><item layout="4" action="web" url="https://h5.vip.qq.com/p/cgireport/cgi-bin/handle?dc=10535&amp;adId=242778&amp;posId=185&amp;reportKey=vab_push&amp;classIndex=7&amp;url=https%3A%2F%2Fcmshow.qq.com%2Fact_apollo%2FactTpl%2Fhtml%2Fhome.html%3F_wv%3D1025%26_wwv%3D4%26adTag%3Dgzh%26app%3Dzbshs%26trace_detail%3Dbase64-eyJhcHBpZCI6InZhYl9wdXNoIiwicGFnZV9pZCI6IjE4NSIsIml0ZW1faWQiOiIyNDI3NzgiLCJpdGVtX3R5cGUiOiI1In0%3D&amp;_wv=1025&amp;_wwv=4&amp;trace_detail=base64-eyJhcHBpZCI6InZhYl9jb21tIiwicGFnZV9pZCI6IjE4NSIsIml0ZW1faWQiOiIyNDI3NzgiLCJpdGVtX3R5cGUiOiI1In0=" advertiser_id="0" aid="0"><picture cover="https://tianshu.gtimg.cn/tianshu/1585897346424.jpg" url="https://h5.vip.qq.com/p/cgireport/cgi-bin/handle?dc=10535&amp;adId=242778&amp;posId=185&amp;reportKey=vab_push&amp;classIndex=7&amp;url=https%3A%2F%2Fcmshow.qq.com%2Fact_apollo%2FactTpl%2Fhtml%2Fhome.html%3F_wv%3D1025%26_wwv%3D4%26adTag%3Dgzh%26app%3Dzbshs%26trace_detail%3Dbase64-eyJhcHBpZCI6InZhYl9wdXNoIiwicGFnZV9pZCI6IjE4NSIsIml0ZW1faWQiOiIyNDI3NzgiLCJpdGVtX3R5cGUiOiI1In0%3D&amp;_wv=1025&amp;_wwv=4&amp;trace_detail=base64-eyJhcHBpZCI6InZhYl9jb21tIiwicGFnZV9pZCI6IjE4NSIsIml0ZW1faWQiOiIyNDI3NzgiLCJpdGVtX3R5cGUiOiI1In0=" w="0" h="0" /><title>集美们！梦幻守护神装扮速领&gt;&gt;</title></item><item layout="0" advertiser_id="0" aid="0"><hr hidden="false" style="0" /></item><item layout="4" action="web" url="https://h5.vip.qq.com/p/cgireport/cgi-bin/handle?dc=10535&amp;adId=242778&amp;posId=185&amp;reportKey=vab_push&amp;classIndex=11&amp;url=https%3A%2F%2Fh5.cmshow.qq.com%2Fpages%2Fip_site%2Fip_detail.html%3F_wv%3D1025%26_wwv%3D4%26adTag%3Dgzh%26g_id%3D83%26trace_detail%3Dbase64-eyJhcHBpZCI6InZhYl9wdXNoIiwicGFnZV9pZCI6IjE4NSIsIml0ZW1faWQiOiIyNDI3NzgiLCJpdGVtX3R5cGUiOiI1In0%3D&amp;_wv=1025&amp;_wwv=4&amp;trace_detail=base64-eyJhcHBpZCI6InZhYl9jb21tIiwicGFnZV9pZCI6IjE4NSIsIml0ZW1faWQiOiIyNDI3NzgiLCJpdGVtX3R5cGUiOiI1In0=" advertiser_id="0" aid="0"><picture cover="https://tianshu.gtimg.cn/tianshu/1585896962187.jpg" url="https://h5.vip.qq.com/p/cgireport/cgi-bin/handle?dc=10535&amp;adId=242778&amp;posId=185&amp;reportKey=vab_push&amp;classIndex=11&amp;url=https%3A%2F%2Fh5.cmshow.qq.com%2Fpages%2Fip_site%2Fip_detail.html%3F_wv%3D1025%26_wwv%3D4%26adTag%3Dgzh%26g_id%3D83%26trace_detail%3Dbase64-eyJhcHBpZCI6InZhYl9wdXNoIiwicGFnZV9pZCI6IjE4NSIsIml0ZW1faWQiOiIyNDI3NzgiLCJpdGVtX3R5cGUiOiI1In0%3D&amp;_wv=1025&amp;_wwv=4&amp;trace_detail=base64-eyJhcHBpZCI6InZhYl9jb21tIiwicGFnZV9pZCI6IjE4NSIsIml0ZW1faWQiOiIyNDI3NzgiLCJpdGVtX3R5cGUiOiI1In0=" w="0" h="0" /><title>带你解密你不知道的星座二三事~</title></item><item layout="0" advertiser_id="0" aid="0"><hr hidden="false" style="0" /></item><item layout="4" action="web" url="https://h5.vip.qq.com/p/cgireport/cgi-bin/handle?dc=10535&amp;adId=242778&amp;posId=185&amp;reportKey=vab_push&amp;classIndex=15&amp;url=https%3A%2F%2Fyouxi.vip.qq.com%2Fm%2Fact%2F9fc73aebac_ppgame_468636.html%3F_wv%3D1%26_wwv%3D4%26trace_detail%3Dbase64-eyJhcHBpZCI6InZhYl9wdXNoIiwicGFnZV9pZCI6IjE4NSIsIml0ZW1faWQiOiIyNDI3NzgiLCJpdGVtX3R5cGUiOiI1In0%3D&amp;_wv=1&amp;_wwv=4&amp;trace_detail=base64-eyJhcHBpZCI6InZhYl9jb21tIiwicGFnZV9pZCI6IjE4NSIsIml0ZW1faWQiOiIyNDI3NzgiLCJpdGVtX3R5cGUiOiI1In0=" advertiser_id="0" aid="0"><picture cover="https://tianshu.gtimg.cn/tianshu/1585897029074.jpg" url="https://h5.vip.qq.com/p/cgireport/cgi-bin/handle?dc=10535&amp;adId=242778&amp;posId=185&amp;reportKey=vab_push&amp;classIndex=15&amp;url=https%3A%2F%2Fyouxi.vip.qq.com%2Fm%2Fact%2F9fc73aebac_ppgame_468636.html%3F_wv%3D1%26_wwv%3D4%26trace_detail%3Dbase64-eyJhcHBpZCI6InZhYl9wdXNoIiwicGFnZV9pZCI6IjE4NSIsIml0ZW1faWQiOiIyNDI3NzgiLCJpdGVtX3R5cGUiOiI1In0%3D&amp;_wv=1&amp;_wwv=4&amp;trace_detail=base64-eyJhcHBpZCI6InZhYl9jb21tIiwicGFnZV9pZCI6IjE4NSIsIml0ZW1faWQiOiIyNDI3NzgiLCJpdGVtX3R5cGUiOiI1In0=" w="0" h="0" /><title>免费领6辆跑跑卡丁车同款赛车！</title></item><source name="" icon="" action="" appid="0" /></msg>
+
+大图片卡片
+{"app":"com.tencent.mobileqq.reading","desc":"","view":"singleImg","ver":"1.0.0.70","prompt":"［图片］","appID":"","sourceName":"","actionData":"","actionData_A":"","sourceUrl":"","meta":{"singleImg":{"mainImage":"http://gchat.qpic.cn/gchatpic_new/3318666086/530077417-1234567890-FDEB4FD18DD15F9EA577B34345229D59/0","mainUrl":""}},"text":"","sourceAd":""}
+
+QQ小程序带图卡片
+{"app":"com.tencent.miniapp","desc":"","view":"detail","ver":"0.0.0.1","prompt":"[QQ小程序]精选美女小游戏","meta":{"detail":{"appid":"1108679888","icon":"http://qzs.qq.com/ac/qzone_v5/client/auth_icon.png","title":"精选美女小游戏","desc":"快来脱掉我的衣服","url":"http://open1785.game.4177.com/info/10613","preview":"http://api.btstu.cn/sjbz/?lx=m_dongman"}},"config":{"type":"normal","width":220,"height":300,"forward":1,"autoSize":0}}
+
+转跳链接带图小程序卡片
+{"app":"com.tencent.miniapp","desc":"","view":"detail","ver":"0.0.0.1","prompt":"[QQ小程序]您好骚最新卡片","appID":"","sourceName":"","actionData":"","actionData_A":"","sourceUrl":"","meta":{"detail":{"appid":"1108809550","icon":"http://gchat.qpic.cn/gchatpic_new/3318666086/530077417-1234567890-FDEB4FD18DD15F9EA577B34345229D59/0","title":"您好骚","desc":"点我看大片","url":"http://img.bbs.miguan.net.cn/1_20190521051030.mp4","preview":"http://img.bbs.miguan.net.cn/1_20190824222305.png"}},"config":{"type":"normal","width":300,"height":272,"forward":1,"autoSize":0}}
+{"app":"com.tencent.miniapp","desc":"","view":"detail","ver":"1.0.0.113","prompt":"[QQ小程序]超级会员红包","appID":"","sourceName":"","actionData":"","actionData_A":"","sourceUrl":"","meta":{"detail":{"icon":"miniapp.gtimg.cn\/public\/appicon\/74dcc4e58350a97334d21159ee85deb7_200.jpg","desc":"快来领取免费QQ超级会员","preview":"qzonestyle.gtimg.cn\/aoi\/sola\/20190625162804_QWHCc84UQ7.png?pt=3&ek=1&kp=1&sce=70-0-0","title":"超级会员红包","host":{"uin":"851493367","nick":""},"appid":"1108809550","url":"http://bbs.miguan.net.cn"}}}
+{"app":"com.tencent.miniapp","desc":"","view":"detail","ver":"0.0.0.1","prompt":"[QQ小程序]最新小程序跳转","appID":"","sourceName":"","actionData":"","actionData_A":"","sourceUrl":"","meta":{"detail":{"appid":"1108679888","icon":"http://gchat.qpic.cn/gchatpic_new/3318666086/530077417-1234567890-FDEB4FD18DD15F9EA577B34345229D59/0","title":"您好骚XML论坛","desc":"最新可用跳转","url":"http://qtxml.cn","preview":"http://img.bbs.miguan.net.cn/1_20190523032857.png"}},"config":{"type":"normal","width":220,"height":300,"forward":1,"autoSize":0}}
+宽版
+{"app":"com.tencent.miniapp","desc":"","view":"detail","ver":"0.0.0.1","prompt":"[QQ小程序]您好骚最新卡片","appID":"","sourceName":"","actionData":"","actionData_A":"","sourceUrl":"","meta":{"detail":{"appid":"1108809550","icon":"http://gchat.qpic.cn/gchatpic_new/3318666086/530077417-1234567890-FDEB4FD18DD15F9EA577B34345229D59/0","title":"您好骚","desc":"最新宽版小程序卡片","url":"http://qtxml.cn","preview":"http://img.bbs.miguan.net.cn/1_20190523032857.png"}},"config":{"type":"normal","width":300,"height":272,"forward":1,"autoSize":0}}
+卡片框架不支持转跳可做卡片主菜单
+{"app":"com.tencent.qqpay.qqmp.groupmsg","desc":"","view":"groupPushView","ver":"1.0.0.7","prompt":"您好骚","appID":"","sourceName":"","actionData":"","actionData_A":"","sourceUrl":"","meta":{"groupPushData":{"time":"","cancel_url":"http:\/\/www.baidu.com","fromIcon":"","report_url":"https:\/\/kf.qq.com\/faq\/180522RRRVvE180522NzuuYB.html","bannerLink":"","fromName":"name","summaryTxt":"我想和你见面，地点你选。森林，沙漠，夜晚依稀的湖畔。草原，大海，清晨薄雾的借口。只是，别在梦里。\n\n'.群管功能 ▼ 便民服务.'\n'.网络工具 ▼ 图片系统.'\n'.娱乐功能 ▼ 休闲功能.'\n'.资料系统 ▼ 超级宠物.'\n'.排行功能 ▼ 商城系统.'\n'.仙岛系统 ▼ 炸弹游戏.'\n'.音乐功能 ▼ 视频系统.'\n'.违禁检测 ▼ 插件设置.'\n\n)","bannerImg":"http:\/\/gchat.qpic.cn\/gchatpic_new\/0\/0-0-50062307C7124D7D74EF684B7DCE5594\/0","bannerTxt":"您好骚","item1Img":""}},"text":"","sourceAd":""}
+
+QQ广告卡片可转跳链接
+{"app":"com.tencent.gdt.gouwu","desc":"","view":"commoditysingle","ver":"0.0.0.1","prompt":"百元红包等你来领取！！！","meta":{"gdt":{"ad_type":"3","ad_uin":"3","aid":"3","animation_effect":"3","app_download_schema":"4","apurl":"","button_txt":"点击进入","button_url":"http:\/\/qm.qq.com\/cgi-bin\/qm\/qr?k=sBkTkrqpGrWOAc73rnh__xGTr-wZ-Udu","canvas_json":"3","cl":"3","corporate_image_name":"3","corporate_logo":"3","corporation_name":"公司","cost_type":4,"creative_size":600,"customized_invoke_url":"","desc":"","dest_url_display_type":0,"ext":"","img":"http://img.bbs.miguan.net.cn/1_20190523032857.png","img_s":"","landing_page":"http:\/\/qm.qq.com\/cgi-bin\/qm\/qr?k=sBkTkrqpGrWOAc73rnh__xGTr-wZ-Udu","left_bottom_text":"您好骚论坛：qtxml.cn","txt":"支持发付费贴，发资源可赚钱","linktype":0,"media_duration":0,"mini_program_type":0,"neg_feedback":"","pattern_type":"","price":"","product_id":"","product_type":"","response_ad_time":"","rl":"","traceid":"nrlum3kwedmlc01","via":"","video_file_size":0,"video_url":"","view_id":""}}}
+简化版
+{"app":"com.tencent.gdt.gouwu","desc":"","view":"commoditysingle","ver":"0.0.0.1","prompt":"百元红包等你来领取！！！","meta":{"gdt":{"ad_type":"3","ad_uin":"3","aid":"3","animation_effect":"3","app_download_schema":"4","apurl":"","button_txt":"点击进入","button_url":"","canvas_json":"3","cl":"3","corporate_image_name":"3","corporate_logo":"3","corporation_name":"公司","cost_type":4,"creative_size":600,"customized_invoke_url":"","desc":"","dest_url_display_type":0,"ext":"","img":"http://img.bbs.miguan.net.cn/1_20190523032857.png","img_s":"","landing_page":"http:\/\/bbs.miguan.net.cn","left_bottom_text":"您好骚论坛：qtxml.cn","txt":"支持发付费贴，发资源可赚钱","linktype":0,"media_duration":0,"mini_program_type":0,"neg_feedback":"","pattern_type":"","price":"","product_id":"","product_type":"","response_ad_time":"","rl":"","traceid":"nrlum3kwedmlc01","via":"","video_file_size":0,"video_url":"","view_id":""}}}
+
+卡片框架可做菜单
+{"app":"com.tencent.qqpay.qqmp.groupmsg","desc":"","view":"groupPushView","ver":"1.0.0.7","prompt":"新消息","appID":"","sourceName":"","actionData":"","actionData_A":"","sourceUrl":"","meta":{"groupPushData":{"bannerImg":"http://gchat.qpic.cn/gchatpic_new/3318666086/530077417-1234567890-FDEB4FD18DD15F9EA577B34345229D59/0","bannerLink":"http://qm.qq.com/cgi-bin/qm/qr?from=app&p=android&k=YCdcbs3lgpOOAkhdHIycNyM6u281Nx3s","bannerTxt":"文字标题","cancel_url":"http://www.baidu.com","fromIcon":"","fromName":"name","item1Img":"","report_url":"","summaryTxt":"文字说明\n\n换行","time":""}},"config":{"forward":0,"showSender":1}}
+简化
+{"app":"com.tencent.qqpay.qqmp.groupmsg","desc":"","view":"groupPushView","ver":"1.0.0.7","prompt":"新消息","meta":{"groupPushData":{"bannerImg":"http://gchat.qpic.cn/gchatpic_new/3318666086/530077417-1234567890-FDEB4FD18DD15F9EA577B34345229D59/0","bannerTxt":"文字标题","summaryTxt":"文字说明\n\n换行","time":""}},"config":{"forward":0,"showSender":1}}
+
+QQ小冰带头像可加图片卡片框架
+{"app":"com.microsoft.xiaoiceark","desc":"QQ小冰","view":"imageCover","ver":"1.0.2.9 ","prompt":"[应用]QQ小冰","meta":{"data":{"description":"主席 奖30金 制卡次数+4 排名第2位 100091047金币 连签：1天 连签排名：第2名 -------------------- 去论坛看看有没有新卡片啊？ www.qtxml.cn -------------------- 2019年5月23日 18:33 星期四","formCode":"1000","image":"http://laoliapi.cn/king/tupian/2cykj","imageDescription":"群主您好骚","imageHeight":300,"imageWidth":600,"targetApp":"guanxi","title":"用户ID:515172001 "}}}
+
+QQ小冰恋爱计划可做卡片菜单
+{"app":"com.microsoft.xiaoiceark","desc":"您好骚卡片工厂","view":"coverpage","ver":"1.0.1.16","prompt":"[应用]新人入群","meta":{"data":{"Data":{"formCode":"1000"},"Description":"------------------ 【换行】回复:菜单【换行】使用本群功能 【换行】做卡片看公告和群须知【换行】部分功能收费，注意素质 ","Image":"http://laoliapi.cn/king/tupian/2cykj","Page":"loveThinkTank","Title":"欢迎XXX加入本群"}}}
+
+QQ小程序不可转跳卡片
+{"app":"com.tencent.miniapp_01","desc":"","view":"view_8C8E89B49BE609866298ADDFF2DBABA4","ver":"1.0.0.19","prompt":"{[[QQ小程序]QQ音乐","meta":{"detail_1":{"appid":"1109523715","title":"QQ音乐","desc":"彩虹云朵-王源","icon":"miniapp.gtimg.cn/public/appicon/bf7a9c987edbd7f70b6540a8dd6c4a26_200.jpg","preview":"y.gtimg.cn/music/photo_new/T002R500x500M000000iM4vS3RvsdP_1.jpg?pt=3&ek=1&kp=1&sce=70-0-0","url":"bbs.miguan.net.cn","scene":0,"host":{"uin":752875318,"nick":"您好骚"},"shareTemplateId":"8C8E89B49BE609866298ADDFF2DBABA4","shareTemplateData":{}}},"config":{"type":"normal","width":0,"height":0,"forward":1,"autoSize":0}}
+
+稳定卡片框架
+[卡片头]        {"app":"com.tencent.qqpay.qqmp.groupmsg","desc":"","view":"groupPushView","ver":"1.0.0.7","prompt":"琅琊阁","appID":"","sourceName":"","actionData":"","actionData_A":"","sourceUrl":"","meta":{"groupPushData":{"time":"","cancel_url":"http:\/\/www.baidu.com","fromIcon":"","report_url":"https:\/\/kf.qq.com\/faq\/180522RRRVvE180522NzuuYB.html","bannerLink":"","fromName":"name","summaryTxt":"
+
+[卡片尾]      【换行】【换行】$昵称$随机群友$$：【一言】","bannerImg":"http:\/\/gchat.qpic.cn\/gchatpic_new\/0\/0-0-50062307C7124D7D74EF684B7DCE5594\/0","bannerTxt":"上页：[$回声$]\n$当前时间$","item1Img":""}},"text":"","sourceAd":""}}}
+我的王者账号卡片
+{"app":"com.tencent.gamecenter.wzryAccountValue","desc":"王者荣耀测一测","view":"accountView","ver":"1.0.1.3","prompt":"【邀你来测】你的王者账号有多强","appID":"","sourceName":"","actionData":"","actionData_A":"","sourceUrl":"","meta":{"shareData":{"avatarUrl":"http:\/\/thirdqq.qlogo.cn\/g?b=oidb&k=MVibYoGVH8tMMvNC1SQSJBQ&s=100","percent":97.2,"score":88,"strongText":"机智带线 掌控全局","lookUrl":"https:\/\/youxi.gamecenter.qq.com\/gcact\/dist\/412204\/index.html?_wv=16786337&_wwv=4&src=10000&oid=5B85BFB111106D840A68A49178CDF720&pid=1137","testUrl":"https:\/\/youxi.gamecenter.qq.com\/gcact\/dist\/412204\/index.html?_wv=16786337&_wwv=4&src=10000"}},"config":{"type":"normal","forward":0}}
+DNF抽卡卡片
+修改网址即可跳转任意网址
+修改prompt后的文字可以改变未打开聊天窗口时的摘要文字
+{"app":"com.tencent.qqVipCollectCardDNF","desc":"","view":"game","ver":"","prompt":"您好骚XML论坛","meta":{"game":{"DATA7":"1","DATA8":"","DATA9":"http:\/\/bbs.miguan.net.cn","DATA10":""}},"config":{"type":"normal","forward":1,"autosize":1}}
+全屏黑客装逼卡片
+{"app":"com.tencent.qqpay.qqmp.groupmsg","desc":"","view":"groupPushView","ver":"1.0.0.7","prompt":"请注意","appID":"","sourceName":"","actionData":"","actionData_A":"","sourceUrl":"","meta":{"groupPushData":{"time":"","cancel_url":"https:\/\/res.abeim.cn\/api\/qq\/?qq=1733495307","fromIcon":"","report_url":"https:\/\/res.abeim.cn\/api/qq\/?qq=1733495307","bannerLink":"","fromName":"name","summaryTxt":"你的群已被黑，请你及时修复漏洞，否则我们将会解散此群！","bannerImg":"http:\/\/gchat.qpic.cn\/gchatpic_new\/1733495307\/1050456070-2813307155-273409C05CF7DBA0F5A55292D2E10469\/0?term=2","bannerTxt":"hacker","item1Img":""}},"text":"","sourceAd":"","config":{"forward":0,"showSender":1},"config":{"forward":0,"showSender":0}}
+
+全屏卡片跳转个人主页-会员卡片变形
+{"app":"com.tencent.qqSvipMusicReminder","desc":"我爱您好骚","view":"about","ver":"1.0.0.5","prompt":"福利公会APP下载","meta":{"about":{"DATA10":" ","DATA11":"您好骚论坛 QTxml.cn","DATA12":"http:\/\/h5.vip.qq.com\/p\/cgireport\/cgi-bin\/handle?dc=10535&adId=81046&posId=85&classId=36&url=http://qm.qq.com/cgi-bin/qm/qr?k=buCkwv7ZfUyjggDyJC9b6O2_ecJy68fu","DATA13":" ","DATA14":"http://img.bbs.miguan.net.cn/1_20190926023632.png","DATA15":" ","DATA16":" ","DATA17":" ","DATA18":"http://img.bbs.miguan.net.cn/1_20190513070010.png","DATA19":" 我爱您好骚","DATA20":"url=https:\/\/url.cn\/5dT6w86","DATA7":" ","DATA8":" ","DATA9":" ","time":"2034170746"}},"config":{"forward":1,"showSender":0}}
+跳群：
+http://cgi.vip.qq.com/ozre/report?dcid=dc01035&ftype=9&msgid=2138&url=http://qm.qq.com/cgi-bin/qm/qr?k=9rMHsufTDJmQ09nN1xfqclIeWKA0Q4qS
+蓝色是接口，绿色是加群链接
+这是以前的接口，不过现在失效了，没失效的话替换data12后的链接就可以跳群，哪位有最新的跳转接口欢迎分享。
+data12蓝色部分是接口，不要动
+data12绿色部分保存个人二维码，识别二维码，识别后的网址替换绿色部分
+二维码解析   草料二维码解析
+data14浅蓝色链接是大图
+data18红色部分是logo小图
+末尾的"forward":1,值为0不可转发，为1可转发"showSender":0值为0全屏，为1窄屏
+其它无值的项目不要删，是为了隐藏原卡片内容的。
+
+纯卡片无图可转跳入群欢迎
+不可转跳版
+{"app":"com.tencent.structmsg","desc":"新闻","view":"news","ver":"0.0.0.1","prompt":"[应用]您好骚论坛","meta":{"news":{"title":"欢迎加入","desc":"$QQ$欢迎加入本群","preview":"","tag":"您好骚论坛","jumpUrl":"","appid":100446242,"app_type":1,"action":"","source_url":"","source_icon":"","android_pkg_name":""}},"config":{"forward":1,"showSender":0}}
+可转跳版
+{"app":"com.tencent.structmsg","desc":"词库更新","view":"music","ver":"0.0.0.1","prompt":"[分享]您好骚配置更新","meta":{"music":{"sourceMsgId":"0","title":"词库更新","desc":"配置更新","preview":"","tag":"点我更新","musicUrl":"","jumpUrl":"http://bbs.miguan.net.cn","appid":3353779836,"app_type":1,"action":"","source_url":"","source_icon":"","android_pkg_name":""}},"config":{"forward":0,"showSender":0}}
+
+小冰卡片
+普通json卡片，发送时显示发送者昵称：
+示例代码：
+{"app":"com.microsoft.xiaoiceark","desc":"QQ小冰","view":"coverpage","ver":"1.0.0.5","prompt":"[应用]您好骚论坛","meta":{"data":{"Data":{"formCode":"1000"},"Description":"这里可以自定义【换行】换行请使用：换行【换行】换行请使用：换行【换行】换行请使用：换行【换行】换行请使用：换行【换行】换行请使用：换行","Page":"MindReader","Title":"您好骚xml卡片工厂","Image":"assets\/TextGame\/card2.jpg"}}
+修改说明：
+注意看修改后的代码，在最后一个英文大括号之前加入一段代码：
+,"config":{"forward":1,"showSender":0
+
+代码说明：
+forward：在这里是动词发送，寄，转寄，转投，转交的意思
+值为0时可以省略此标签（不可转发），代码为：
+,"config":{"showSender":0}
+
+值为1时卡片长按可转发
+,"config":{"forward":1,"showSender":0}
+showsender：show：展示、显示，sender：发件人、发送人、邮寄人，showsender就是显示发送人
+
+showsender的值为0时，不显示发送人
+,"config":{"forward":1,"showSender":0}
+
+值为1时，显示发送人，可省略不写
+,"config":{"forward":1}
+
+修改后代码：
+{"app":"com.microsoft.xiaoiceark","desc":"QQ小冰","view":"coverpage","ver":"1.0.0.5","prompt":"[应用]您好骚论坛","meta":{"data":{"Data":{"formCode":"1000"},"Description":"这里可以自定义【换行】换行请使用：换行【换行】换行请使用：换行【换行】换行请使用：换行【换行】换行请使用：换行【换行】换行请使用：换行","Page":"MindReader","Title":"您好骚xml卡片工厂","Image":"assets\/TextGame\/card2.jpg"}},"config":{"forward":0,"showSender":0}}
+
+签到代码，可更改名次，位置，显示内容及图片
+{"app":"com.tencent.qq.checkin","desc":"群签到","view":"checkIn","ver":"1.0.0.25","prompt":"[早上好]我想你了（这里是局外显示信息）","appID":"","sourceName":"","actionData":"","actionData_A":"","sourceUrl":"","meta":{"checkInData":{"address":"你的心间即天堂（这里是位置）","cover":{"height":0,"url":"https:\/\/p.qpic.cn\/qunsign\/0\/sign_870bf84b7bfcc35c6e6e0bf9cd28b7e5k86gr569\/750","width":0},"desc":"我的她，你还好吗（这里是签到话语）","hostuin":这里填QQ号,"id":"union_1585088480这里填QQ号854427937","media_type":0,"qunid":"854427937","rank":名次，1就是第一名以此类推,"skip_to":2,"time":0,"url":"mqqapi:\/\/microapp\/open?appid=1108164955&path=pages%2Fchecklist%2Fchecklist&extraData=854427937%7Cunion_1585088480这里填QQ号854427937","vid":""}},"config":{"forward":0,"showSender":1},"text":"","sourceAd":""}
+
+xml卡片菜单，可自定义图片文字颜色
+<?xml version='1.0' encoding='UTF-8' standalone='yes' ?><msg serviceID="1" templateID="1" action="" brief="qiangzai" sourceMsgId="0" url="" flag="0" adverSign="0" multiMsgFlag="0"><item layout="0" advertiser_id="0" aid="0"><summary size="CD3333" color="#009100">使用前请先申请二维码登录 </summary><picture cover="http://imgsrc.baidu.com/forum/pic/item/cfb2693e6709c93d7a99a3ff9e3df8dcd00054f7.jpg" action="web" w="0" h="0" /><title size="null" style="null"></title></item><item layout="6" advertiser_id="0" aid="0"><hr hidden="false" style="0" /><summary size="null" color="#00FFFF">欢迎[qq]使用
+
+开秒赞 关秒赞 查单项
+
+开气泡 关气泡 查业务
+
+查绿钻 查会员 查黄钻
+
+查红钻 查视频 查微云
+
+查等级 查注册 删留言
+
+空间访问 一键签到 网易刷级
+
+超会点赞 秒赞状态 步数功能
+
+查大会员 秒赞系统 头像功能
+
+设置拒加 设置拒搜 清空资料
+
+ DIY气泡 删除单项 发送秀图</summary></item><source name="" icon="" url="2356227819" action="web" appid="0" /></msg>
+
+
+无限免费赠送礼物的代码。可更换赠送礼物人和发礼物人
+{"app":"com.tencent.giftmall.giftark","config":{"ctime":$QQ$,"forward":1,"token":"36ab99fcf7bac8d983150bd6c23320ba"},"desc":"","meta":{"giftData":{"animationType":"0","arkBgUrl":"/qzone/space_item/material/QzoneGift/org/15/17743/ke.png","arkGuestBgUrl":"/qzone/space_item/material/QzoneGift/org/10/204586/ke.png","boxZipUrl":"/qzone/qzact/act/external/shijun/aboxZipUrl.zip","desc":"你想要的都给你","giftMsg":"最懂你的一捧肥宅快乐花，你想要的都给你","giftName":"肥宅快乐花","giftParticleUrl":"/aoi/sola/20191225220313_OjTAlWkJgJ.png","giftPrice":"10","giftZipUrl":"/qzone/qzact/act/external/shijun/fzklhdh.zip","isFree":"0","lottieUrl":"","msgId":"#msgId#","openIconUrl":"/aoi/sola/20191225220313_LkkuTauVEX.png","orderNum":"27681ee9-bdf9-4df1-aa65-278f3d9dedb9","sender":"#sender#","toUin":"$创始人QQ$","unopenIconUrl":"/aoi/sola/20190402111555_yWazmedH08.png"}},"prompt":"[礼物]送你一份小惊喜","ver":"1.0.4.3","view":"giftArk"}
+
+QQ会员的代码
+<?xml version='1.0' encoding='UTF-8' standalone='yes' ?><msg serviceID="0" templateID="1" action="" brief="成长值待补回提醒" sourceMsgId="1585483352804376" url="" flag="37" sType="1" accostType="7" adverSign="0" multiMsgFlag="0"><item layout="0" advertiser_id="0" aid="0"><title style="1">成长值待补回提醒</title></item><item layout="0" advertiser_id="0" aid="0"><summary type="1">2020年03月29日</summary></item><item layout="6" advertiser_id="0" aid="0"><picture cover="http://qqpublic.qpic.cn/qq_public/0/0-2183535643-C0E92CEEEAF8080735C481B9CED1B190/0?fmt=jpeg&amp;size=42&amp;rs=22-42&amp;h=500&amp;w=900&amp;ppv=1" w="0" h="0" /></item><item layout="6" advertiser_id="0" aid="0"><summary>好消息，您关闭QQ会员期间损失的成长值可以恢复啦。快去查看成长值补回攻略吧~</summary><summary>最多可补回成长值：150</summary></item><item layout="0" advertiser_id="0" aid="0"><hr hidden="false" style="0" /></item><item layout="0" action="web" url="http://cgi.vip.qq.com/ozre/report?dcid=dc01035&amp;ftype=0&amp;msgid=376&amp;btnpos=3&amp;url=http%3A%2F%2Fmc.vip.qq.com%2Fsupergrowth%2Findex_v2%3F_wv%3D1025%26pay_src%3D10%26_wwv%3D4%26_wvSb%3D1%23gvBack&amp;_wv=1025&amp;pay_src=10&amp;_wwv=4&amp;_wvSb=1" advertiser_id="0" aid="0"><title>立即查看</title></item><source name="" icon="" action="" appid="0" /></msg>
+
+推荐联系人卡片
+<?xml version='1.0' encoding='UTF-8' standalone='yes' ?><msg serviceID="14" templateID="1" action="plugin" actionData="AppCmd://OpenContactInfo/?uin=123456789我我我是QQ号" a_actionData="mqqapi://card/show_pslcard?src_type=internal&amp;source=sharecard&amp;version=1&amp;uin=123456789这里填QQ号  等等发代码把我删了" i_actionData="mqqapi://card/show_pslcard?src_type=internal&amp;source=sharecard&amp;version=1&amp;uin=123456789QQ还是我哈哈" brief="推荐了帅哥" sourceMsgId="0" url="" flag="1" adverSign="0" multiMsgFlag="0"><item layout="0" mode="1" advertiser_id="0" aid="0"><summary>推荐帅哥</summary><hr hidden="false" style="0" /></item><item layout="2" mode="1" advertiser_id="0" aid="0"><picture cover="mqqapi://card/show_pslcard?src_type=internal&amp;source=sharecard&amp;version=1&amp;uin=1822276906" w="0" h="0" /><title>帅哥</title><summary>帅哥账号:123456789我也是</summary></item><source name="" icon="" action="" appid="-1" /></msg>
+
+QQ礼物欢迎新人入群
+{"app":"com.tencent.giftmall.giftark","desc":"","view":"giftArk","ver":"1.0.4.1","prompt":"[礼物]送你一份小惊喜","appID":"","sourceName":"","actionData":"","actionData_A":"","sourceUrl":"","meta":{"giftData":{"sender":"1","isFree":"1","giftName":"信封玫瑰","desc":"一封信开启我们的故事","orderNum":"a0ad5295-f819-4fa4-b9ed-eda984a715cb","toUin":"2308355210","unopenIconUrl":"\/aoi\/sola\/20190402111555_yWazmedH08.png","openIconUrl":"\/aoi\/sola\/20190416140745_Mpj8tSuyz7.png","boxZipUrl":"","giftZipUrl":"\/qzone\/qzact\/act\/external\/shijun\/xfmg.zip","giftParticleUrl":"","msgId":"6720931561775860358"}},"config":{"forward":0}}
+
+可在QQ聊天界面玩的游戏卡片
+{"app":"com.tencent.gamecenter.goldLottery","desc":"金币商城抽奖","view":"lotteryView","ver":"1.0.0.1","prompt":"金币商城抽奖","meta":{"shareData":{"appid":"1105483033","senderUin":"467915818"}}}
+
+精美卡片菜单
+{"app":"com.tencent.qqpay.qqmp.groupmsg","desc":"","view":"groupPushView","ver":"1.0.0.7","prompt":"爱腾讯，爱生活！","appID":"","sourceName":"","actionData":"","actionData_A":"","sourceUrl":"","meta":{"groupPushData":{"time":"","cancel_url":"http:\/\/www.baidu.com","fromIcon":"","report_url":"https:\/\/kf.qq.com\/faq\/180522RRRVvE180522NzuuYB.html","bannerLink":"","fromName":"name","summaryTxt":"操作人 : a ゞ夜少\n\n新人系统丨王者专区丨群管系统\n卡片管理丨通知系统丨宠物系统\n商城系统丨清屏系统丨开发功能\n制作图片丨银行系统丨宅男专区\n影视系统丨签到系统丨个性装扮\n娱乐系统丨快捷系统丨邀请系统\n开关系统丨插件系统丨游戏列表\n更多功能丨下页菜单丨配置版本","bannerImg":"http:\/\/gchat.qpic.cn\/gchatpic_new\/1917703871\/973242994-3189548615-43A5D5EFAFC853A6DC3F0F5C5523E09F\/0?term=2","bannerTxt":"≮-夜少正版配置-≯","item1Img":""}},"config":{"forward":0,"showSender":1},"text":"qtxml.cn","sourceAd":""}
+
+QQ多行--导航类json卡片，每一条都可以跳转，适合网站板块导航、业务大全等等各种项目。
+代码如下
+{"app":"com.tencent.miniapp","desc":"","view":"notification","ver":"0.0.0.1","prompt":"最新消息","meta":{"notification":{"appInfo":{"appName":"您好骚论坛卡片代码大全","appType":4,"ext":"","img":"https://url.cn/5ANgkzI","img_s":"","appid":1108249016,"iconUrl":"http://img.bbs.miguan.net.cn/1_20190513070010.png"},"button":[{"action":"https://url.cn/5bYFLpC","name":"菜单卡片代码"},{"action":"https://url.cn/5bYFLpC","name":"音乐卡片代码"},{"action":"https://url.cn/5bYFLpC","name":"红包卡片代码"},{"action":"https://url.cn/5bYFLpC","name":"更多卡片代码"},{"action":"http://bbs.miguan.net.cn","name":"---------------------"},{"action":"http://sq.miguan.net.cn","name":"卡片机器人授权"},{"action":"http://bbs.miguan.net.cn","name":"---------------------"},{"action":"http://wx.hxmjzs.cn","name":"微信防红"},{"action":"http://1.2.qtqi.cn","name":"QQ防红"},{"action":"http://qtxml.cn","name":"您好骚论坛--登录更精彩"}],"emphasis_keyword":""}}}
+修改方法：
+建议配合使用本站JSON格式化工具 更加一目了然的修改代码。
+加粗蓝色为图标链接
+"button":之后每一个项目都用大括号{ }包起来，每个项目后必加逗号，注意"button"：之后有个中括号[ 
+在所有项目完毕后再用中括号]包起来
+你可以随意增减项目数量，实例代码中有10条，你没有那么多项目的话可以删除几条，如下代码中有5条连接：
+{"app":"com.tencent.miniapp","desc":"","view":"notification","ver":"0.0.0.1","prompt":"最新消息","meta":{"notification":{"appInfo":{"appName":"您好骚论坛卡片代码大全","appType":4,"ext":"","img":"https://url.cn/5ANgkzI","img_s":"","appid":1108249016,"iconUrl":"http://img.bbs.miguan.net.cn/1_20190513070010.png"},"button":[{"action":"https://url.cn/5bYFLpC","name":"菜单卡片代码"},{"action":"https://url.cn/5bYFLpC","name":"音乐卡片代码"},{"action":"https://url.cn/5bYFLpC","name":"红包卡片代码"},{"action":"https://url.cn/5bYFLpC","name":"更多卡片代码"},{"action":"http://qtxml.cn","name":"您好骚论坛--登录更精彩"}],"emphasis_keyword":""}}}
+每一段白色部分为一条连接，删除时注意不要多删或少删字符。
+✔再提醒一下，无论xml或者json代码，代码中的所有标点符号均为英文符号
+
+天气卡片
+{"app":"com.tencent.weather","desc":"天气","view":"RichInfoView","ver":"0.0.0.1","prompt":"[应用]天气","meta":{"richinfo":{"adcode":"","air":"66","city":"桂林","date":"7月2日 周一","max":"31","min":"26","ts":"15158613","type":"204","wind":""}}}
+
+QQ小冰恋爱计划签到卡片图片已失效自换
+{"app":"com.microsoft.xiaoiceark","desc":"您好骚卡片工厂","view":"coverpage","ver":"1.0.1.16","prompt":"[应用]签到","meta":{"data":{"Data":{"formCode":"1000"},"Description":"$当前等级$【换行】应用签到s成功【换行】排名第$积分排名$位【换行】金币：$财富总额$$积分单位名称$【换行】连签：$连续签到天数$天【换行】连签排名：第$连续签到天数排名$数字1$$名【换行】$当前时间$","Image":"http://laoliapi.cn/king/tupian/2cykj","Page":"loveThinkTank","Title":"用户$昵称$"}}}
+
+备用全能卡片可头像点击可转跳
+{"app":"com.tencent.structmsg","desc":"新闻","view":"news","ver":"0.0.0.1","prompt":"","meta":{"news":{"title":"您好骚论坛","desc":"卡片代码\/各种工具\/机器人配置","preview":"http:\/\/img.bbs.miguan.net.cn\/1_20190513070010.png","tag":"QTXML.CN","jumpUrl":"http:\/\/bbs.miguan.net.cn","appid":100446242,"app_type":1,"action":"","source_url":"","source_icon":"","android_pkg_name":""}}}
+
+多行类导航卡片
+{"app":"com.tencent.qqpay.qqmp.groupmsg","desc":"","view":"groupPushView","ver":"1.0.0.7","prompt":"你的","appID":"","sourceName":"","actionData":"","actionData_A":"","sourceUrl":"","meta":{"groupPushData":{"bannerImg":"http://gchat.qpic.cn/gchatpic_new/752875318/4115811639-3108722348-1034A010DA495B61C972CD29EEE1633C/0","bannerLink":"","bannerTxt":"图片上的标题","cancel_url":"http:\/\/www.baidu.com","fromIcon":"","fromName":"name","item1Img":"http://gchat.qpic.cn/gchatpic_new/752875318/4115811639-3003485693-43C8C8D62F314BC0E0532CB68C2A82D4/0","item1Link":"https:\/\/kf.qq.com\/faq\/180522RRRVvE180522NzuuYB.html","item1Txt":"第一行文字","item2Img":"http://gchat.qpic.cn/gchatpic_new/752875318/4115811639-3003485693-43C8C8D62F314BC0E0532CB68C2A82D4/0","item2Link":"https:\/\/kf.qq.com\/faq\/180522RRRVvE180522NzuuYB.html","item2Txt":"第二行文字","item3Img":"http://gchat.qpic.cn/gchatpic_new/752875318/4115811639-3003485693-43C8C8D62F314BC0E0532CB68C2A82D4/0","item3Link":"https:\/\/kf.qq.com\/faq\/180522RRRVvE180522NzuuYB.html","item3Txt":"第三行文字","item4Img":"http://gchat.qpic.cn/gchatpic_new/752875318/4115811639-3003485693-43C8C8D62F314BC0E0532CB68C2A82D4/0","item4Link":"https:\/\/kf.qq.com\/faq\/180522RRRVvE180522NzuuYB.html","item4Txt":"第四行文字不显示","report_url":"https:\/\/kf.qq.com\/faq\/180522RRRVvE180522NzuuYB.html","summaryTxt":"您好骚xml论坛","time":""}}}
+
+地图卡片
+{"app":"com.tencent.map","desc":"地图","view":"LocationShare","ver":"1.0.1.70","prompt":"[应用]地图","from":1,"appID":"","sourceName":"","actionData":"","actionData_A":"","sourceUrl":"","meta":{"Location.Search":{"id":"3354792866842694713","name":"您好骚xml卡片工厂","address":"您好骚测试","lat":"39.918419","lng":"116.442818","from":"plusPanel"}},"config":{"forward":1,"autosize":1,"type":"card"}}
+
+新人入群类导航
+{"app":"com.tencent.miniapp","desc":"","view":"notification","ver":"0.0.0.1","prompt":"有新人加入本群！","appID":"","sourceName":"","actionData":"","actionData_A":"","sourceUrl":"","meta":{"notification":{"appInfo":{"appName":"新人入群！","appType":4,"ext":"","img":"https:\/\/url.cn\/5ANgkzI","img_s":"","appid":1108249016,"iconUrl":"http:\/\/q1.qlogo.cn\/g?b=qq&nk=3438354406&s=640"},"button":[{"action":"","name":"★欢★ 昵称 : saodie"},{"action":"","name":"★迎★ QQ : 3438354406"},{"action":"","name":"★加★ 性别 : 男"},{"action":"","name":"★入★ 入群时间:2020年3月10日 11:20"},{"action":"","name":"★群★ 你是当前群第1个成员"}],"emphasis_keyword":""}},"text":"","sourceAd":""}
+
+创建群邀请卡片疑似失效
+{“app“:“com.tencent.gameGroup“,“desc“:“您好骚论坛“,“view“:“main“,“ver“:“0.0.0.0“,“prompt“:“您好骚论坛——卡片总群“,“meta“:{“gameGroup“:{“gamename“:“您好骚论坛——卡片总群“,“status“:0,“troopnum“:389146579}}}
+
+头尾加字全屏卡片菜单
+{"app":"com.tencent.miniapp","desc":"","view":"all","ver":"1.0.0.89","prompt":"强仔爱兮兮","meta":{"all":{"buttons":[{"action":"","name":"★QQ群 : 555317695★"}],"jumpUrl":"","preview":"https://s2.ax1x.com/2020/02/28/3Dlvpn.gif","summary":" 查单项 开气泡 关气泡\n 开秒赞 关秒赞 查状态\n 查业务 查等级 查注册\n 删留言 查黄钻 查会员\n 查红钻 查绿钻 查视频\n 空间访问 一键签到 超会点赞\n 秒赞状态 删除好友 删除单项\n 设置拒加 设置拒搜 清空资料\n 步数功能 DIY气泡 窥屏检测\n 头像功能 发送秀图 个性铭牌","title":" 臭弟弟使用前请先申请二维码登录哦～"}},"config":{"forward":true},"config":{"forward":0,"showSender":0}}
+
+小屏游戏启动替换视频卡片
+{"app":"com.tencent.gamecenter.act","desc":"您好骚测试","view":"commonView","ver":"1.0.0.1","prompt":"[应用]视频卡片","appID":"1104307008","sourceName":"火影忍者-疾风传","actionData":"","actionData_A":"com.tencent.KiHan","sourceUrl":"","meta":{"shareData":{"openId":"1496146BE42696C12F35AB96AF32AF26","scene":"69","time":"1550146708","extData":{},"cover":"http%3a%2f%2fdlied5.qq.com%2fkihan%2fark%2fdrama%2f10.png","textBoxData":{"pic":"","title":"您好骚测试","desc":"您好骚测试"},"appid":"1104307008","url":"http%3a%2f%2fdlied5.qq.com%2fkihan%2fark%2fdrama%2fdrama_small_10.mp4"}},"config":{"forward":1,"type":"normal"}}
+
+群接龙卡片
+{"app":"com.tencent.groupDragon","desc":"接龙消息","meta":{"groupDragon":{"cid":"1534475048318210","gc":"668703212"}},"prompt":"您好骚xml工厂","ver":"1.0.0.1","view":"main"}
+
+无边框圆角视频xml卡片/测试时QQ卡死慎用
+<?xml version='1.0' encoding='UTF-8' standalone='yes' ?><msg serviceID="4" templateID="1" action="web" brief="您好骚论坛演示视频" sourceMsgId="0" url="" flag="2" adverSign="0" createTime="2016-10-26" multiMsgFlag="0"><item layout="5" action_type="0" advertiser_id="0" aid="0" dest_type="0" product_type="0"><video cover="http://img.bbs.miguan.net.cn/1_20190521035558.png " src="http://img.bbs.miguan.net.cn/1_20190521035707.mp4 " preStartPosi="0" preTime="0" preWidth="0" preHeight="0" fullTime="0" busiType="0" isJump2Web="0" /><title></title></item><source name="点我进群" icon="http://t.cn/RmyW3Tp ?" url="http://c7.gg/fTWen" action="web" appid="-1" /></msg>
+
+视频卡片/测试时卡死慎用
+<?xml version='1.0' encoding='UTF-8' standalone='yes' ?><msg serviceID="4" templateID="1" action="" brief="这里只有精品" sourceMsgId="0" url="" flag="2" adverSign="0" multiMsgFlag="0"><item layout="5"><video cover="http://gchat.qpic.cn/gchatpic_new/3324647071/849333957-2429824279-D23F434758DA4B10CE0088B258BD822F/0?" src="http://1251316161.vod2.myqcloud.com/007a649dvodcq1251316161/703a41f55285890786143713928/rVsCVYkXN7AA.mp4" preStartPosi="0" preTime="0" preWidth="0" preHeight="0" fullTime="0" busiType="0" isJump2Web="0" /><title>苹果流量观看</title></item><source name="点…这…有…惊…喜" icon="http://gchat.qpic.cn/gchatpic_new/1423129933/665180669-2165051699-DD777BDE5A0B5F11E363CC88E5E4AF0E/0" url="http://qm.qq.com/cgi-bin/qm/qr?k=MNmoYeWftb-TBbQwQZ4z1jTR-bewz8Vc" action="web" appid="-1" /></msg>
+
+视频卡片/卡死慎用
+<?xml version='1.0' encoding='UTF-8' standalone='yes' ?><msg serviceID="4" templateID="1" action="" brief="这里只有精品" sourceMsgId="0" url="" flag="2" adverSign="0" multiMsgFlag="0"><item layout="5"><video cover="http://gchat.qpic.cn/gchatpic_new/2351899079/632034045-2729271964-9DF9A87F0E13350F1881BF09590D87B7/0?" src="http://qnvideo.izuiyou.com/zyvd/b6/9c/a465-e82f-4ad9-a9dd-d50b7242bed3" preStartPosi="0" preTime="0" preWidth="0" preHeight="0" fullTime="0" busiType="0" isJump2Web="0" /><title>记得转发分享</title></item><source name="点…这…里…进…群" icon="http://gchat.qpic.cn/gchatpic_new/1423129933/665180669-2165051699-DD777BDE5A0B5F11E363CC88E5E4AF0E/0" url="http://t.cn/EoItXtv" action="web" appid="-1" /></msg>
+
+彩色字体推荐QQ
+<?xml version='1.0' encoding='UTF-8' standalone='yes' ?><msg serviceID="13" templateID="1" action="plugin" actionData="AppCmd://OpenContactInfo/?uin=393463569" a_actionData="mqqapi://card/show_pslcard?src_type=internal&amp;source=sharecard&amp;version=1&amp;uin=393463569" i_actionData="mqqapi://card/show_pslcard?src_type=internal&amp;source=sharecard&amp;version=1&amp;uin=393463569" brief="网红推荐" sourceMsgId="0" url="" flag="2" adverSign="0" multiMsgFlag="0"><item layout="0" mode="1" action_type="0" advertiser_id="0" aid="0" dest_type="0" product_type="0"><title color="#CD5B45">网红指数★★★★★</title><hr hidden="false" style="0" /></item><item layout="2" mode="1" action_type="0" advertiser_id="0" aid="0" dest_type="0" product_type="0"><picture cover="mqqapi://card/show_pslcard?src_type=internal&amp;source=sharecard&amp;version=1&amp;uin=393463569" w="0" h="0" /><title color="#CD5555">5元授权机器人</title><summary color="#2b4490">账号:393463569</summary></item><source name="腾讯官方特别推荐认证网红" icon="http://t.cn/RVIeaZK" action="" appid="-1" /></msg>
+
+恶搞卡片/恶搞绿帽子/可转跳QQ名片
+<?xml version='1.0' encoding='UTF-8' standalone='yes' ?><msg serviceID="1" templateID="43" action="web" brief="新消息" sourceMsgId="0" url="https://res.abeim.cn/api/qq/?qq=3438354406" flag="2" adverSign="0" multiMsgFlag="0"><item layout="4" bg="-8586240" advertiser_id="0" aid="0"><picture cover="http://gchat.qpic.cn/gchatpic_new/2308355210/675568040-2470402041-173C847F518B0F8D4E3E68B0FF0AA46F/0" w="0" h="0" /><title size="28" style="1">兄弟，你的帽子掉了</title><summary></summary></item><item layout="6" advertiser_id="0" aid="0"><hr hidden="false" style="0" /></item><source name="" icon="" action="" appid="1" /></msg>
+
+蔡徐坤打篮球动图卡片
+<?xml version='1.0' encoding='UTF-8' standalone='yes' ?><msg serviceID="83" templateID="1" action="web" brief="篮球！！！" sourceMsgId="0" url="https://post.mp.qq.com/group" flag="3" adverSign="0" multiMsgFlag="0"><item layout="2" advertiser_id="0" aid="0"><picture cover="https://cdn.sinaimg.cn.52ecy.cn/large/005BYqpgly1g5dbmnmmg9g30dc07ie82.jpg" w="0" h="0" /><title> </title><summary></summary></item><source name="" icon="" action="web" appid="-1" /></msg>
+
+防手机撤回纯文字卡片可跳转
+<?xml version="1.0" encoding="utf-8"?><msg serviceID="3" templateID="1"> <item layout="1" flag="3"><hypertext> <text>文字卡片，部分文字可做链接--</text> <text action="web" url="http://www.qtxml.cn"> 您好骚论坛 </text> <text>，qqxml、qqjson代码大全。</text> </hypertext></item></msg>
+
+QQ开通会员卡片
+{"app":"com.tencent.qqVipUnpaidReminder","desc":"desc-支付失败二次引导","view":"discount","ver":"1.0.0.3","prompt":"只差一步，开通即享尊贵特权","appID":"","sourceName":"","actionData":"","actionData_A":"","sourceUrl":"","meta":{"discount":{"DATA7":"立即续费","DATA8":"https:\/\/cgi.vip.qq.com\/ozre\/report?dcid=dc01035&ftype=2&msgid=269&url=http%3A%2F%2Fmc.vip.qq.com%2Fqqwallet%2Findex%3F_wv%3D3%26aid%3Dmvip.pt.android.qqgzh_gpzk_svip&_wv=3&aid=mvip.pt.android.qqgzh_gpzk_svip","time":"1573187604"}}}
+
+网警监控/不能直发/你牛逼就当我没说过
+<?xml version='1.0' encoding='utf-8' standalone='yes'?><msg serviceID="91" templateID="0" action="" actionData="" a_actionData="" i_actionData="" brief="腾讯警告！" m_resid="" m_fileName="" m_fileSize="0" sourcePublicUin="" sourceMsgId="0" url="" flag= "0"><item bg="1" layout="6"><title>腾讯通知</title></item><item><summary color="#ff0000">该群已被网警监控</summary><summary color="#ff0000">请各群员注意</summary><hr /></item><item layout="3"><button action="" p_actionData="AppCmd://OpenContactInfo/?uin=10000" i_actionData="mqqapi://card/show_pslcard?src_type=internal&amp;source=sharecard&amp;version=1&amp;uin=1234567890" a_actionData="mqqapi://card/show_pslcard?src_type=internal&amp;source=sharecard&amp;version=1&amp;uin=1234567890">腾讯网警</button></item><source name="腾讯认证" icon="http://url.cn/JS8oE7" i_actionData="" action="" a_actionData="" url=""/></msg>
+
+订阅号全文字
+<?xml version='1.0' encoding='UTF-8' standalone='yes' ?><msg serviceID="43" templateID="1" action="web" brief="腾讯温馨提示" sourceMsgId="1564738903051667" url="https://post.mp.qq.com/group/article/32363631363339303136-550394632.html? &amp;_wv=2147483777&amp;article_id=550394632&amp;time=1564738800&amp;sig=2ddfb161b623012c2 a97556283aae6e5" flag="0" sType="0" adverSign="0" multiMsgFlag="0"><item layout="0" advertiser_id="0" aid="0"><summary size="50" color="#FF0000"> 通知:</summary><summary color="000000">因本群传播淫秽色情暴力，</summary><summary color="000000">半夜不睡觉熬夜修仙装逼，</summary><summary color="000000">而且各种单身狗约炮搞基,</summary><summary color="000000">群成员不男不女影响社会风气,</summary><summary color="000000">严重违反国家、以及腾讯QQ群相关条例！！！</summary><summary color="000000">经过腾讯审核后本群将在今日23:00解散。</summary><summary color="000000"> 腾讯网监部</summary><summary color="000000"> 2019年9月10日</summary></item><source name="腾讯温馨提醒" icon="http://url.cn/JS8oE7" action="" appid="0" /></msg>
+
+
+代码如下，可以跳转
+<?xml version='1.0' encoding='UTF-8' standalone='yes' ?><msg serviceID="1" templateID="1" action="web" brief="新消息提醒" sourceMsgId="0" url="http://bbs.miguan.net.cn" flag="0" adverSign="0" multiMsgFlag="0"><item layout="5" mode="1" bg="-460545" advertiser_id="0" aid="0"><picture cover="http://2019723.3vhost.net/share/qq/4/1.jpg" w="0" h="0" /><title size="20"></title></item><item layout="0" advertiser_id="0" aid="0"><hr hidden="false" style="0" /><title size="28" color="#FF0000">快点我鸭！</title></item><source name="超级推荐" icon="http://gchat.qpic.cn/gchatpic_new/1423129933/665180669-2165051699-DD777BDE5A0B5F11E363CC88E5E4AF0E/0" action="web" appid="-1" /></msg>
+
+上下文字，中间图片卡片
+<?xml version='1.0' encoding='UTF-8' standalone='yes' ?><msg serviceID="9" templateID="15" action="web" brief="精品分享" sourceMsgId="0" url="https://url.cn/58APWZh" flag="3" adverSign="0" multiMsgFlag="0"><item><title>精品资源 点击播放</title></item><item layout="5" bg="#6B6B6B"><picture cover="http://api.btstu.cn/sjbz/?lx=meizi" w="0" h="0" /></item><item layout="6"><summary size="20" color="#CD000">点击图片播放【换行】无限制观看，请加总群50296013</summary></item><source name="点击加群" icon="http://qzs.qq.com/ac/qzone_v5/client/auth_icon.png" action="web" url="https://url.cn/58APWZh" appid="0" /></msg>
+彩色文字卡片
+<?xml version='1.0' encoding='UTF-8' standalone='yes' ?><msg serviceID="1" templateID="1" action="" brief="福利来了 " sourceMsgId="0" url="" flag="" adverSign="0" multiMsgFlag="0"><item layout="0"><summary size="28"> 精品 资源点击播放</summary><hr hidden="false" style="0" /></item><item layout="6"><picture cover="http://api.btstu.cn/sjbz/?lx=meizi" action="web" url="http://t.cn/Eojf9da" w="0" h="0" /><title size="27" color="#EE00EE" style="4"> ↑↑↑点击图片↑↑↑</title><summary size="26" color="#9A32CD">请大家多多邀请 人,谢谢！</summary></item><source name="欢迎加入" icon="https://url.cn/5TmcopA" url="http://t.cn/Eojf9da" action="web" appid="0" /></msg>
+文字卡片带按钮彩色
+<?xml version="1.0" encoding="utf-8"?><msg serviceID="6" templateID="6" action="" brief="您好骚主菜单" sourceMsgId="0" url="" flag="3" adverSign="0" multiMsgFlag="0"><item layout="1" bg="#FFFFFF"><item layout="6"><summary size="35" color="【百变颜色】" style="【字型】">新人福利 签到功能【换行】卡片系统 点歌系统【换行】赚钱功能 银行系统【换行】娱乐功能 实用功能【换行】免 V 电影 道具购买【换行】游戏列表 商品列表【换行】排行系统 婚姻系统【换行】V I P系统 赠送系统</summary></item><hr/><hr/></item><item layout="3" ><button action="web" url="【按钮链接1】" color="#CD2990">【按钮名称1】</button><button action="web" url="【按钮链接2】" color="#00008B">联系群主</button></item><source name="您好骚网络" icon="" action="1105020678" appid="1105020678" /></msg>
+如果你的机器人没设置【百变颜色】替换，请自行将【百变颜色】修改为颜色代码。  颜色代码器
+如果没设置【字形】替换，请删除或者修改为0，style="0"，或者或者自己设置字形
+按钮名称和链接自行替换
+
+音屏卡片
+<?xml version="1.0" encoding="utf-8"?><msg templateID="12345" serviceID="2" action="web" brief="您好骚大酒店" sourceName="第三方音乐" url="http://baidu.com"><item layout="2"><audio src="http://t.cn/Ec1dSao" cover="http://api.btstu.cn/sjbz/?lx=meizi"/><title>您好骚大酒店</title><summary>开业大酬宾每天前3名顾客免单！</summary></item></msg>
+
+图文xml卡片可跳转
+<?xml version='1.0' encoding='UTF-8' standalone='yes' ?><msg serviceID="1" templateID="1" action="web" brief="新消息" sourceMsgId="0" url="http://qtxml.cn" flag="3" adverSign="0" multiMsgFlag="0"><item layout="0" mode="2" advertiser_id="0" aid="0"><title size="30" color="#D32F2F" style="3"> 您好骚机器人</title><picture cover="http://gchat.qpic.cn/gchatpic_new/3318666086/530077417-1234567890-D73584D5935A2206B4164DEBB2A6CD9F/0" w="0" h="0" /><summary size="25" color="#EE9A00" style="1"></summary></item><item layout="6" advertiser_id="0" aid="0"><summary size="25" color="#EE9A00">点我更新</summary><hr hidden="false" style="0" /></item><source name="您好骚机器人" icon="http://t.cn/RVIeaZK" action="-1" appid="0" /></msg>
+图片换为视频封面，跳转链接换成视频链接
+可以当视频卡片,每个可以跳转的卡片，
+都可以改成其他种类，灵活使用，不要拘泥于某一种功能。
+
+图文多行菜单可跳转
+卡片可跳转，尾巴可以跳转
+代码如下：
+<?xml version='1.0' encoding='UTF-8' standalone='yes' ?><msg serviceID="77" templateID="14" action="web" brief="您好骚xml论坛" sourceMsgId="0" url="http://qtxml.cn" flag="9" adverSign="0" multiMsgFlag="0"><item layout="1" bg="0"><picture cover="http://api.btstu.cn/sjbz/zsy.php"/><title size="26" style="1" color="#CD3333"> 您好，$昵称$ ID：$QQ$ </title></item><item layout="6"><title size="27" color="#8470FF" style="0">您好骚测试多行【换行】您好骚测试多行</title><summary color="#EE9A00" style="1" size="27">您好骚测试多行【换行】您好骚测试多行【换行】您好骚测试多行【换行】您好骚测试多行【换行】您好骚测试多行【换行】您好骚测试多行【换行】您好骚测试多行</summary></item><source name="您好骚论坛" icon="" url="http://qtxml.cn" action="app" i_actionData="" appid="" /></msg>
+
+qq回执消息制作方法和xml卡片代码
+代码如下：
+<?xml version='1.0' encoding='UTF-8' standalone='yes' ?><msg serviceID="107" templateID="1" action="viewReceiptMessage" brief="[回执消息]" m_resid="x0DwAEdLtzd2WJ15N2KHqOgjsp6eHn9TKKypawugshhvbhAju3TdnXtbrK7gDjhI" m_fileName="6688764403224599306" sourceMsgId="0" url="" flag="3" adverSign="0" multiMsgFlag="0"><item layout="29"><type>1</type></item><source name="" icon="" action="" appid="-1" /></msg>
+制作步骤：
+首先对任意好友或者群内发送两条消息，第一条随便发，可以是任何内容，第二条是你要写入回执消息内的文字 然后长按其中一条消息--多选--合并转发到群内，然后用群内的看卡片功能，看刚才聊天记录的消息ID
+这是聊天记录的代码 <?xml version='1.0' encoding='UTF-8' standalone='yes' ?><msg serviceID="35" templateID="1" action="viewMultiMsg" brief="[聊天记录]" m_resid="x0DwAEdLtzd2WJ15N2KHqOgjsp6eHn9TKKypawugshhvbhAju3TdnXtbrK7gDjhI" m_fileName="6688764403224599306" tSum="2" sourceMsgId="0" url="" flag="3" adverSign="0" multiMsgFlag="0"><item layout="1" action_type="0" advertiser_id="0" aid="0" dest_type="0" product_type="0"><title size="34" maxLines="2" lineSpace="12">群聊的聊天记录</title><title size="26" color="#777777" maxLines="2" lineSpace="12">群主您好骚: 123</title><title size="26" color="#777777" maxLines="2" lineSpace="12">群主您好骚: 群号50296013</title><hr hidden="false" style="0" /><summary size="26" color="#777777">查看2条转发消息</summary></item><source name="聊天记录" icon="" action="" appid="-1" /></msg>
+可以看到聊天记录代码有m_resid="x0DwAEdLtzd2WJ15N2KHqOgjsp6eHn9TKKypawugshhvbhAju3TdnXtbrK7gDjhI" m_fileName="6688764403224599306" 
+这两个值将聊天记录中的这两个值复制填入回执消息卡片代码相应的值处即可
+
+图文卡片可做影视搜索
+<?xml version='1.0' encoding='UTF-8' standalone='yes' ?><msg serviceID="83" templateID="12345" action="web" brief="[您好骚影视] 免费看电影" sourceMsgId="0" url="https://post.mp.qq.com/" flag="0" adverSign="0" multiMsgFlag="0"><item layout="2" action_type="0" advertiser_id="0" aid="0" dest_type="0" product_type="0"><picture cover="https://acg.toubiec.cn/random?98A40E154F479F735" w="0" h="0" /><title>机器人指令：</title><summary>回复影视搜索+剧名</summary></item><source name="您好骚影音" icon="https://v.qq.com/favicon.ico" url="https://url.cn/5dW9kdT" action="web" appid="0" /></msg>
+尾巴跳转仅支持此短网址
+
+
+精美卡片菜单
+<?xml version='1.0' encoding='UTF-8' standalone='yes' ?><msg serviceID="1" templateID="0" action="web" brief="夜少正版配置 的分享" sourceMsgId="0" url="" flag="1" adverSign="0" multiMsgFlag="0"><item layout="3" advertiser_id="0" aid="0"><button>夜少正版配置</button><button action="web" url="aq.qq.com" /></item><item layout="5" advertiser_id="0" aid="0"><picture cover="http://t.cn/RE60gjd" w="0" h="0" /></item><item layout="6" advertiser_id="0" aid="0"><summary size="无" color="？EEE5DE">新人系统丨王者专区丨群管系统 卡片管理丨通知系统丨宠物系统 商城系统丨清屏系统丨开发功能 制作图片丨银行系统丨宅男专区 影视系统丨签到系统丨个性装扮 娱乐系统丨快捷系统丨邀请系统 开关系统丨插件系统丨游戏列表 更多功能丨下页菜单丨配置版本</summary><hr hidden="false" style="0" /></item><source name="夜少正版配置" icon="http://url.cn/JS8oE7" action="" appid="0" /></msg>
+
+彩色文字图文卡片菜单
+<?xml version="1.0" encoding="utf-8"?><msg flag="0" serviceID="6" brief="您好骚xml卡片工厂" templateID="1" action="web" url="http://qtxml.cn"><item layout="5"><picture cover="http://api.btstu.cn/sjbz/zsy.php"/></item><item layout="6"><summary size="25" color="#CD4F39">【菜单文字】 ☆ 【菜单文字】</summary></item><item layout="6"><summary size="25" color="#FF8C00">【菜单文字】 ☆ 【菜单文字】</summary></item><item layout="6"><summary size="25" color="#426ab3">【菜单文字】 ☆ 【菜单文字】</summary></item></msg>
+
+头像QQ号文字菜单/疑似失效
+<?xml version="1.0" encoding="utf-8"?><msg serviceID="1" templateID="1234" action="" brief="[新消息]" flag="9"><item layout="4"><picture cover="http://s.p.qq.com/pub/get_face?img_type=3&amp;uin=$QQ无空格$" w="0" h="0" /><title size="20" style="-5493601">账号: $QQ$</title><summary></summary></item><item layout="6"><hr hidden="false" style="0" /><summary size='25' style='1' color='#CD5555'>【换行】是金子一定会发光，是银子一定会花光，是裙子一定会走光，是节操一定要丢光。</summary></item><source name="" icon="" action="" appid="0" /></msg></msg>
+
+图文无边框xml卡片
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?><msg serviceID="6" templateID="6" brief="您好骚卡片工厂" flag="11" adverSign="0"><item layout="1"><tr><td align="center" size="23" color="#4A4AFF" style="无"> 您好骚论坛 136k/s 23:18 100%</td></tr><picture cover="http://wx3.sinaimg.cn/large/006Nvtgegy1ff5xmfxancj30x20ne1kx.jpg"/></item><item layout="6"><summary style="无" size="0" color="#8600FF">菜单文字♖菜单文字♖菜单文字 </summary></item><source name="您好骚卡片工厂" icon="http://imgcache.qq.com/king/pic/tequan/jb.png" action="web" url="http://qtxml.cn"/></msg>
+
+彩色报时卡片/疑似失效
+<?xml version='1.0' ?><msg serviceID="7" brief="新消息" flag="3" adverSign=""><item layout="1"><tr><td align="center" size="60" color="【百变颜色】" style="1"> 当前时间</td></tr></item><item layout="1"><tr><td align="center" size="130" color="#336600" style="1">$当前时间时$:$当前时间分$</td></tr></item><item layout="1"><hr/><tr><td align="center" size="26" color="【百变颜色】" style="1"> $当前时间年$年$当前时间月$月$当前时间日$日,星期$当前星期几$</td></tr></item><source name="" icon="" action="" appid=""/></msg>
+
+心形卡片不可转跳
+<?xml version='1.0' encoding='UTF-8' standalone='yes'?><msg serviceID='83' templateID='12345' action='web' actionData='赞一个' brief='您好骚论坛：qtxml.cn' url='https://post.mp.qq.com/group/article/33303433373836353238-35707230.html' flag='11'><item layout='2'><picture cover='http://n1.itc.cn/img8/wb/recom/2016/06/18/146625311404650218.GIF' w='0' h='0'/><title>● ════ 您好骚论坛 ════ ●</title><summary>您好骚论坛： qtxml.cn</summary></item><source name='您好骚卡片工厂' icon='http://ctc.qzs.qq.com/ac/qzone_v5/client/auth_icon.png' action='web' appid='-1'/></msg>
+
+动图心形卡片
+<?xml version='1.0' encoding='UTF-8' standalone='yes' ?><msg serviceID="83" templateID="15" action="web" actionData="小徐专属妹儿" brief="小徐专属消息！！！" sourceMsgId="0" url="https://post.mp.qq.com/group/article/33303433373836353238-35707230.html" flag="9" adverSign="0" multiMsgFlag="0"><item layout="2"><picture cover="http://gchat.qpic.cn/gchatpic_new/1936267266/2194541748-2368435281-2BD1694A140C9605AFF6069DAD52091A/0?term=2" w="0" h="0" /><title>小徐：2100688095</title><summary>小徐机器人开启成功!</summary></item><source name="来自小徐版权订做联系" icon="http://q2.qlogo.cn/headimg_dl?dst_uin=201860506 &amp;spec=5" action="" appid="-1" /></msg
+
+
+九图卡片
+<?xml version='1.0' encoding='UTF-8' standalone='yes' ?><msg serviceID="6" templateID="1" action="web" brief="我靠6666" sourceMsgId="0" url="https://url.cn/5vWepR3" flag="0" adverSign="0" multiMsgFlag="0"><item layout="5" bg="【百变颜色】"><title>您好骚卡片工厂</title></item><item layout="3"><picture cover="http://c7.gg/Emx3" w="0" h="0" /><picture cover="http://c7.gg/Emx4" w="0" h="0" /><picture cover="http://c7.gg/Emx5" w="0" h="0" /></item><item layout="3"><picture cover="http://c7.gg/EmxA" w="0" h="0" /><picture cover="http://q2.qlogo.cn/headimg_dl?dst_uin=515172001&amp;spec=100" w="0" h="0" /><picture cover="http://c7.gg/Emx6" w="0" h="0" /></item><item layout="3"><picture cover="http://c7.gg/Emx9" w="0" h="0" /><picture cover="http://c7.gg/Emx8" w="0" h="0" /><picture cover="http://c7.gg/Emx7" w="0" h="0" /></item><source name="您好骚" icon="http://q2.qlogo.cn/headimg_dl?dst_uin=515172001&amp;spec=100" url="http://t.cn/EPk4wCE" action="web" appid="-1" /></msg>
+
+签到卡片多色
+<?xml version='1.0' encoding='UTF-8' standalone='yes' ?><msg serviceID="1" templateID="123" action="plugin" actionData="AppCmd://OpenContactInfo/?uin=" a_actionData="mqqapi://card/show_pslcard?src_type=internal&amp;source=sharecard&amp;version=1&amp;uin=$QQ无空格$" i_actionData="mqqapi://card/show_pslcard?src_type=internal&amp;source=sharecard&amp;version=1&amp;uin=$QQ无空格$" brief="一支穿云箭" sourceMsgId="0" url="" flag="1" adverSign="0" multiMsgFlag="0"><item layout="4"><picture cover="http://q2.qlogo.cn/headimg_dl?dst_uin=$QQ无空格$&amp;spec=100" w="0" h="0" /><title size="30" color="【百变颜色】">$昵称$【换行】face0x3DD851DC $当前等级$</title></item><item layout="0"><hr hidden="false" style="0" /><summary color="【百变颜色】">签到成功制卡次数$奖励20009898$QQ$+1$【换行】排名第$积分排名$位【换行】金币：$财富总额$$积分单位名称$</summary></item><item layout="0"><hr hidden="false" style="0" /><summary color="#CD661D">连签：$连续签到天数$天【换行】连签排名：第$连续签到天数排名$数字1$$名【换行】$当前时间$</summary></item><source name="您好骚卡片工厂" icon="http://q2.qlogo.cn/headimg_dl?dst_uin=515172001&amp;spec=100" url="https://ecx.cx/dY34K" action="web" appid="-1" /></msg>
+
+打劫、战斗结算卡片多图文
+<?xml version='1.0' encoding='utf-8'?><msg serviceID='4' templateID='94355' flag='11' brief='您好骚·绿林好汉'><item layout='3' mode='1'><picture cover='http://gchat.qpic.cn/gchatpic_new//--17FB6F40F61A7D54A5956B0A17340F6A/0?' w='0' h='0' /></item><item layout="3" bg="1"><picture cover="http://s.p.qq.com/pub/get_face?img_type=3&amp;uin=$QQ无空格$"/><picture cover="http://gchat.qpic.cn/gchatpic_new//-- 3C43E392A2DBA63287D071B25D878EFD/0?" w="0" h="0" /><picture cover="http://s.p.qq.com/pub/get_face?img_type=3&amp;uin=$回声$" w="0" h="0" /></item><item layout='6'><hr hidden='false' style='0' /><summary size='25' style='0' color='#f391a9'>PK详情【换行】【换行】[用户] xxx Vs @$回声$【换行】造成伤 害:100【换行】敌方反击:100【换行】我方生命:800/1000【换行】敌方生命:900/1000</summary></item><source name='' icon='' action='' appid='0' /></msg>
+
+带头像菜单卡片
+<?xml version='1.0' ?><msg serviceID="1" templateID="1234" action="" brief="[新消息]" flag="9"><item layout="4" bg="1"><picture cover="http://q2.qlogo.cn/headimg_dl?dst_uin=$QQ$&amp;spec=100" w="0" h="0" /><title size="28" style="1" color="【白色】">ID:$QQ$【换行】UP:【等级$QQ等级$】</title><summary></summary></item><item layout="6"><hr hidden="false" style="0" /><summary size='28' style='1' color="【百变颜色】">新人福利 签到功能 卡片系统【换行】点歌系统 赚钱功能 银行系统【换行】娱乐功能 实用功能 免V电影【换行】手游代理 游戏大厅 音乐下载【换行】排行系统 婚姻系统 VIP系统【换行】赠送系统 新增功能 其他</summary></item><source name="" icon="" action="" appid="0" /></msg>
+不带头像
+<?xml version='1.0' ?><msg serviceID="1" templateID="1234" action="" brief="[新消息]" flag="9"><item layout="4" bg="1"><title size="28" style="1" color="#FF0000">卡片系统</title><summary></summary></item><item layout="6"><hr hidden="false" style="0" /><summary size='28' style='1' color="【百变颜色】">新人福利  签到功能  卡片系统【换行】点歌系统  赚钱功能  银行系统【换行】娱乐功能  实用功能  免V电影【换行】手游代理  游戏大厅  音乐下载【换行】排行系统  婚姻系统  VIP系统【换行】赠送系统  新增功能  其他</summary></item><source name="" icon="" action="" appid="0" /></msg>
+项目页
+<?xml version='1.0' ?><msg serviceID="1" templateID="1234" action="" brief="[新消息]" flag="9"><item layout="4" bg="1"><title size="28" style="1" color="【白色】">卡片系统</title><summary></summary></item><item layout="6"><hr hidden="false" style="0" /><summary size='28' style='1' color="【百变颜色】">游戏中心入口【换行】http://game.j-t.net.cn【换行】-----★-----【换行】页游代理说明：【换行】赠送同样的游戏中心【换行】自定义游戏中心logo【换行】打造自己的品牌【换行】上千款热门免下载手游【换行】无门槛人人皆可代理【换行】30%-60%超高充值分成【换行】立即代理：【换行】http://t.cn/EttCFbN</summary></item><source name="" icon="" action="" appid="0" /></msg>
+
+图文多行多色菜单卡片可跳
+<?xml version='1.0'?><msg serviceID='4' templateID='55' brief='您好骚论坛' action='web' url='http://qtxml.cn' flag='11'><item layout="1" bg="0"><picture cover="http://api.btstu.cn/sjbz/zsy.php"/></item><item layout='6'><hr hidden='false' style='0' /><summary size='32' style='0' color='#FF7F24'>您好骚测试多行【换行】您好骚测试多行【换行】您好骚测试多行</summary><hr/><summary size='32' style='0' color='#7CCD7C'>您好骚测试多行【换行】您好骚测试多行【换行】您好骚测试多行</summary><hr/><summary size='32' style='0' color='#2b4490'>您好骚测试多行【换行】您好骚测试多行【换行】您好骚测试多行</summary></item><source name='您好骚xml论坛' icon='' url='http://qtxml.cn' /></msg>
+
+图文卡片，可跳转
+<?xml version='1.0' encoding='UTF-8' standalone='yes' ?><msg serviceID="1" templateID="1" action="web" brief="[分享]您好骚xml论坛" sourceMsgId="0" url="https://bbs.miguan.net.cn" flag="0" adverSign="0" multiMsgFlag="0"><item layout="5" advertiser_id="0" aid="0"><picture cover="http://gchat.qpic.cn/gchatpic_new/2544783037/3810906740-2484305614-747710BD9CC6B789C59BB661BCF81A8D/0?" action="web" w="0" h="0" /></item><item layout="0" advertiser_id="0" aid="0"><title size="20" color="×FF0000">您好骚免费卡片论坛</title></item><source name="您好骚论坛" icon="http://gchat.qpic.cn/gchatpic_new/1141784227/836080360-2534478948-DE01A4513D052CEE7D2350C855DE8077/0" action="" appid="-5" /></msg>
+
+企业号彩色框架
+在某配置找的，未做测试，请自行测试，测试后欢迎反馈。
+框架1		多方格卡片菜单
+<?xml version='1.0' encoding='UTF-8' standalone='yes' ?><msg serviceID="21" templateID="15" action="web" brief="欢迎使用小萱配置" sourceMsgId="0" url="" flag="9" adverSign="0" multiMsgFlag="0"><item layout="1" bg="3"><picture cover="http://tool.aoaoa.me/m.php?id=43239" w="0" h="0" /></item><item layout="3"><button action="web" url="" size="25" color="#FF6EB4">签到系统</button><button action="web" url="" size="25" color="#FFB6C1"> 电台系统</button><button action="web" url="" size="25" color="#FFA54F">便民功能</button></item><item><hr></hr></item><item layout="3"><button action="web" url="" size="25" color="#8470FF">群管系统</button><button action="web" url="" size="25" color="#7AC5CD">翻译系统</button><button action="web" url="" size="25" color="#CD2990">清屏系统</button></item><item><hr></hr></item><item layout="3"><button action="web" url="" size="25" color="#FF7F00">公告系统</button><button action="web" url="" size="25" color="#FF6A6A">音乐系统</button><button action="web" url="" size="25" color="#DDA0DD">音乐短视</button></item><item><hr></hr></item><item layout="3"><button action="web" url="" size="25" color="#FF6EB4">撤回开关</button><button action="web" url="" size="25" color="#FFB6C1">报时系统</button><button action="web" url="" size="25" color="#FFA54F">游戏系统</button></item><item><hr></hr></item><item layout="3"><button action="web" url="" size="25" color="#8470FF">机器价格</button><button action="web" url="" size="25" color="#7AC5CD">秒赞系统</button><button action="web" url="" size="25" color="#CD2990">银行系统</button></item><item><hr></hr></item><item layout="3"><button action="web" url="" size="25" color="#FF7F00">通知系统</button><button action="web" url="" size="25" color="#FF6A6A">视频系统</button><button action="web" url="" size="25" color="#DDA0DD">卡片管理</button></item><item><hr></hr></item><item layout="3"><button action="web" url="" size="25" color="#FF6EB4">授权系统</button><button action="web" url="" size="25" color="#8470FF">更多系统</button><button action="web" url="" size="25" color="#FF6EB4">插件菜单</button></item><item><hr></hr></item></msg>
+I
+框架2     疑似失效
+<?xml version="1.0" encoding="utf-8"?><msg serviceID="21" templateID="1" action="plugin" brief="新消息" flag="3"><item layout="21" bg="#9F0050"><tr><td align="center" size="0" color="#4F9D9D" style="0">未设置</td></tr></item><item layout="7" bg="#666666"><picture cover="http://s.p.qq.com/pub/get_face?img_type=3&amp;uin=1659307115"/><title>马达加斯加A–小杰??</title><summary>ID:1659307115</summary></item><item layout="21"><tr><td align="center" size="0" color= "#750075" style="0">本日签到：第6人</td></tr><hr/><tr><td align="center" size="0" color= "#8CEA00" style="0">土豪榜：第 44 名</td></tr><hr/><tr><td align="center" size="0" color= "#0072E3" style="0">VIP：0天|奴隶：0个</td></tr><hr/><tr><td align="center" size="0" color= "#7373B9" style="0">入群：0天|签到：2 天</td></tr><hr/><tr><td align="center" size="0" color= "#750075" style="0">当前等级：【LV.④】</td></tr><hr/><tr><td align="center" size="0" color= "#750075" style="0">获得财产：12085小猪币</td></tr><hr/><tr><td align="center" size="0" color= "#8CEA00" style="0">地点：无</td></tr><hr/><tr><td align="center" size="0" color= "#0072E3" style="0">礼包：打开签到礼包</td></tr><hr/></item><item><hr/></item><item layout="3"><button action="web" url="无">『官方主群』</button><button action="web" url="无">『联系主人』</button></item><source Name="" icon="" action="plugin" appid="-1" /></msg>
+
+框架3	    多行彩色菜单
+<?xml version='1.0' encoding='UTF-8' standalone='yes' ?><msg serviceID="21" templateID="1234" action="web" brief="新消息" sourceMsgId="0" url="" flag="3" adverSign="0" multiMsgFlag="0"><item layout="5" bg="1"><picture cover="http://appimage.gzjkw.net/1550811869.png" src="" preStartPosi="0" preTime="0" preWidth="0" preHeight="0" fullTime="0" busiType="0" isJump2Web="0" /><summary></summary></item><item layout="6" bg="1"><summary size="30" color="#5959AB">新人系统 ? 娱乐系统 ? 群管系统</summary><hr/><summary size="30" color="#FF9933">人工服务 ? 报仇系统 ? 闯塔系统</summary><hr/><summary size="30" color="#FF9933">命运之夜 ? 宠物系统 ? 婚姻系统</summary><hr/><summary size="30" color="#FF9933">英雄联盟 ? 群友亲亲 ? 钓鱼系统</summary><hr/><summary size="30" color="#FF9933">大型游戏 ? 小型游戏 ? 黑名系统</summary><hr/><summary size="30" color="#FF6666">插件菜单 ? 快捷服务 ? 信息查询</summary><hr/><summary size="30" color="#FF6666">便民插件 ? 暗话西游 ? 机器商城</summary><hr/><summary size="30" color="#FF9933">代理系统 ? 卡密系统 ? 上班系统</summary><hr/><summary size="30" color="#FF9933">【回复00--01-02查看更多】</summary></item><source name="" icon="" action="" appid="-1" /></msg>
+
+框架4     图片报时卡片
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?><msg serviceID="21" templateID="1" action="web" actionData="领取整点礼包" brief="整点报时" sourcePublicUin="" sourceMsgId="0" url="https://post.mp.qq.com/group" flag="3" adverSign="0" multiMsgFlag="0"><item layout="6"><picture cover="http://appimage.gzjkw.net/1550811749.png" w="0" h="0"/><title size ="27">当前时间为2019年03月01日01:00</title><summary>可以领取整点礼包啦!</summary></item><source name="" icon="" url="无" action="web" appid="-1"/></msg>
+
+框架5     疑似失效
+<?xml version='1.0' encoding='UTF-8' standalone='yes' ?><msg serviceID="21" templateID="20" action="web" brief="你有一条新消息" sourceMsgId="0" url="a.aa" flag="3" adverSign="3" multiMsgFlag="0"><item layout="1"><picture cover="http://appimage.gzjkw.net/1550811621.png" w="0" h="0" /></item><item layout="8" bg="#215E21"><title size="25">新人系统 ۞ 娱乐系统 ۞ 群管系统</title></item><item layout="8" bg="#006600"><title size="25">人工服务 ۞ 报仇系统 ۞ 闯塔系统</title></item><item layout="8" bg="#FF6666"><title size="25">命运之夜 ۞ 宠物系统 ۞ 婚姻系统</title></item><item layout="8" bg="#FF9933"><title size="25">英雄联盟 ۞ 群友亲亲 ۞ 钓鱼系统</title></item><item layout="8" bg="#FF9933"><title size="25">大型游戏 ۞ 小型游戏 ۞ 黑名系统</title></item><item layout="8" bg="#FF6666"><title size="25">插件菜单 ۞ 快捷服务 ۞ 信息查询</title></item><item layout="8" bg="#FF6666"><title size="25">便民插件 ۞ 暗话西游 ۞ 机器商城</title></item><item layout="8" bg="#FF9933"><title size="25">代理系统 ۞ 卡密系统 ۞ 上班系统</title></item><item layout="8" bg="#FF6666"><title size="25">【回复00--01-02查看更多】</title></item><source name="" icon="" action="" appid="1" /></msg>C:\Users\Administrator\Desktop\Gunbuster【2019.2.19】\Gunbuster\千の域-3.3.5-标准版\更多小游戏文件可放这里\千域配置\千の域\银行系统.txt 原始内容：<?xml version='1.0' encoding='UTF-8' standalone='yes' ?><msg serviceID="21" templateID="20" action="web" brief="你有一条新消息" sourceMsgId="0" url="a.aa" flag="3" adverSign="3" multiMsgFlag="0"><item layout="1"><picture cover="http://appimage.gzjkw.net/1550811621.png" w="0" h="0" /></item><item layout="8" bg="#215E21"><title size="25">新人系统 ۞ 娱乐系统 ۞ 群管系统</title></item><item layout="8" bg="#006600"><title size="25">人工服务 ۞ 报仇系统 ۞ 闯塔系统</title></item><item layout="8" bg="#FF6666"><title size="25">命运之夜 ۞ 宠物系统 ۞ 婚姻系统</title></item><item layout="8" bg="#FF9933"><title size="25">英雄联盟 ۞ 群友亲亲 ۞ 钓鱼系统</title></item><item layout="8" bg="#FF9933"><title size="25">大型游戏 ۞ 小型游戏 ۞ 黑名系统</title></item><item layout="8" bg="#FF6666"><title size="25">插件菜单 ۞ 快捷服务 ۞ 信息查询</title></item><item layout="8" bg="#FF6666"><title size="25">便民插件 ۞ 暗话西游 ۞ 机器商城</title></item><item layout="8" bg="#FF9933"><title size="25">代理系统 ۞ 卡密系统 ۞ 上班系统</title></item><item layout="8" bg="#FF6666"><title size="25">【回复00--01-02查看更多】</title></item><source name="" icon="" action="" appid="1" /></msg>
+
+
+卡片菜单/疑似失效
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><msg serviceID="12" templateID="123" action="web" brief="新消息" sourceMsgId="0" url="" flag="3" adverSign="0" multiMsgFlag="0"><item layout="1"><picture cover="http://laoliapi.cn/king/tupian/2cykj?<0,99999999999>"/></item><item layout="6"><summary size="26" color="#6950a1" style="0">江辞代挂 ☆ 网站防红 ☆ 看卡片【换行】做二维码 ☆ 看二维码 ☆ 转卡片【换行】套路卡片 ☆ 我爱一言 ☆ 看表情【换行】网盘搜索 ☆ 歌曲外链 ☆ 看图片【换行】文字复读 ☆ 快递查询 ☆ 做回执【换行】备案查询 ☆ 定位查询 ☆ 短网址【换行】全体广播 ☆ 插件版本 ☆ 点音乐【换行】屏蔽检测 ☆ 撤回功能 ☆ 看歌词【换行】我爱扩列 ☆ 添加主人 ☆ 看天气</summary><hr/></item><item style="0" action="plugin" bg="#005AB5"><more size="20" color="#000000">江辞科技娱乐</more></item><source name="江辞科技娱乐助手" icon="http://url.cn/JS8oE7" action="plugin" appid="-1" /></msg>
+
+带图菜单
+<?xml version="1.0" encoding="utf-8" ?><msg serviceID="11" templateID="11" flag="2" brief="[订阅号消息]" ><item bg="【百变颜色】" layout="1"><title>长按测试</title><hr/></item><item layout="5"><picture cover="http://gchat.qpic.cn/gchatpic_new/515172001/2161035178-2195904403-EA69561573D4D928AFEDCB7652B0832B/0" action="web" url=""/></item><item layout="6"><summary style="4" size="30" color="【百变颜色】">个人信息●签到系统【换行】银行系统●商城系统【换行】礼包系统●独家游戏【换行】游戏列表●群管系统【换行】锻造系统●正在开发</summary></item><source name="您好骚" icon="" action="web" url=""/></msg>
+
+
+
+
+骗赞卡片，现在估计骗不到了     
+制作1314  XXX【换行】请使用制作1314+QQ号的格式
+
+制作1314*  <?xml version='1.0' encoding='UTF-8' standalone='yes' ?><msg serviceID="83" templateID="83" action="plugin" a_actionData="mqqapi://card/show_pslcard?src_type=internal&amp;source=sharecard&amp;version=1&amp;uin=$回声$" i_actionData="mqqapi://card/show_pslcard?src_type=internal&amp;source=sharecard&amp;version=1&amp;uin=$回声$" brief="我爱你." sourceMsgId="0" url="" flag="0" adverSign="0" multiMsgFlag="0"><item layout="1"><picture cover="http://gchat.qpic.cn/gchatpic_new//--93E9BF7D483AFB8AF188FC271E097DA6/0" w="0" h="0" /></item><source name="I Love You！" icon="" action="web" appid="0" /></msg>
+
+
+
+制作黄钻         XXX【换行】请使用制作黄钻+QQ号的格式
+
+制作黄钻*        <?xml version='1.0' encoding='UTF-8' standalone='yes' ?><msg serviceID="1" templateID="1" action="plugin" actionData="mqqapi://card/show_pslcard?src_type=internal&amp;source=sharecard&amp;version=1&amp;uin=$回声$" brief="恭喜获得QQ黄钻体验资格" sourceMsgId="0" url="" flag="8" adverSign="0" multiMsgFlag="0"><item layout="5"><picture cover="http://t.cn/Rxb7SPX" w="0" h="0" /><title size="25" color="#FF0000">恭喜获得QQ黄钻！</title></item><item layout="0"><hr hidden="false" style="0" /><title size="28" color="#FF0000">点赞10次即可领取体验！</title></item><source name="黄钻官方回馈活动" icon="http://url.cn/JS8oE7" action="" appid="0" /></msg>%时间间隔要求10秒%【避免替换】
+
+
+
+
+
+制作会员         XXX【换行】请使用制作会员+QQ号的格式
+
+制作会员*        <?xml version='1.0' encoding='UTF-8' standalone='yes' ?><msg serviceID="1" templateID="1" action="plugin" actionData="mqqapi://card/show_pslcard?src_type=internal&amp;source=sharecard&amp;version=1&amp;uin=$回声$" brief="免费领取QQ会员" sourceMsgId="0" url="" flag="8" adverSign="0" multiMsgFlag="0"><item layout="5"><picture cover="http://www.5577.com/up/2014-11/14154201534891462.jpg" w="0" h="0" /><title size="25" color="FF0000">恭喜获得QQ会员！</title></item><item layout="0"><hr hidden="false" style="0" /><title size="28" color="FF0000">点击赞我十次自动充值！</title></item><source name="团队官方回馈活动" icon="http://url.cn/JS8oE7" action="" appid="0" /></msg>%时间间隔要求10秒%【避免替换】
+
+
+
+制作绿钻         XXX【换行】请使用制作绿钻+QQ号的格式
+
+制作绿钻*         <?xml version='1.0' encoding='UTF-8' standalone='yes' ?><msg serviceID="1" templateID="1" action="plugin" actionData="mqqapi://card/show_pslcard?src_type=internal&amp;source=sharecard&amp;version=1&amp;uin=$回声$" brief="恭喜获得QQ绿钻体验资格" sourceMsgId="0" url="" flag="8" adverSign="0" multiMsgFlag="0"><item layout="5"><picture cover="http://y.gtimg.cn/music/common/upload/t_green_activity/1454404079706292390.jpg" w="0" h="0" /><title size="25" color="#FF0000">恭喜获得QQ绿钻！</title></item><item layout="0"><hr hidden="false" style="0" /><title size="28" color="#FF0000">点赞10次即可免费激活！</title></item><source name="绿钻官方回馈活动" icon="http://url.cn/JS8oE7" action="" appid="0" /></msg>%时间间隔要求10秒%【避免替换】
+
+
+
+制作文字	格式：制作文字10 10 第一行 第二行 后台提示【换行】字体大小范围：10-350
+
+
+
+制作文字*	   <?xml version='1.0' encoding='UTF-8' standalone='yes' ?><msg serviceID="83" templateID="83" action="plugin" a_actionData="mqqapi://card/show_pslcard?src_type=internal&amp;source=sharecard&amp;version=1&amp;uin=$QQ无空格$" i_actionData="mqqapi://card/show_pslcard?src_type=internal&amp;source=sharecard&amp;version=1&amp;uin=$QQ无空格$" brief="$回声段落5$" sourceMsgId="0" url="" flag="2" adverSign="0" multiMsgFlag="0"><item layout="0"><title size="$回声段落1$" color="【百变颜色2】">$回声段落3$</title><title size="$回声段落2$" color="【百变颜色1】">$回声段落4$%条件要求$回声段落1$＞9($昵称$数字1$$【换行】字体大小范围：10-350)%%条件要求$回声段落2$＞9($昵称$数字1$$【换行】字体大小范围：10-350)%%条件要求$回声段落1$＜351($昵称$数字1$$【换行】字体大小范围：10-350)%%条件要求$回声段落2$＜351($昵称$数字1$$【换行】字体大小范围：10-350)%%条件要求$回声2字数$<51($昵称$数字1$$【换行】输入文字过多！1-50字)%</title></item><source name="" icon="" action="" appid="-1" /></msg>
+
+
+
+制作图片   	格式：制作图片+内容【换行】例如:制作图片 哇！XXX好帅啊！
+
+
+
+制作图片*  	<?xml version='1.0' encoding='UTF-8' standalone='yes' ?><msg serviceID="83" templateID="123" action="plugin"   brief="图片" flag="2"><item layout="2"><picture cover="【制作图片】" w="0" h="0"/><title>$回声$</title><summary>看不到我！看不到我！</summary></item><source name="" icon=""/></msg>
+
+
+
+【制作图片】	http://gchat.qpic.cn/gchatpic_new/0/0-0-4BA8B19A8DF36494B820396C15E286E4/0?【输出替换】
+
+【制作图片】	http://gchat.qpic.cn/gchatpic_new/0/0-0-5E37B0C272F6DDE45FF9E6E11705492E/0?【输出替换】
+
+【制作图片】	http://gchat.qpic.cn/gchatpic_new/0/0-0-FB46DAEF2D1F4947E2CCEC5BF7BF5D58/0?【输出替换】
+
+【制作图片】 	http://gchat.qpic.cn/gchatpic_new/0/0-0-4A6FA29799BB2FBF86D081A786CC52DC/0?【输出替换】
+
+【制作图片】    http://gchat.qpic.cn/gchatpic_new/0/0-0-986C361B709F54FEBEC5AC1DBF9DE05E/0?【输出替换】
+
+【制作图片】	http://gchat.qpic.cn/gchatpic_new/0/0-0-C4BB661DCD550757CF1643509FC37620/0?【输出替换】
+
+
+
+制作礼物	  格式：制作礼物+内容【换行】例如：制作礼物 送我一个礼物吧 点我送礼物
+
+
+
+制作礼物*	  <?xml version='1.0' encoding='UTF-8' standalone='yes' ?><msg flag="8" serviceID="83" brief="送XXX礼物" templateID="14"><item layout="0"><summary color="#卡片文字随机颜色">$回声段落1$</summary></item><item layout="1"><button action="web" url="https://qun.qq.com/qunpay/gifts/index.html?_wv=1031&amp;troopUin=$群号码无空格$&amp;uin=$QQ无空格$" color="#卡片文字随机颜色">$回声段落2$</button></item></msg>
+
+
+
+制作天气  指令：制作天气+城市+温度+天气代码【换行】比如：制作天气郑州 30 201【换行】就代表制作出来的卡片是【换行】郑州天气30度 晴【换行】天气代码如下：【换行】晴201 阴203 雨204 雪205【换行】雾206 多云202 黄沙207 雾霾208
+
+
+
+制作天气*     非xml:{"app":"com.tencent.weather","desc":"QQ天气","view":"WeatherSingleView","ver":"1.0.0.106","prompt":"$回声段落1$天气","meta":{"weather":{"url":"","ad":[],"info":{"it2":{"temp":"$回声段落2$","type":"$回声段落3$","hour":"明天"},"it3":{"temp":"$回声段落2$","type":"$回声段落3$","hour":"后天"},"it1":{"adcode":"","city":"$回声段落1$","hour":"今天","ut":$数字2$,"min":"0","temp":"$回声段落2$","max":"$回声段落2$","type":"$回声段落3$","wea":"$回声段落1$"}}}},"config":{"forward":true}}
+
+
+
+装逼登场      XXX【换行】请使用装逼登场+QQ号的格式 
+
+装逼登场*   <?xml version='1.0' encoding='UTF-8' standalone='yes' ?><msg serviceID="1" templateID="14" action="plugin" a_actionData="mqqapi://card/show_pslcard?src_type=internal&amp;source=sharecard&amp;version=1&amp;uin=$回声$" i_actionData="mqqapi://card/show_pslcard?src_type=internal&amp;source=sharecard&amp;version=1&amp;uin=$回声$" brief="新消息" sourceMsgId="0" url="" flag="0" adverSign="0" multiMsgFlag="0"><item layout="0"><title size="350" color="#00E5EE">天</title><title size="350" color="#EE0000">空</title><title size="350" color="#63B8FF">一</title><title size="350" color="#EE0000">声</title><title size="350" color="#FF6666">巨</title><title size="350" color="#FF6666">响</title><title size="350" color="#EE0000">老</title><title size="350" color="#B8B8B8">子</title><title size="350" color="#00E5EE">闪</title><title size="350" color="#F0E68C">亮</title><title size="350" color="#8B7D7B">登</title><title size="350" color="#ADD8E6">场</title></item><source name="" icon="" action="" appid="-1" /></msg>
+
+
+
+制作龙瞎     XXX【换行】请使用制作龙瞎+QQ号的格式
+
+制作龙瞎*    <?xml version='1.0' encoding='UTF-8' standalone='yes' ?><msg serviceID="1" templateID="14" action="plugin" actionData="AppCmd://OpenContactInfo/?uin=$回声$" a_actionData="mqqapi://card/show_pslcard?src_type=internal&amp;source=sharecard&amp;version=1&amp;uin=$回声$" i_actionData="mqqapi://card/show_pslcard?src_type=internal&amp;source=sharecard&amp;version=1&amp;uin=$回声$" brief="免费领取龙瞎" sourceMsgId="0" url="" flag="0" adverSign="0" multiMsgFlag="0"><item layout="5"><picture cover="http://u.candou.com/2016/0217/1455677284511.jpg" w="0" h="0" /><title size="25" color="#FF0000">恭喜获得龙的传人！</title></item><item layout="0"><hr hidden="false" style="0" /><title size="28" color="#FF0000">点击赞我十次自动充值！</title></item><source name="团队官方回馈活动" icon="http://url.cn/JS8oE7" action="" appid="0" /></msg>
+
+
+
+制作LOL     XXX【换行】请使用制作LOL+QQ号的格式
+
+制作LOL*    <?xml version='1.0' encoding='UTF-8' standalone='yes' ?><msg serviceID="1" templateID="14" action="plugin" actionData="AppCmd://OpenContactInfo/?uin=$回声$" a_actionData="mqqapi://card/show_pslcard?src_type=internal&amp;source=sharecard&amp;version=1&amp;uin=$回声$" i_actionData="mqqapi://card/show_pslcard?src_type=internal&amp;source=sharecard&amp;version=1&amp;uin=$回声$" brief="免费领取英雄" sourceMsgId="0" url="" flag="0" adverSign="0" multiMsgFlag="0"><item layout="5"><picture cover="http://ossweb-img.qq.com/upload/lol/commActCale/1457082708_1436653066_11147_sBigImgFile.jpg" w="0" h="0" /><title size="20" color="#FF0000">恭喜获得英雄1名！</title></item><item layout="0"><hr hidden="false" style="0" /><title size="28" color="#FF0000">点赞10次即可免费领取！</title></item><source name="英雄联盟官方回馈活动" icon="http://url.cn/JS8oE7" action="" appid="0" /></msg>
+
+
+
+制作超会     XXX【换行】请使用制作超会+QQ号的格式
+
+制作超会*    <?xml version='1.0' encoding='UTF-8' standalone='yes' ?><msg serviceID="1" templateID="14" action="plugin" actionData="AppCmd://OpenContactInfo/?uin=$回声$" a_actionData="mqqapi://card/show_pslcard?src_type=internal&amp;source=sharecard&amp;version=1&amp;uin=$回声$" i_actionData="mqqapi://card/show_pslcard?src_type=internal&amp;source=sharecard&amp;version=1&amp;uin=$回声$" brief="免费领取超会" sourceMsgId="0" url="" flag="0" adverSign="0" multiMsgFlag="0"><item layout="5"><picture cover="http://www.xiazaiba.com/uploadfiles/content/2015/0810/water_1439172531440709465344.jpg" w="0" h="0" /><title size="25" color="#FF0000">恭喜获得超级会员！</title></item><item layout="0"><hr hidden="false" style="0" /><title size="28" color="#FF0000">点击赞我十次自动充值！</title></item><source name="团队官方回馈活动" icon="http://url.cn/JS8oE7" action="" appid="0" /></msg>
+
+
+
+制作表白    XXX【换行】请使用制作表白+QQ号的格式
+
+制作表白*   <?xml version='1.0' encoding='UTF-8' standalone='yes' ?><msg serviceID="32" templateID="1" action="plugin" a_actionData="mqqapi://card/show_pslcard?src_type=internal&amp;source=sharecard&amp;version=1&amp;uin=$QQ无空格$" i_actionData="mqqapi://card/show_pslcard?src_type=internal&amp;source=sharecard&amp;version=1&amp;uin=$QQ无空格$" brief="有人表白快进来！" sourceMsgId="0" url="" flag="0" adverSign="0" multiMsgFlag="0"><item layout="1"><picture cover="http://t.cn/RJN8ajt" w="0" h="0" /></item><item layout="0"><summary size="27" color="#FF0000">Baby I Love You！</summary><hr hidden="false" style="0" /><summary size="27" color="#FF69B4">宝贝其实我爱你很久了！</summary><hr hidden="false" style="0" /><summary size="27" color="#DA70D6">今天我想在情人节跟你表白！</summary><hr hidden="false" style="0" /><summary size="27" color="#DA70D6">宝贝你知道吗每天我都在想你！</summary><hr hidden="false" style="0" /></item><item layout="3"><button>点我,就代表你同意了！嘻嘻</button></item><source name="" icon="" action="" appid="0" /></msg>
+
+
+
+浪漫表白  <?xml version='1.0' encoding='UTF-8' standalone='yes' ?><msg serviceID="1" templateID="83" action="web" brief="爱你的XXX" sourceMsgId="0" url="https://v.qq.com/x/page/d0374rxaecq.html" flag="0" adverSign="0" multiMsgFlag="0"><item layout="1"><picture cover="http://i1.piimg.com/1949/61394078cc62f483.jpg" w="0" h="0" /><hr hidden="false" style="0" /><title color="#FF0000">我爱你</title><hr hidden="false" style="0" /><title color="#FF0000">不管怎样</title><hr hidden="false" style="0" /><title color="#FF0000">不管你看没看到我对你的好</title><hr hidden="false" style="0" /><title color="#FF0000">我一直都会爱着你</title><hr hidden="false" style="0" /><title color="#FF0000">我会一直默默的保护你</title><hr hidden="false" style="0" /><title color="#FF0000">最爱你的XXX</title><hr hidden="false" style="0" /><title color="#FF0000">最后再点一下我哦！</title></item><source name="我一直爱你." icon="http://t.cn/RJukWS0" action="" appid="0" /></msg>
+
+
+
+制作通知    XXX【换行】请使用制作通知+QQ号的格式
+
+制作通知*   <?xml version='1.0' encoding='UTF-8' standalone='yes' ?><msg serviceID="60" templateID="1" action="plugin" actionData="AppCmd://OpenContactInfouin=10001" a_actionData="mqqapi://card/show_pslcard?src_type=internal&amp;source=sharecard&amp;version=1&amp;uin=$回声$" i_actionData="mqqapi://card/show_pslcard?src_type=internal&amp;source=sharecard&amp;version=1&amp;uin=$回声$" brief="腾讯温馨提醒" sourceMsgId="0" url="" flag="0" adverSign="0" multiMsgFlag="0"><item layout="0"><summary size="50" color="#FF0000">通知:</summary><summary color="000000">因本群传播淫秽色情暴力，</summary><summary color="000000">半夜不睡觉熬夜修仙装逼，</summary><summary color="000000">而且各种单身狗约炮搞基,</summary><summary color="000000">群成员不男不女影响社会风气,</summary><summary color="000000">严重违反国家、以及腾讯QQ群相关条例！！！</summary><summary color="000000">经过腾讯审核后本群将在今日9:00解散。</summary><summary color="000000">                     腾讯网监部</summary><summary color="000000">2017年3月14日</summary></item><source name="腾讯温馨提醒" icon="http://url.cn/JS8oE7" action="" appid="0" /></msg>
+
+
+
+制作红包A    XXX【换行】请使用制作红包A+QQ号的格式
+
+制作红包A*   <?xml version='1.0' encoding='UTF-8' standalone='yes' ?><msg serviceID="83" templateID="12345" action="plugin" a_actionData="mqqapi://card/show_pslcard?src_type=internal&amp;source=sharecard&amp;version=1&amp;uin=$回声$" i_actionData="mqqapi://card/show_pslcard?src_type=internal&amp;source=sharecard&amp;version=1&amp;uin=$回声$" brief="[QQ红包]恭喜发财" sourceMsgId="0" url="" flag="0" adverSign="0" multiMsgFlag="0"><item layout="0" mode="1"><picture cover="http://t.cn/RxwXsbE" w="0" h="0" /></item><item layout="0" /><item layout="0" /><source name="QQ红包个性版:点赞10次即可领取" icon="" action="" appid="-1" /></msg>
+
+
+
+制作红包B     XXX【换行】请使用制作红包B+QQ号的格式
+
+制作红包B*    <?xml version='1.0' encoding='UTF-8' standalone='yes' ?><msg serviceID="83" templateID="83" action="plugin" a_actionData="mqqapi://card/show_pslcard?src_type=internal&amp;source=sharecard&amp;version=1&amp;uin=$回声$" i_actionData="mqqapi://card/show_pslcard?src_type=internal&amp;source=sharecard&amp;version=1&amp;uin=$回声$" brief="[QQ红包]恭喜发财" sourceMsgId="0" url="" flag="0" adverSign="0" multiMsgFlag="0"><item layout="0" mode="1"><picture cover="http://url.cn/44QQ8Fj" w="0" h="0" /></item><item layout="0" /><item layout="0" /><source name="QQ红包个性版" icon="" action="" appid="-1" /></msg>
+
+
+
+制作红包C     XXX【换行】请使用制作红包C+QQ号+某某某的格式
+
+制作红包C*   <?xml version='1.0' encoding='UTF-8' standalone='yes' ?><msg serviceID="83" templateID="1" action="plugin" a_actionData="mqqapi://card/show_pslcard?src_type=internal&amp;source=sharecard&amp;version=1&amp;uin=$回声段落1$" i_actionData="mqqapi://card/show_pslcard?src_type=internal&amp;source=sharecard&amp;version=1&amp;uin=$回声段落1$" brief="[QQ红包]恭喜发财" sourceMsgId="0" url="" flag="0" adverSign="0" multiMsgFlag="0"><item layout="0" mode="1"><picture cover="http://img.alicdn.com/imgextra/i3/413198959/TB2bxcnhhdkpuFjy0FbXXaNnpXa_!!413198959.jpg" w="0" h="0" /><title></title><summary></summary></item><source name="$回声段落2$转发领取了8元红包 剩42元" icon="http://t.cn/RxW6FVB" action="app" i_actionData="tencent65520://" appid="65520" /></msg>
+
+
+
+制作群主     XXX【换行】请使用制作群主+QQ号的格式
+
+制作群主*    <?xml version='1.0' encoding='UTF-8' standalone='yes' ?><msg serviceID="83" templateID="1" action="plugin" a_actionData="mqqapi://card/show_pslcard?src_type=internal&amp;source=sharecard&amp;version=1&amp;uin=$回声$" i_actionData="mqqapi://card/show_pslcard?src_type=internal&amp;source=sharecard&amp;version=1&amp;uin=$回声$" brief="你已成为新群主和大家打个招呼吧" sourceMsgId="0" url="" flag="0" adverSign="0" multiMsgFlag="0"><item layout="0"><title size="1000" color="#000000"> </title></item><source name="你已成为新群主和大家打个招呼吧" icon="" action="" appid="-1" /></msg>
+
+
+
+制作王者荣耀    XXX【换行】请使用制作王者荣耀+QQ号的格式
+
+制作王者荣耀*   <?xml version='1.0' encoding='UTF-8' standalone='yes' ?><msg serviceID="71" templateID="1" action="web" brief="新消息" sourceMsgId="0" url="mqqapi://card/show_pslcard?src_type=internal&amp;source=sharecard&amp;version=1&amp;uin=$回声$" flag="0" adverSign="0" multiMsgFlag="0"><item layout="1"><picture cover="http://upload.gezila.com/data/20160912/25941473646354.jpg" w="0" h="0" /></item><item layout="1"><title size="30" color="999999">转发5次，直接领取英雄！</title></item><source name="王者荣耀" icon="http://url.cn/45q0mGX" action="" appid="0" /></msg>
+
+
+
+制作机器人      用户：XXX【换行】请使用制作机器人+群号的格式
+
+制作机器人*      <?xml version='1.0' encoding='UTF-8' standalone='yes'?><msg templateID="123" url="https://qun.qq.com/qqweb/m/qun/qun_robot/setting.html?_wv=512027&amp;_wwv=1&amp;_bid=2537&amp;gc=$回声$" serviceID="33" action="web" actionData="" brief="制作机器人" flag="8"><item layout="2"><picture cover="https://eps.gs/d7x" /><title>用户：XXX</title><summary>制作机器人成功！【换行】请点击本条消息开启</summary></item></msg>
+
+
+
+制作空间红包     制作空间红包+QQ
+
+制作空间红包*    <?xml version='1.0' encoding='UTF-8' standalone='yes' ?><msg6.0 serviceID="83" templateID="1" brief="[QQ红包]恭喜发财！" sourcemsg6.0Id="0" action="web" url="https://$回声$.qzone.qq.com" flag="0" adverSign="0" multimsg6.0Flag="0"><item layout="0"><picture cover="http://url.cn/44QQ8Fj" w="0" h="0" /></item> <source name="" icon="" action="" appid="-1" /></msg6.0>
+
+
